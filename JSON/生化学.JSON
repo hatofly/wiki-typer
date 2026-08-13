@@ -1,0 +1,1298 @@
+[
+  {
+    "term": "DNA",
+    "reading": [
+      "ディーエヌエー"
+    ],
+    "english": [
+      "DNA"
+    ],
+    "description": [
+      "デオキシリボ核酸。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "RNAポリメラーゼ",
+    "reading": [
+      "アールエヌエーポリメラーゼ"
+    ],
+    "english": [],
+    "description": [
+      "RNAを合成したり複製したりする酵素の総称。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アクチン",
+    "reading": [],
+    "english": [
+      "actin"
+    ],
+    "description": [
+      "螺旋状の多量体を形成してマイクロフィラメントの1種であるアクチンフィラメントを形作る球形のタンパク質。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アスピリン",
+    "reading": [],
+    "english": [
+      "aspirin"
+    ],
+    "description": [
+      "アセチルサリチル酸の商品名。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "アセチルコリン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "動物の主に神経組織や植物にも含まれる塩基性の物質。コリンの酢酸エステル。神経の情報伝達物質の一つ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アセチルサリチル酸",
+    "reading": [],
+    "english": [
+      "acetylsalicylic acid"
+    ],
+    "description": [
+      "サリチル酸を無水酢酸でアセチル化して得られる白色の結晶。示性式C₆H₄(COOH)OCOCH₃。解熱剤、鎮痛剤として利用される。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "アデニン",
+    "reading": [
+      "アデニン"
+    ],
+    "english": [
+      "adenine"
+    ],
+    "description": [
+      "核酸を構成するプリン塩基の一つ。分子式はC₅H₅N₅。DNAではチミンと、RNAではウラシルとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アドレナリン",
+    "reading": [
+      "アドレナリン"
+    ],
+    "english": [
+      "adrenaline"
+    ],
+    "description": [
+      "副腎髄質から分泌されるホルモン。交感神経を興奮させ、心拍数や血圧・血糖値の上昇や瞳孔を開く作用をする。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アミラーゼ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "澱粉を分解する酵素の総称。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アミロイド",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蛋白と多糖類の複合体。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "アンフェタミン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "中枢神経を興奮させる覚醒剤の一つ。連用により耐性ができ、量を増やさなければ効果がでなくなる。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "インシュリン",
+    "reading": [
+      "インスリン"
+    ],
+    "english": [
+      "insulin"
+    ],
+    "description": [
+      "膵臓に存在するランゲルハンス島のβ細胞から分泌されるペプチドホルモンの一種。主として炭水化物の代謝を調整する機能を有する。分泌や消費に異常が生じ、インシュリンが不足する病症例が糖尿病である。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "インターフェロン",
+    "reading": [
+      "インターフェロン"
+    ],
+    "english": [
+      "interferon"
+    ],
+    "description": [
+      "病原体や腫瘍細胞などに反応して生成され、それらの増殖を抑制する蛋白質。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "ウラシル",
+    "reading": [
+      "ウラシル"
+    ],
+    "english": [
+      "uracil"
+    ],
+    "description": [
+      "リボ核酸を構成するピリミジン塩基の一つ。分子式はC₄H₄N₂O₂。RNAで、アデニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "エストロゲン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "卵巣から分泌される女性ホルモン。発情を促し女性の性器や乳房を発達などの作用がある。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "エストロン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "卵巣から分泌される女性ホルモン。発情を促し、女性の更年期障害の治療などに利用される。"
+    ],
+    "category": [
+      "生化学",
+      "薬理学"
+    ]
+  },
+  {
+    "term": "エフェドリン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "麻黄に含まれるアルカロイドの一つ。白色の結晶で、劇薬。せき止め、喘息などの治療薬のほか、覚醒剤の原料となる。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "エンドルフィン",
+    "reading": [],
+    "english": [
+      "endorphin"
+    ],
+    "description": [
+      "哺乳類の脳や脳下垂体などに多く含まれ、脳内のオピエイト受容体と結合して鎮静作用を表す一群のペプチド。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "カタラーゼ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "多くの細胞に存在する過酸化水素を水と酸素に分解する反応の触媒する酵素。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "カロリー",
+    "reading": [],
+    "english": [
+      "calorie"
+    ],
+    "description": [
+      "熱量の単位のひとつ。水一グラムを摂氏温度で一度上げるのに必要な熱量を一とする。小カロリー。記号はcal, ㎈。主に栄養学で用いられ、国際単位系ではジュールが用いられる。",
+      "キロカロリー。大カロリー。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "キサンチン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "動物の内臓や血液、植物の果実などにあり、動物の体内で酸化されて尿酸となる。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "キシリトール",
+    "reading": [],
+    "english": [],
+    "description": [
+      "植物由来の成分キシランを原料とする甘味料。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "キニーネ",
+    "reading": [],
+    "english": [
+      "quinine"
+    ],
+    "description": [
+      "キナの樹皮から精製される無色で結晶のアルカロイド。苦味があり健胃剤、解熱剤などに使用され、マラリアの治療薬。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "クエン酸",
+    "reading": [
+      "くえんさん"
+    ],
+    "english": [
+      "citric acid"
+    ],
+    "description": [
+      "示性式 C(OH)(CH₂COOH)₂COOH、分子式 C₆H₈O₇で表される有機酸。無色・無臭の結晶で酸味を持つ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "クワシオルコル",
+    "reading": [],
+    "english": [
+      "kwashiorkor"
+    ],
+    "description": [
+      "蛋白質の欠乏により足の浮腫や腹部の膨張などを引き起こす栄養失調。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "グアニン",
+    "reading": [
+      "グアニン"
+    ],
+    "english": [
+      "guanine"
+    ],
+    "description": [
+      "核酸を構成するプリン塩基の一つ。分子式はC₅H₅N₅O。DNA又はRNAで、シトシンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "グラニュー糖",
+    "reading": [],
+    "english": [
+      "granulated sugar"
+    ],
+    "description": [
+      "細かい顆粒状で純度の高い砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "グルコース",
+    "reading": [],
+    "english": [
+      "glucose"
+    ],
+    "description": [
+      "単糖類の一つで、甘味のある無色の結晶。二種類あり、Ｄ‐グルコースはブドウ糖、L‐グルコースは人工的に作られたもの。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "ケラチン",
+    "reading": [],
+    "english": [
+      "keratin"
+    ],
+    "description": [
+      "毛、爪、うろこなどの角質層を形成する、蛋白質のひとつ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "コラーゲン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "動物の腱、軟骨、皮膚など結合組織を構成する線維状の硬たんぱく質。にかわの原料となる。膠原質。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "シトシン",
+    "reading": [
+      "シトシン"
+    ],
+    "english": [
+      "cytosine"
+    ],
+    "description": [
+      "核酸を構成するピリミジン塩基の一つ。分子式はC₄H₅N₃O。DNA又はRNAで、グアニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "シュガー",
+    "reading": [
+      "シュガー"
+    ],
+    "english": [],
+    "description": [
+      "砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "ジアスターゼ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "1833年フランスで初めて麦芽から分離されたアミラーゼ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "スクロース",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蔗糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "ズッケロ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "チアミン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ビタミンB1の化学名。"
+    ],
+    "category": [
+      "ビタミン"
+    ]
+  },
+  {
+    "term": "チミン",
+    "reading": [
+      "チミン"
+    ],
+    "english": [
+      "thymine"
+    ],
+    "description": [
+      "デオキシリボ核酸を構成するピリミジン塩基の一つ。分子式はC₅H₆N₂O₂。DNAで、アデニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "テストステロン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "主な男性ホルモン。精巣から分泌されるステロイドホルモン。男性の第二性徴を促す作用をもつ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "ドメイン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蛋白質ドメイン。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "ドーパミン",
+    "reading": [
+      "ドパミン"
+    ],
+    "english": [
+      "dopamine"
+    ],
+    "description": [
+      "運動調節、ホルモン調節、快の感情、意欲、学習などに関わる中枢神経系の神経伝達物質のひとつ。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "ヒストン",
+    "reading": [],
+    "english": [
+      "histone"
+    ],
+    "description": [
+      "真核生物の染色体を構成する塩基性タンパク質の一群。DNAを核内に収納する役割を担う。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "ビタミン",
+    "reading": [
+      "ビタミン"
+    ],
+    "english": [
+      "vitamin"
+    ],
+    "description": [
+      "生物の成長に必要な栄養素の内、脂質、炭水化物、蛋白質、アミノ酸などを除く有機化合物の総称。"
+    ],
+    "category": [
+      "ビタミン"
+    ]
+  },
+  {
+    "term": "ビタミンA",
+    "reading": [
+      "ビタミンエー"
+    ],
+    "english": [
+      "vitamin A"
+    ],
+    "description": [
+      "脂溶性ビタミンのひとつ。化学的にはレチノイドと呼ばれ、狭義にはレチノールのみを指す。うなぎやレバーに多く含まれ、欠乏すると夜盲症などの原因となる。"
+    ],
+    "category": [
+      "ビタミン"
+    ]
+  },
+  {
+    "term": "ビタミンC",
+    "reading": [
+      "ビタミンシー"
+    ],
+    "english": [
+      "vitamin C"
+    ],
+    "description": [
+      "水溶性ビタミンの一つ。有機化合物におけるL-アスコルビン酸を指す。"
+    ],
+    "category": [
+      "ビタミン",
+      "栄養",
+      "生化学"
+    ]
+  },
+  {
+    "term": "フルクトース",
+    "reading": [],
+    "english": [
+      "fructose",
+      "fruit sugar"
+    ],
+    "description": [
+      "六つの炭素をもつ単糖類。天然のものは果糖と呼ばれる。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "ブドウ糖",
+    "reading": [
+      "ぶどうとう"
+    ],
+    "english": [],
+    "description": [
+      "「葡萄糖」の別表記。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "ペプシン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "脊椎動物の胃液に含まれる酵素。酸性のなかで作用し、蛋白質を分解する。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "マルトース",
+    "reading": [],
+    "english": [],
+    "description": [
+      "麦芽糖"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "メタンフェタミン",
+    "reading": [],
+    "english": [
+      "methamphetamine"
+    ],
+    "description": [
+      "非常に中毒性のあるフェネチルアミン系覚醒剤。IUPAC名は、(S)-N-メチル-1-フェニルプロパン-2-アミンである。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "ラクトース",
+    "reading": [],
+    "english": [
+      "lactose"
+    ],
+    "description": [
+      "乳糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "リパーゼ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "膵液、胃液などに含まれ中性脂肪を加水分解し脂肪酸とグリセリンとに分解する消化酵素。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "上白糖",
+    "reading": [
+      "じょうはくとう"
+    ],
+    "english": [],
+    "description": [
+      "質が上等な白砂糖。ショ糖を主成分とし、水分と転化糖（ブドウ糖と果糖の混合物）をそれぞれ1%程度含んだ結晶状のもの。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "主作用",
+    "reading": [
+      "しゅさよう"
+    ],
+    "english": [],
+    "description": [
+      "医薬品の本来期待された作用。副作用に対していう。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "乳糖",
+    "reading": [
+      "にゅうとう"
+    ],
+    "english": [
+      "lactose"
+    ],
+    "description": [
+      "二糖類の低甘味度甘味料。哺乳類の母乳の中にある。ラクトース。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "二糖類",
+    "reading": [
+      "にとうるい"
+    ],
+    "english": [],
+    "description": [
+      "糖類のうち加水分解により二つの単糖類を生じるもの。二糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "副作用",
+    "reading": [
+      "ふくさよう",
+      "ふくさよー"
+    ],
+    "english": [
+      "adverse effect",
+      "side effect"
+    ],
+    "description": [
+      "薬品が人体などに与える作用のうち、本来の治療の目的とは異なるもの。主に有害な作用を指す。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "単糖類",
+    "reading": [
+      "たんとうるい"
+    ],
+    "english": [],
+    "description": [
+      "糖類のうち加水分解してそれ以上簡単な構造に分解できないもの。単糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "和三盆",
+    "reading": [
+      "わさんぼん"
+    ],
+    "english": [],
+    "description": [
+      "黄色味を帯びた上等の砂糖。香川、徳島の特産。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "唐三盆",
+    "reading": [
+      "とうさんぼん"
+    ],
+    "english": [],
+    "description": [
+      "外国から輸入された質の高い白砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "多糖類",
+    "reading": [
+      "たとうるい"
+    ],
+    "english": [],
+    "description": [
+      "糖類のうち2個以上の単糖類が結合したものであるが、特に澱粉などの高分子のもの。多糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "少糖類",
+    "reading": [
+      "しょうとうるい"
+    ],
+    "english": [],
+    "description": [
+      "糖類のうち単糖類が2個から10個程度結合したもの。オリゴ糖。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "果糖",
+    "reading": [
+      "かとう"
+    ],
+    "english": [
+      "fructose",
+      "fruit sugar"
+    ],
+    "description": [
+      "果実や蜂蜜に含まれる単糖類の一種。別名はフルクトース。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "栄養価",
+    "reading": [
+      "えいようか"
+    ],
+    "english": [],
+    "description": [
+      "食物、食品の中の栄養的な価値。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "栄養失調",
+    "reading": [
+      "えいようしっちょう",
+      "えーよーしっちょー"
+    ],
+    "english": [],
+    "description": [
+      "栄養素が不足し、身体に何らかの異常が発生している状態。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "栄養学",
+    "reading": [
+      "えいようがく"
+    ],
+    "english": [
+      "nutrition"
+    ],
+    "description": [
+      "食事や食品の中の栄養素が生命の維持および心身の健康の及ぼす影響など栄養について研究する学問。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "栄養素",
+    "reading": [
+      "えいようそ"
+    ],
+    "english": [],
+    "description": [
+      "生物が生命を維持し、成長するために栄養として体の外から取り入れる物質。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "榮養學",
+    "reading": [
+      "えいようがく"
+    ],
+    "english": [],
+    "description": [
+      "栄養学の漢字制限前の表記。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "毒薬",
+    "reading": [],
+    "english": [],
+    "description": [
+      "毒性があり、劇薬よりも作用が激しい薬物。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "氷砂糖",
+    "reading": [
+      "こおりざとう"
+    ],
+    "english": [],
+    "description": [
+      "純度の高い砂糖を水などに溶かし、ゆっくり水分をとばしてある程度の大きさの結晶とした食品。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "滋養",
+    "reading": [
+      "じよう",
+      "じよー"
+    ],
+    "english": [],
+    "description": [
+      "栄養となるもの。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "澱粉",
+    "reading": [
+      "でんぷん"
+    ],
+    "english": [
+      "starch"
+    ],
+    "description": [
+      "葉緑素を持つ植物が生産し養分として果実、葉、茎、根に貯蔵される炭水化物。動物にとって重要な栄養源となる。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "炭水化物",
+    "reading": [
+      "たんすいかぶつ"
+    ],
+    "english": [
+      "carbohydrate"
+    ],
+    "description": [
+      "炭素・水素・酸素からなる糖類及びその誘導体の総称。含水炭素。"
+    ],
+    "category": [
+      "炭水化物"
+    ]
+  },
+  {
+    "term": "甘蔗糖",
+    "reading": [
+      "かんしょとう"
+    ],
+    "english": [],
+    "description": [
+      "甘蔗（砂糖黍）の絞り汁を加工してつくられる砂糖。蔗糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "発酵",
+    "reading": [
+      "はっこう"
+    ],
+    "english": [
+      "fermentation"
+    ],
+    "description": [
+      "酵母などの微生物の作用により、有機化合物が分解すること。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "白砂糖",
+    "reading": [
+      "しろざとう"
+    ],
+    "english": [],
+    "description": [
+      "精製された白い粉末または固形の砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "相互作用",
+    "reading": [
+      "そうごさよう",
+      "インタラクション"
+    ],
+    "english": [
+      "interaction"
+    ],
+    "description": [
+      "蛋白質などの分子が特異的に会合すること。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "砂糖",
+    "reading": [
+      "さとう"
+    ],
+    "english": [
+      "sugar"
+    ],
+    "description": [
+      "サトウキビ、テンサイ、サトウカエデなどから得られる甘味料。糖の一種。蔗糖が主成分。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "粗目糖",
+    "reading": [
+      "ざらめとう"
+    ],
+    "english": [],
+    "description": [
+      "粒子は粗いが純度の高い砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "糖化",
+    "reading": [
+      "とうか"
+    ],
+    "english": [
+      "saccharification"
+    ],
+    "description": [
+      "澱粉やセルロースなどの炭水化物を酵素などの作用で分解し、糖類などに変化させること。また、その反応。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "糖質",
+    "reading": [
+      "とうしつ",
+      "とーしつ"
+    ],
+    "english": [
+      "saccharide"
+    ],
+    "description": [
+      "糖分を含む物質。炭水化物。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "糖類",
+    "reading": [
+      "とうるい",
+      "とーるい"
+    ],
+    "english": [],
+    "description": [
+      "単糖類と少糖類と多糖類の総称。狭義では遊離糖類、すなわち単糖類と二糖類を指す。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "脂肪",
+    "reading": [
+      "しぼう",
+      "しぼー"
+    ],
+    "english": [
+      "fat"
+    ],
+    "description": [
+      "パルミチン酸・ステアリン酸・オレイン酸等の、グリセリンエステルの混合物。動物体中、筋肉の間に介在する脂身と称する部分の大部を占める。比重は水より軽く、水には溶けないが、アルコール・エーテル・揮発油などには溶解する。水酸化ナトリウム又は過熱蒸気を以て鹼化すると、石鹼又はその成分である脂肪酸とグリセリンとを成生する。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "脂質",
+    "reading": [
+      "ししつ"
+    ],
+    "english": [],
+    "description": [
+      "脂肪やそれに類するような性質を有する物質の総称。"
+    ],
+    "category": [
+      "栄養"
+    ]
+  },
+  {
+    "term": "膠原質",
+    "reading": [
+      "こうげんしつ"
+    ],
+    "english": [],
+    "description": [
+      "コラーゲン。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "葉緑素",
+    "reading": [
+      "ようりょくそ"
+    ],
+    "english": [
+      "chlorophyll"
+    ],
+    "description": [
+      "緑色の植物や藻類などの細胞内にふくまれる緑色の色素。光合成を行うための重要なもの。クロロフィル。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "葡萄糖",
+    "reading": [
+      "ぶどうとう"
+    ],
+    "english": [],
+    "description": [
+      "糖の一種で、分子式:C₆H₁₂O₆で表される代表的な単糖、漢字の制限により一般には、ブドウ糖と表記する。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "蔗糖",
+    "reading": [
+      "しょとう",
+      "しょとー"
+    ],
+    "english": [],
+    "description": [
+      "砂糖黍、砂糖大根などからつくられる砂糖。スクロース。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "薩摩",
+    "reading": [
+      "さつま"
+    ],
+    "english": [],
+    "description": [
+      "砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "角砂糖",
+    "reading": [
+      "かくざとう"
+    ],
+    "english": [],
+    "description": [
+      "白砂糖を立方体に固めたもの。着色したものや立方体以外のものもある。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "解糖",
+    "reading": [
+      "かいとう"
+    ],
+    "english": [],
+    "description": [
+      "生体内で炭水化物が嫌気的に乳酸などに分解されること。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "酵素",
+    "reading": [
+      "こうそ",
+      "こーそ"
+    ],
+    "english": [
+      "enzyme"
+    ],
+    "description": [
+      "触媒作用をもち、生化学反応に関わる生体物質。主にタンパク質であるが、RNAにもリボザイムと呼ばれる酵素活性を持つ分子種がある。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "醱酵",
+    "reading": [
+      "はっこう"
+    ],
+    "english": [],
+    "description": [
+      "酵母などの微生物の作用により、有機化合物が分解すること。"
+    ],
+    "category": [
+      "生化学"
+    ]
+  },
+  {
+    "term": "鎮静剤",
+    "reading": [
+      "ちんせいざい"
+    ],
+    "english": [
+      "tranquilizer"
+    ],
+    "description": [
+      "大脳皮質の中枢神経の異常な興奮を静める薬剤。鎮静薬。"
+    ],
+    "category": [
+      "薬理学"
+    ]
+  },
+  {
+    "term": "食物繊維",
+    "reading": [
+      "しょくもつせんい"
+    ],
+    "english": [
+      "dietary fiber",
+      "dietary fibre"
+    ],
+    "description": [
+      "食物に含まれる成分のなかで消化酵素で分解できないもの。整腸作用がある。"
+    ],
+    "category": [
+      "炭水化物"
+    ]
+  },
+  {
+    "term": "麦芽糖",
+    "reading": [
+      "ばくがとう"
+    ],
+    "english": [],
+    "description": [
+      "澱粉を麦芽に含まれる酵素により糖化して得られる二糖類の一つ。みずあめの原料。マルトース。"
+    ],
+    "category": [
+      "糖類"
+    ]
+  },
+  {
+    "term": "黒砂糖",
+    "reading": [
+      "くろざとう"
+    ],
+    "english": [],
+    "description": [
+      "精製されていない褐色の砂糖。黒糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  },
+  {
+    "term": "黒糖",
+    "reading": [
+      "こくとう"
+    ],
+    "english": [],
+    "description": [
+      "砂糖黍の絞り汁を煮て、まだ精製していない黒っぽい砂糖。黒砂糖。"
+    ],
+    "category": [
+      "砂糖"
+    ]
+  }
+]

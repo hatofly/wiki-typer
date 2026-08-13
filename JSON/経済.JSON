@@ -1,0 +1,11335 @@
+[
+  {
+    "term": "100円ショップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品を100円に均一して販売する店舗。百均。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "100均",
+    "reading": [
+      "ひゃっきん"
+    ],
+    "english": [],
+    "description": [
+      "百均の別表記。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "103万円の壁",
+    "reading": [
+      "ひゃくさんまんえんのかべ"
+    ],
+    "english": [],
+    "description": [
+      "年収が103万円以上になることで所得税の配偶者控除の対象から外れ、配偶者特別控除に移行することから、年収がこの金額を下回るように勤務時間を調整する者がいることを比喩的に表した表現。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "106万円の壁",
+    "reading": [
+      "ひゃくろくまんえんのかべ"
+    ],
+    "english": [],
+    "description": [
+      "年収が106万円以上になることで健康保険の被用者保険保険料の支払い義務が生じることから、年収がこの金額を下回るように勤務時間を調整する者がいることを比喩的に表した表現。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "130万円の壁",
+    "reading": [
+      "ひゃくさんじゅうまんえんのかべ"
+    ],
+    "english": [],
+    "description": [
+      "年収が130万円以上になることで健康保険や国民年金の扶養から外れることから、年収がこの金額を下回るように勤務時間を調整する者がいることを比喩的に表した表現。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "1Q",
+    "reading": [],
+    "english": [
+      "Q1",
+      "1Q"
+    ],
+    "description": [
+      "第一四半期。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "2Q",
+    "reading": [],
+    "english": [
+      "Q2",
+      "2Q"
+    ],
+    "description": [
+      "第二四半期。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "3Q",
+    "reading": [],
+    "english": [
+      "Q3",
+      "3Q"
+    ],
+    "description": [
+      "第三四半期"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "4Q",
+    "reading": [],
+    "english": [
+      "Q4",
+      "4Q"
+    ],
+    "description": [
+      "第四四半期"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "A券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で1946年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "B/S",
+    "reading": [
+      "ビーエス"
+    ],
+    "english": [],
+    "description": [
+      "Balance Sheet の略。バランスシート、貸借対照表のこと。"
+    ],
+    "category": [
+      "会計",
+      "経済"
+    ]
+  },
+  {
+    "term": "BRIC",
+    "reading": [
+      "ブリック"
+    ],
+    "english": [],
+    "description": [
+      "ブラジル (Brazil)、ロシア (Russia)、インド（India)、中華人民共和国 (China)の新興国4か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "BRICS",
+    "reading": [
+      "ブリックス"
+    ],
+    "english": [],
+    "description": [
+      "ブラジル (Brazil)、ロシア (Russia)、インド（India)、中華人民共和国 (China)、南アフリカ共和国 (South Africa)の新興国5か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "BRICs",
+    "reading": [
+      "ブリックス"
+    ],
+    "english": [],
+    "description": [
+      "ブラジル (Brazil)、ロシア (Russia)、インド（India)、中華人民共和国 (China)の新興国4か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "B券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で1950年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "CF",
+    "reading": [
+      "シーエフ"
+    ],
+    "english": [],
+    "description": [
+      "Cash Flow Statementの略。キャッシュ・フロー計算書。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "CIVETS",
+    "reading": [
+      "シベッツ"
+    ],
+    "english": [],
+    "description": [
+      "コロンビア (Colombia)、インドネシア (Indonesia)、ベトナム（Vietnam)、エジプト (Egypt)、トルコ (Turkey)、南アフリカ共和国 (South Africa)の新興国6か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "CVP分析",
+    "reading": [],
+    "english": [],
+    "description": [
+      "管理会計で原価・販売量・利益の関係の分析を行うこと。損益分岐計算。CVPはCost、Volume、Profitの略。"
+    ],
+    "category": [
+      "会計",
+      "経済"
+    ]
+  },
+  {
+    "term": "C券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で1957年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "D券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で1984年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "E券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で2004年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "F券",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本で2024年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "G0",
+    "reading": [
+      "ジーゼロ"
+    ],
+    "english": [],
+    "description": [
+      "世界に一つも超大国が存在しない状態。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G10",
+    "reading": [
+      "ジーテン"
+    ],
+    "english": [],
+    "description": [
+      "冷戦時代のヨーロッパでオーストリア、ベルギー、ブルガリア、デンマーク、フィンランド、ハンガリー、オランダ、ルーマニア、スウェーデン、ユーゴスラビアの10か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G11",
+    "reading": [
+      "ジーイレブン"
+    ],
+    "english": [],
+    "description": [
+      "ヨルダン、クロアチア、エクアドル、ジョージア、エルサルバドル、ホンジュラス、インドネシア、モロッコ、パキスタン、パラグアイ、スリランカの11か国の総称。また、これらの国々で行われるフォーラム。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G12",
+    "reading": [
+      "ジートウェルブ"
+    ],
+    "english": [],
+    "description": [
+      "G10（語義2）にオーストラリアとスペインを加えた12か国の総称。また、これにスイスを加えた13か国で行われる国際会議。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G14",
+    "reading": [
+      "ジーフォーティーン"
+    ],
+    "english": [],
+    "description": [
+      "G7にロシア、中華人民共和国、インド、ブラジル、メキシコ、南アフリカ共和国、エジプトを加えた14か国。また、この14か国で行われるサミットの構想。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G15",
+    "reading": [
+      "ジーフィフティーン"
+    ],
+    "english": [],
+    "description": [
+      "ナイジェリア、アルジェリア、リビア、セネガル、ジンバブエ、ケニア、ブラジル、メキシコ、ジャマイカ、アルゼンチン、チリ、ベネズエラ、インドネシア、イラン、マレーシア、スリランカ、インドの17か国の総称。また、これらの国々で行われる国際会議。元々はユーゴスラビアを含み、チリ、イラン、ケニアを除く15か国であった。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G2",
+    "reading": [
+      "ジーツー"
+    ],
+    "english": [],
+    "description": [
+      "超大国としてのアメリカ合衆国、中華人民共和国の2か国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G20",
+    "reading": [
+      "ジートウェンティ"
+    ],
+    "english": [],
+    "description": [
+      "G7にロシア、中華人民共和国、インド、ブラジル、メキシコ、南アフリカ共和国、アルゼンチン、オーストラリア、インドネシア、大韓民国、サウジアラビア、トルコを加えた19か国、並びにヨーロッパ連合と2023年に参加したアフリカ連合の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G3",
+    "reading": [
+      "ジースリー"
+    ],
+    "english": [],
+    "description": [
+      "世界全体、もしくはある地域において政治的・経済的に重要な3つの国・地域。世界全体におけるアメリカ合衆国・中華人民共和国・ヨーロッパ連合、ヨーロッパ連合におけるフランス、イタリア、ドイツなど。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G4",
+    "reading": [
+      "ジーフォー"
+    ],
+    "english": [],
+    "description": [
+      "日本、インド、ブラジル、ドイツの4か国。国際連合安全保障理事会の常任理事国入りを目指している。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G5",
+    "reading": [
+      "ジーファイブ"
+    ],
+    "english": [],
+    "description": [
+      "日本、アメリカ合衆国、イギリス、フランス、ドイツ（1990年までは西ドイツ）の先進国5か国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G6",
+    "reading": [
+      "ジーシックス"
+    ],
+    "english": [],
+    "description": [
+      "日本、アメリカ合衆国、イギリス、フランス、西ドイツ、イタリアの先進国6か国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G7",
+    "reading": [
+      "ジーセブン"
+    ],
+    "english": [],
+    "description": [
+      "日本、アメリカ合衆国、イギリス、フランス、ドイツ（1990年までは西ドイツ）、カナダ、イタリアの先進国7か国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G77",
+    "reading": [
+      "ジーセブンティセブン"
+    ],
+    "english": [],
+    "description": [
+      "発展途上国135か国（当初は77か国）の総称。また、これらの国々による連合体。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G8",
+    "reading": [
+      "ジーエイト"
+    ],
+    "english": [],
+    "description": [
+      "日本、アメリカ合衆国、イギリス、フランス、ドイツ、カナダ、イタリア、ロシアの主要国8か国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "G9",
+    "reading": [
+      "ジーナイン"
+    ],
+    "english": [],
+    "description": [
+      "冷戦時代のヨーロッパでオーストリア、ベルギー、ブルガリア、デンマーク、フィンランド、ハンガリー、オランダ、ルーマニア、スウェーデンの9か国の総称。後にユーゴスラビアを含めG10と呼ばれるようになった。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "GDP",
+    "reading": [
+      "ジーディーピー"
+    ],
+    "english": [],
+    "description": [
+      "国内総生産。一定期間内に国内で産み出された付加価値の総額。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "NAFTA",
+    "reading": [
+      "ナフタ"
+    ],
+    "english": [],
+    "description": [
+      "北米自由貿易協定（1994年発効、2020年失効）。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "NEXT11",
+    "reading": [
+      "ネクストイレブン"
+    ],
+    "english": [],
+    "description": [
+      "イラン、インドネシア、エジプト、トルコ、ナイジェリア、パキスタン、バングラデシュ、フィリピン、ベトナム、メキシコ、大韓民国の新興国11か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "P/L",
+    "reading": [
+      "ピーエル"
+    ],
+    "english": [],
+    "description": [
+      "Profit and Loss Staterment の略。損益計算書のこと。"
+    ],
+    "category": [
+      "会計",
+      "経済"
+    ]
+  },
+  {
+    "term": "PIIGS",
+    "reading": [
+      "ピーグス"
+    ],
+    "english": [],
+    "description": [
+      "ポルトガル（Portugal)、イタリア (Italy)、アイルランド (Ireland)、ギリシャ (Greece)、スペイン (Spain)の5か国の総称。世界金融危機からの立ち直りが難しい国とされた。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "VISTA",
+    "reading": [
+      "ヴィスタ"
+    ],
+    "english": [],
+    "description": [
+      "ベトナム（Vietnam)、インドネシア (Indonesia)、南アフリカ共和国 (South Africa)、トルコ (Turkey)、アルゼンチン (Argentine)の新興国5か国の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "あおものや",
+    "reading": [],
+    "english": [
+      "vegetable",
+      "fruit",
+      "shop"
+    ],
+    "description": [
+      "青物を売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "あまみどころ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "甘い菓子や飲料を作って客に提供する飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "いざかや",
+    "reading": [],
+    "english": [
+      "bar",
+      "inn",
+      "pub",
+      "tavern"
+    ],
+    "description": [
+      "簡単な料理を食べさせたり、安い酒を飲ませたりする簡易な酒場。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "いとや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "糸を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "い号券",
+    "reading": [
+      "いごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1942年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "うおだな",
+    "reading": [],
+    "english": [],
+    "description": [
+      "魚を売る店。さかなや。さかなだな。さかないち。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "うどんや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "饂飩を食べさせる店。その料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "うなぎや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "鰻料理を提供する店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "うりあげ",
+    "reading": [
+      "うりあげ"
+    ],
+    "english": [],
+    "description": [
+      "商品を売ったときに得られる代金。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "うりあげだか",
+    "reading": [
+      "うりあげだか"
+    ],
+    "english": [],
+    "description": [
+      "商品の販売やサービスにより得た金額。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "うりたたく",
+    "reading": [],
+    "english": [],
+    "description": [
+      "相場を下げるため安値で多く売る。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "おうぎや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "扇を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "おおびけ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "株式市場で1日の最後の取引。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "おけや",
+    "reading": [],
+    "english": [
+      "cooper"
+    ],
+    "description": [
+      "桶を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "おこのみやきや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "お好み焼きを食べさせる店。その料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "おにぎりや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "御握りを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "おむすびや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "御結びを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "おもちゃや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "玩具を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "おわりね",
+    "reading": [],
+    "english": [],
+    "description": [
+      "株式市場で1日の取引の最後に付いた価格。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "かいうめ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "信用取引や先物取引、商品取引所の売買取引において売り約定をしても未決済のままの時に、現物の引き渡しをせず、買い取って決済すること。買い戻し。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "かいもどし",
+    "reading": [],
+    "english": [],
+    "description": [
+      "信用取引や先物取引、商品取引所の売買取引において売り約定をしても未決済のままの時に、現物の引き渡しをせず、買い取って決済すること。買い埋め。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "かぎや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "錠前や鍵を作って売る店。",
+      "鍵を使わずに開錠を行う店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "かしかた",
+    "reading": [],
+    "english": [
+      "credits"
+    ],
+    "description": [
+      "複式簿記での勘定口座の右側。かつては、「貸」ということに意味があったが、簿記技術が発展するにしたがってその意味は薄れ、資産の減少、負債の増加、純資産の増加、収益の発生を記す欄になった。左側は借方。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "かぶ",
+    "reading": [],
+    "english": [
+      "stock"
+    ],
+    "description": [
+      "株式、株券。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "かまぼこや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蒲鉾を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "からあげや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "唐揚げを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "かりかた",
+    "reading": [],
+    "english": [
+      "debits"
+    ],
+    "description": [
+      "複式簿記での勘定口座の左側。かつては、「借」ということに意味があったが、簿記技術が発展するにしたがってその意味は薄れ、資産の増加、負債の減少、純資産の減少、費用の発生を記す欄になった。右側は貸方。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "きものや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "着物を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "くすりや",
+    "reading": [],
+    "english": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "description": [
+      "薬を売る店。薬を売る人。「薬局」などと比べて平俗で親しみやすいニュアンスがある。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "くだものや",
+    "reading": [],
+    "english": [
+      "fruit store",
+      "fruiterer"
+    ],
+    "description": [
+      "果物を売る店。果物を売る人。水菓子屋。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "くつや",
+    "reading": [],
+    "english": [
+      "shoe shop",
+      "shoe store",
+      "shoemaker",
+      "cobbler"
+    ],
+    "description": [
+      "靴を作って売る店。靴を修理する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "くりこし",
+    "reading": [],
+    "english": [],
+    "description": [
+      "簿記で計算結果を次のページに書き送ること。",
+      "勘定を次期に持ち越すこと。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "くろ",
+    "reading": [
+      "くろ"
+    ],
+    "english": [
+      "black",
+      "sable"
+    ],
+    "description": [
+      "黒字。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "けはい",
+    "reading": [
+      "けはい"
+    ],
+    "english": [
+      "indication",
+      "sign"
+    ],
+    "description": [
+      "証券取引所において相場の人気。市場の模様。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "こいや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "鯉料理を提供する店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "こがね",
+    "reading": [
+      "こがね"
+    ],
+    "english": [],
+    "description": [
+      "大判、小判などの金貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "こぜに",
+    "reading": [
+      "こぜに"
+    ],
+    "english": [
+      "small",
+      "money",
+      "change",
+      "おつり"
+    ],
+    "description": [
+      "少額の細かい金銭。ばら銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "こめや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "米を売る店。米を売る人。米穀商。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "さかなや",
+    "reading": [],
+    "english": [
+      "fishmonger"
+    ],
+    "description": [
+      "海産物を売る店。海産物を売る人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "さかば",
+    "reading": [],
+    "english": [],
+    "description": [
+      "客に主にアルコール類を提供する飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "さかや",
+    "reading": [
+      "さかや"
+    ],
+    "english": [
+      "bottle shop",
+      "liquor store"
+    ],
+    "description": [
+      "酒を売る店。また。その人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "しおや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "食塩を売る店舗、人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "しきり",
+    "reading": [],
+    "english": [],
+    "description": [
+      "決算すること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "しごとぎ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "仕事をする際に着用するその仕事に適した衣服。仕事服。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "すきやきや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "すき焼きを提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "すしどころ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "寿司屋。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "すしや",
+    "reading": [
+      "すしや"
+    ],
+    "english": [],
+    "description": [
+      "寿司を主に出している料理店、料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "そこね",
+    "reading": [],
+    "english": [],
+    "description": [
+      "相場で最低の値段。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "そばどころ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蕎麦屋。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "そばや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "蕎麦や饂飩などの麺類を食べさせる店。その料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "たこやきや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "たこ焼きを作って売る店。その料理人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "たたみや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "畳を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ただばたらき",
+    "reading": [],
+    "english": [],
+    "description": [
+      "報酬を受けずに働くこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "たなおろし",
+    "reading": [],
+    "english": [
+      "inventory",
+      "stocktake",
+      "stocktaking",
+      "clearance"
+    ],
+    "description": [
+      "商品の在庫有高のチェックと現在価値の見積もりを行なって、帳簿高と照合すること。インベントリー。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "たばこや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "煙草や喫煙具を販売する店舗、人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "たまや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "宝玉を作って売る店。たますり。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "たるや",
+    "reading": [],
+    "english": [
+      "cooper"
+    ],
+    "description": [
+      "樽を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "たんす預金",
+    "reading": [
+      "たんすよきん"
+    ],
+    "english": [],
+    "description": [
+      "箪笥預金の表記揺れ。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "だら",
+    "reading": [],
+    "english": [],
+    "description": [
+      "貨幣、硬貨。",
+      "大きな銀貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ちからしごと",
+    "reading": [],
+    "english": [],
+    "description": [
+      "重たい物を持ち運ぶような、腕力や体力を必要とする仕事。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ちゃんこなべや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ちゃんこ鍋を提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "つけものや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "漬物を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "てんぷらや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "天ぷらを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "とこや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "理髪店。理容店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "なべや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "鍋を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "のみや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "酒を飲ませることを目的とした小さな店"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "のりや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "海苔を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "はじめね",
+    "reading": [],
+    "english": [],
+    "description": [
+      "株式市場で1日の取引の最初に付いた価格。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "はつうり",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商店がその年初めて開店し、商品を売ること。また、その際の安売り。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "はなや",
+    "reading": [],
+    "english": [
+      "florist's",
+      "flower shop"
+    ],
+    "description": [
+      "花を売る店。花を売る人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "はりや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "針を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "はりや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "建材の張り替えを行う店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "は号券",
+    "reading": [
+      "はごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1945年に発行が開始される予定であった紙幣。実際に発行される前に中止された。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ひものや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品として干物を専門または中心として扱う店。また、その商人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ふりかえ",
+    "reading": [
+      "ふりかえ"
+    ],
+    "english": [],
+    "description": [
+      "ある勘定を他の勘定に移すこと。"
+    ],
+    "category": [
+      "簿記"
+    ]
+  },
+  {
+    "term": "ふるぎや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "古着を売買する商人。また、その店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ふろや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "風呂の設備や道具を売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "まくらや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "枕を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ますや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "枡を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ますや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "鱒料理を提供する店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "むすびや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "結びを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "もちや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "餅を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "もつなべや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "もつ鍋を提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "やおや",
+    "reading": [],
+    "english": [
+      "vegetable",
+      "fruit",
+      "shop",
+      "greengrocer"
+    ],
+    "description": [
+      "野菜や果物を売る店。野菜や果物を売る人"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "やきいもや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "焼き芋を売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "やきそばや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "やきそばを食べさせる店、料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "やきとりや",
+    "reading": [],
+    "english": [],
+    "description": [
+      "焼き鳥を食べさせる店。その料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "よなべ",
+    "reading": [
+      "よなべ"
+    ],
+    "english": [],
+    "description": [
+      "夜に家事や仕事をすること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "よりつき",
+    "reading": [
+      "よりつき"
+    ],
+    "english": [],
+    "description": [
+      "取引所における取引開始後最初の売買。そのときに成立した値段。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ろ号券",
+    "reading": [
+      "ろごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1943年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "アイス屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "アイスを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "アウトソーシング",
+    "reading": [],
+    "english": [
+      "outsourcing"
+    ],
+    "description": [
+      "業務の一部を外部組織に委託する契約。外部調達。外注。外部委託。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "アウレウス",
+    "reading": [],
+    "english": [
+      "aureus"
+    ],
+    "description": [
+      "古代ローマで用いられた金貨。デナリウス銀貨25枚に相当。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "アカウンティング",
+    "reading": [],
+    "english": [],
+    "description": [
+      "会計学、会計、経理。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "アグリー",
+    "reading": [],
+    "english": [
+      "approval",
+      "favor"
+    ],
+    "description": [
+      "同意、承諾。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "アドバンス",
+    "reading": [
+      "アドヴァンス"
+    ],
+    "english": [],
+    "description": [
+      "手付金、前借り。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "アプローチ",
+    "reading": [
+      "アプローチ"
+    ],
+    "english": [],
+    "description": [
+      "話をもちかける。交渉する。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "アポイントメント",
+    "reading": [],
+    "english": [],
+    "description": [
+      "会合の約束、予約。",
+      "官職、任務。"
+    ],
+    "category": [
+      "ビジネス",
+      "労働"
+    ]
+  },
+  {
+    "term": "アルバイト",
+    "reading": [
+      "アルバイト"
+    ],
+    "english": [
+      "part-time job"
+    ],
+    "description": [
+      "就労形態またはそのような就労形態にある人をさす俗称で、学生や会社員と言った本業とするものが他にあり、その合間に有償の労働に就くこと。片手間の仕事。副業。",
+      "語義3の拡張用法で、正社員又は派遣契約以外の形態での労働、また労働者。時間決め労働。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "アレンジャー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融の手はずを整える主幹事。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "アーリーリタイア",
+    "reading": [],
+    "english": [],
+    "description": [
+      "定年より前に仕事を引退すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "イメクラ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "イメージクラブ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "イメージクラブ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "現実には考え難い状況を再現して性的なサービスを行う風俗店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "インターネットカフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "個別に区切られ、インターネットに接続されたパソコンを置いた部屋を有料で利用できる飲食店。ネットカフェ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "インフレターゲット",
+    "reading": [],
+    "english": [],
+    "description": [
+      "中央銀行が景気の回復のために、デフレ・スパイラルに陥るのを防ぐ方法としてインフレ率の目標を設定し公表すること。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "インフレーション",
+    "reading": [],
+    "english": [
+      "inflation"
+    ],
+    "description": [
+      "通貨膨張。特定の財ではなく一般的な物価の上昇が継続する状況。インフレと略されることが多い。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "インボイス",
+    "reading": [
+      "インボイス"
+    ],
+    "english": [],
+    "description": [
+      "売り手が買い手に対し発行し、商品名、数量、金額などが記載された明細書、請求書、納品書などを兼ねた書類。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "インポート",
+    "reading": [],
+    "english": [],
+    "description": [
+      "輸入。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "イールド",
+    "reading": [],
+    "english": [],
+    "description": [
+      "利回り。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ウォン",
+    "reading": [
+      "ウォン"
+    ],
+    "english": [
+      "won"
+    ],
+    "description": [
+      "大韓民国および朝鮮民主主義人民共和国の通貨の単位。記号₩。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "エクイティ",
+    "reading": [
+      "エクイティ"
+    ],
+    "english": [],
+    "description": [
+      "普通株。",
+      "純粋価格。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "エクスポート",
+    "reading": [],
+    "english": [],
+    "description": [
+      "輸出。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "エコノミクス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "経済学。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "エコノミー",
+    "reading": [
+      "エコノミー"
+    ],
+    "english": [],
+    "description": [
+      "経済。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "エスクード",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ポルトガル・カーボベルデで使用されている（されていた）通貨及び通貨単位の名称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "オフィスビル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "主に企業の事務所が入居しているビル。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "オフバランス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "貸借対照表に記載されない。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "オプション",
+    "reading": [
+      "オプション"
+    ],
+    "english": [
+      "option",
+      "financial",
+      "commodity"
+    ],
+    "description": [
+      "金融取引や商品取引において、将来のある時点に、前もって決めた価格で買う又は売ることのできる権利。権利保有者の選択により、買う又は売ることを決めることができるので、権利保有者に義務となることはない。オプション取引。"
+    ],
+    "category": [
+      "経済",
+      "金融"
+    ]
+  },
+  {
+    "term": "オペ",
+    "reading": [
+      "オペ"
+    ],
+    "english": [],
+    "description": [
+      "オペレーション。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "オンバランス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "貸借対照表に計上されていること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "オーストラリアドル",
+    "reading": [],
+    "english": [
+      "Australian dollar"
+    ],
+    "description": [
+      "オーストラリア、ナウル、ツバル、キリバスで用いられている通貨。オージー。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "カナダドル",
+    "reading": [
+      "かなだどる"
+    ],
+    "english": [],
+    "description": [
+      "カナダの法定通貨。"
+    ],
+    "category": [
+      "経済",
+      "通貨",
+      "金融"
+    ]
+  },
+  {
+    "term": "カフェ",
+    "reading": [
+      "かふぇ"
+    ],
+    "english": [
+      "café"
+    ],
+    "description": [
+      "コーヒーなどを飲ませる飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "カルテル",
+    "reading": [
+      "カルテル"
+    ],
+    "english": [
+      "cartel"
+    ],
+    "description": [
+      "企業連合 : 独占の形態のひとつで、企業間の協定等により、市場に対する価格、供給量、供給市場等を、当該企業間で調整すること。大概の国においては、独占禁止法またはそれに順ずる法律で「不当な取引制限」と呼ばれ、原則として禁止されている。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "カレー屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "カレーを提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "キャッシュ",
+    "reading": [
+      "キャッシュ"
+    ],
+    "english": [],
+    "description": [
+      "現金、現生。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "キャッシュ・フロー",
+    "reading": [
+      "キャッシュ",
+      "フロー"
+    ],
+    "english": [],
+    "description": [
+      "一定期間の現金の流れ。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "キャッシング",
+    "reading": [],
+    "english": [],
+    "description": [
+      "主に金融機関が個人向けにATMなどを通じて行う小口の金融。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "キャットカフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "猫カフェ。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "キャップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "上限。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "キャバクラ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "キャバレーとクラブを合わせ持つような風俗店の一つ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "キャバレー",
+    "reading": [
+      "キャバレー"
+    ],
+    "english": [
+      "cabaret"
+    ],
+    "description": [
+      "ダンスをするホールや舞台のある酒場。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "キャピタリスト",
+    "reading": [],
+    "english": [],
+    "description": [
+      "資本家。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ギニー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "1663年から1813年までイギリスでアフリカとの貿易のため鋳造された金貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ギルダー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "オランダの旧通貨単位。ユーロ導入により廃止。グルデン。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "クリーニング屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "依頼を受けたものを洗濯することを業とする者。また、その店舗。洗濯屋。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "クリーニング店",
+    "reading": [],
+    "english": [],
+    "description": [
+      "クリーニングを行う、またはその取り次ぎを行う施設、店舗。クリーニング所。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "クリーニング所",
+    "reading": [],
+    "english": [],
+    "description": [
+      "クリーニングを行う施設、店舗。クリーニング店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "クルゼイロ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ブラジルで使用されていた通貨及び通貨単位の名称。1994年「レアル」の導入により廃止。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "クレヒス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "クレジットヒストリー。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "クローネ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ノルウェー・デンマークの通貨及び通貨単位の名称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "クーナ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "クロアチアのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "グルデン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "オランダの旧通貨単位。ユーロ導入により廃止。ギルダー。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ケーキ屋",
+    "reading": [
+      "けーきや"
+    ],
+    "english": [
+      "cake shop",
+      "pastry chef"
+    ],
+    "description": [
+      "ケーキを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ケーキ店",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ケーキを販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "コスト",
+    "reading": [],
+    "english": [],
+    "description": [
+      "何かを作るのにかかる費用。原価。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "コミットメントライン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "融資枠。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "コミュニスト",
+    "reading": [],
+    "english": [],
+    "description": [
+      "共産主義者。"
+    ],
+    "category": [
+      "共産主義"
+    ]
+  },
+  {
+    "term": "コルナ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "チェコの通貨。",
+      "スロバキアのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "コンツェルン",
+    "reading": [],
+    "english": [
+      "concern"
+    ],
+    "description": [
+      "企業連携。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "コールマネー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融機関の、コール市場での当座借入金。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "コールレート",
+    "reading": [],
+    "english": [],
+    "description": [
+      "短期融資市場の金利。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "コールローン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融機関の、コール市場での当座貸付金。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "コール市場",
+    "reading": [],
+    "english": [],
+    "description": [
+      "コール資金が取引される市場。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "コール資金",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融機関の間で極めて短期に貸借される資金。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ゴーファー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "日本円と米ドルの組。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "サスティナブル",
+    "reading": [
+      "サステナブル",
+      "サステイナブル",
+      "サステーナブル"
+    ],
+    "english": [],
+    "description": [
+      "企業などが、一時的な利益動向のみに振り回されず、永続的な存在を保つことができるさま。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "サステナブル",
+    "reading": [
+      "サスティナブル",
+      "サステイナブル",
+      "サステーナブル"
+    ],
+    "english": [],
+    "description": [
+      "企業などが、一時的な利益動向のみに振り回されず、永続的な存在を保つことができるさま。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "サビ残",
+    "reading": [],
+    "english": [],
+    "description": [
+      "サービス残業。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "サブプライム",
+    "reading": [],
+    "english": [
+      "subprime"
+    ],
+    "description": [
+      "サブプライム・ローン、サブプライム・モーゲージの略。米国における、信用度が低い借り手に対する高金利の貸し付け、特に住宅貸し付けを指す場合が多い。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "サプライ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品を市場に出すこと。供給。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "サラリー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "（勤務先から決まって支給される）給料。俸給。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "サラリーマン金融",
+    "reading": [],
+    "english": [
+      "consumer finance"
+    ],
+    "description": [
+      "貸金業の内、消費者への金銭の貸付け、又はこれを行う貸金業者。消費者金融が定着する前に使われていた語。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "サービス残業",
+    "reading": [],
+    "english": [],
+    "description": [
+      "時間外手当が支給されないで行う時間外労働。また、時間外労働をしても使用者側に申告しないこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ザラ場",
+    "reading": [],
+    "english": [],
+    "description": [
+      "株式市場における取引時間。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "シフト",
+    "reading": [
+      "シフト"
+    ],
+    "english": [],
+    "description": [
+      "交替勤務制。交替勤務における勤務時間割当。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "シルクロード",
+    "reading": [],
+    "english": [],
+    "description": [
+      "古代地中海沿岸から西アジアを経て中国に至る交易の陸路。絹の道。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "スタグフレーション",
+    "reading": [],
+    "english": [],
+    "description": [
+      "賃金を伴うことなく、物価だけが上昇するインフレーション。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "スタートアップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "新規事業を開拓する会社・企業。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "ストライキ",
+    "reading": [],
+    "english": [
+      "strike"
+    ],
+    "description": [
+      "複数の労働者が共同で、経営者に対し労働条件の改善などの要求を認めさせるために、労働力の全部又は一部の提供を拒否すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "スプレッド",
+    "reading": [
+      "スプレッド"
+    ],
+    "english": [],
+    "description": [
+      "基準金利との差。",
+      "複数商品の価格差。複数商品の差額の拡縮について取引を行なうもの。"
+    ],
+    "category": [
+      "金融",
+      "相場"
+    ]
+  },
+  {
+    "term": "スム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ウズベキスタンの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "スワップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "スワップ取引。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "スーパーホワイト",
+    "reading": [],
+    "english": [],
+    "description": [
+      "クレジットカードの使用歴がなく、与信を判断するための情報がないこと。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "スーパーマーケット",
+    "reading": [
+      "スーパーマーケット"
+    ],
+    "english": [
+      "supermarket"
+    ],
+    "description": [
+      "小売業態の一つ。高頻度に消費される食料品や日用品などを、大量に集め、支払いをレジでまとめることにより、セルフサービスで短時間に買えるようにしたもの。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "セキュリティ",
+    "reading": [
+      "セキュリティー",
+      "セキュリティ"
+    ],
+    "english": [],
+    "description": [
+      "有価証券、債券。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "セクキャバ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "セクシーキャバクラ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "セクシーキャバクラ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "キャバクラのうち性的な接触が認められる店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "セルフレジ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "店員の代わりに客が商品の会計を行うためのレジスター。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "ゼロ成長",
+    "reading": [],
+    "english": [],
+    "description": [
+      "国内総生産の伸び率が零、つまり横ばいであること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ソモニ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "タジキスタンの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "タスク管理",
+    "reading": [],
+    "english": [],
+    "description": [
+      "自分がやるべき仕事、業務を整理すること。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "タンス預金",
+    "reading": [
+      "たんすよきん"
+    ],
+    "english": [],
+    "description": [
+      "箪笥預金の表記揺れ。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ダイム",
+    "reading": [
+      "ダイム"
+    ],
+    "english": [],
+    "description": [
+      "10セント硬貨の通称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "チェック",
+    "reading": [
+      "チェック"
+    ],
+    "english": [],
+    "description": [
+      "小切手。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "チケットショップ",
+    "reading": [
+      "チケットショップ"
+    ],
+    "english": [],
+    "description": [
+      "金券ショップ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "チャット",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ミャンマーで使用される通貨単位。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "テレワーク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "自宅など職場から離れた場所で勤務を行うこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "テンゲ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "カザフスタンの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ディスクロージャー",
+    "reading": [],
+    "english": [
+      "full",
+      "disclosure"
+    ],
+    "description": [
+      "企業が経営内容に関する情報を公開すること。企業内容開示。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ディナール",
+    "reading": [],
+    "english": [],
+    "description": [
+      "アルジェリア、イラク、クウェート、セルビア、チュニジア、バーレーン、北マケドニア、ヨルダン、リビアの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "デットエクイティスワップ",
+    "reading": [
+      "デットエクイティスワップ"
+    ],
+    "english": [],
+    "description": [
+      "負債と資本との交換。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "デノミ",
+    "reading": [
+      "デノミ"
+    ],
+    "english": [],
+    "description": [
+      "デノミネーション。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "デノミネーション",
+    "reading": [
+      "デノミネーション"
+    ],
+    "english": [],
+    "description": [
+      "貨幣の単位を切り下げて、通貨の価値を変えること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "デビットカード",
+    "reading": [],
+    "english": [],
+    "description": [
+      "購入したら即時に代金を引き落とすカード。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "デフレ",
+    "reading": [
+      "デフレ"
+    ],
+    "english": [],
+    "description": [
+      "デフレーション。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "デフレーション",
+    "reading": [],
+    "english": [],
+    "description": [
+      "通貨収縮、物価の下落が継続する状況のこと。不景気になりやすい。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "デリバティブ",
+    "reading": [],
+    "english": [
+      "derivative"
+    ],
+    "description": [
+      "金融派生商品、株や債券などから派生した複合金融商品。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "デリバリーヘルス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "店員が客の自宅やラブホテルに出張し性的なサービスを行う風俗店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "デリヘル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "デリバリーヘルスの略称。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "トゥグルグ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "モンゴルの通貨単位。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "トラール",
+    "reading": [],
+    "english": [],
+    "description": [
+      "スロベニアのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "トレーディング",
+    "reading": [],
+    "english": [],
+    "description": [
+      "通商。貿易。取引き。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "ドイツマルク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "かつてドイツ使われた通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ドラクマ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ギリシャのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ドン",
+    "reading": [],
+    "english": [
+      "Dong"
+    ],
+    "description": [
+      "ベトナムの通貨単位。記号は₫、国際通貨コード（ISO 4217）はVND。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ドーナツ屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ドーナツを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ナイトクラブ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "夜間に営業し、ダンス、ショー、演奏などをする高級な飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ニューエコノミー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "インターネット等の情報技術により、経済成長が続くとする説、又はIT関連企業。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ニーズ",
+    "reading": [
+      "ニーズ"
+    ],
+    "english": [],
+    "description": [
+      "新興工業経済地域。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ネカフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "インターネットカフェ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ネッティング",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融取引で、債権･債務を清算するための取決め。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ネットカフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "インターネットカフェ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ノンバンク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "預貯金の受け入れを行わず融資を専門に行う事業者。貸金業。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ハイパーインフレ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "「ハイパーインフレーション」の略。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ハイパーインフレーション",
+    "reading": [],
+    "english": [],
+    "description": [
+      "統御が不能な程度に急激に進行するインフレーション。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ハードカレンシー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "価値が安定しており信頼できるとされる通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "バイク屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "バイクを修理したり、売ったりする店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "バジェット",
+    "reading": [],
+    "english": [],
+    "description": [
+      "予算、経費。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "バブル",
+    "reading": [
+      "バブル"
+    ],
+    "english": [
+      "bubble",
+      "soap bubble"
+    ],
+    "description": [
+      "バブル経済。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "バブル景気",
+    "reading": [],
+    "english": [],
+    "description": [
+      "バブル経済による異常な好景気。日本では1986年から1991年にかけて発生。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "バランス",
+    "reading": [
+      "バランス"
+    ],
+    "english": [],
+    "description": [
+      "収支や貸借の均衡、差引き残高。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "バランスシート",
+    "reading": [],
+    "english": [
+      "balance sheet"
+    ],
+    "description": [
+      "貸借対照表。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "バーツ",
+    "reading": [
+      "バーツ"
+    ],
+    "english": [
+      "baht"
+    ],
+    "description": [
+      "タイにおける通貨単位。補助単位はサタン。1バーツ=4サルン=100サタン。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "パチンコ店",
+    "reading": [],
+    "english": [],
+    "description": [
+      "客にパチンコやパチスロを打たせる遊技場。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "パティスリー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "1.の製造販売を行う人、店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "パニック",
+    "reading": [
+      "パニック"
+    ],
+    "english": [],
+    "description": [
+      "恐慌。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "パン屋",
+    "reading": [
+      "ぱんや"
+    ],
+    "english": [
+      "bakery",
+      "baker",
+      "dougher"
+    ],
+    "description": [
+      "パンを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "パン店",
+    "reading": [],
+    "english": [],
+    "description": [
+      "パンを販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "パートタイマー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "所定の労働時間より短い、または日数が少ない労働者。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "パートタイム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "所定の労働時間より短い時間や少ない日数による勤務体制。パート。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ヒャッキン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "百均の別表記。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ビュッフェ",
+    "reading": [
+      "ビュッフェ"
+    ],
+    "english": [
+      "buffet"
+    ],
+    "description": [
+      "駅や列車、劇場の中にある簡易食堂。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ビル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "紙幣。手形。証券。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ビルトインスタビライザー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "自動安定化装置と訳され、財政が景気を自動的に安定化するように作用すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "ピザ屋",
+    "reading": [
+      "ぴざや"
+    ],
+    "english": [
+      "pizzeria"
+    ],
+    "description": [
+      "ピザを作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ピッツェリア",
+    "reading": [],
+    "english": [
+      "pizzeria"
+    ],
+    "description": [
+      "主にピザを専門に提供するイタリア料理店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ピンクサロン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "個室を設けずフェラチオなどの性的なサービスを行う飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ピンサロ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ピンクサロン。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ファッションヘルス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "個室において女性が性的なサービスを行う店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ファンシーショップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ファンシーグッズを販売する店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ファーマシー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "薬局。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "フラン",
+    "reading": [],
+    "english": [],
+    "description": [
+      "フランス語圏で使用されてきた通貨。現在はフランス、ベルギー、ルクセンブルクなどはユーロを使用しており、スイスの他にアフリカの旧フランス植民地などで用いられている。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "フリヴニャ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "1996年以降のウクライナの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "フリーライダー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "公共財の便益を享受するにおいて、受益に見合った負担をしなかったからといって便益の供給をとめられるものではないという性質に乗じ、負担をしない又は過少の負担をするという傾向。典型的な例として、脱税行為やNHK料金の不払いがある。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "フルタイム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "正規の労働時間として定められたすべての時間を勤務すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "フロー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "一定期間に動く財の量。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "フードコート",
+    "reading": [],
+    "english": [],
+    "description": [
+      "複数の店舗から成るセルフサービス式の食堂。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "ブティック",
+    "reading": [
+      "ブティック"
+    ],
+    "english": [],
+    "description": [
+      "婦人服の小売店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ブーム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "急に景気がよくなり価格が急騰すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "プライスリーダー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "市場価格の決定や操作をする企業のこと。価格指導者。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "プライマリー・バランス",
+    "reading": [
+      "プライマリー",
+      "バランス"
+    ],
+    "english": [],
+    "description": [
+      "基礎的財政収支。政府の歳入から国債による調達分を除いたものと、歳出から国債の元本及び利息の償還分を除いたものの差。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "プラス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "利益、寄与、余分、黒字。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "プリペイドカード",
+    "reading": [],
+    "english": [],
+    "description": [
+      "事前に入金することでその額だけ使用できるカード。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "プレミアム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "オプション取引において、オプションを引き受けさせる際に支払う手数料。オプション料。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ベンチャー",
+    "reading": [
+      "ベンチャー"
+    ],
+    "english": [],
+    "description": [
+      "投機。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ベーカリー",
+    "reading": [
+      "ベーカリー"
+    ],
+    "english": [
+      "bakery",
+      "baker",
+      "dougher"
+    ],
+    "description": [
+      "パン・菓子・ケーキ類製造販売店、パン屋。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "ベーシックインカム",
+    "reading": [],
+    "english": [],
+    "description": [
+      "年齢や就業の有無によらず、全ての人に一定の金銭を給付する制度。"
+    ],
+    "category": [
+      "労働",
+      "経済"
+    ]
+  },
+  {
+    "term": "ペイオフ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "破綻した金融機関の代わりに預金保険機構が行う預金の払い戻し。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ペセタ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "スペインのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ペニー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "イギリスの通貨で1ポンドの100分の1。複数形はペンス。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ペンス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "イギリスの通貨で1ポンドの100分の1。ペニーの複数形。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ボーナス",
+    "reading": [
+      "ボーナス"
+    ],
+    "english": [],
+    "description": [
+      "賞与。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ポンド",
+    "reading": [],
+    "english": [],
+    "description": [
+      "【磅】イギリスの通貨単位。スターリング・ポンド。記号￡。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "マイナス成長",
+    "reading": [],
+    "english": [],
+    "description": [
+      "経済成長率が0 %未満、つまり国内総生産が減少していく状況。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "マクロ経済学",
+    "reading": [
+      "まくろけいざいがく"
+    ],
+    "english": [],
+    "description": [
+      "個々の経済活動を集計し、一国または地域全体の経済活動として巨視的に見る経済学の分野。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "マナト",
+    "reading": [],
+    "english": [],
+    "description": [
+      "トルクメニスタン、アゼルバイジャンの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "マネタリーベース",
+    "reading": [],
+    "english": [],
+    "description": [
+      "現金通貨と民間金融機関の法定準備金の合計。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "マネーサプライ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金融機関と中央政府を除いた一般法人、個人、地方公共団体等経済主体が保有する通貨の合計。通貨供給量"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "マルク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ヨーロッパで使用されてきた通貨。現在はボスニア・ヘルツェゴビナでのみ使用。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "マルクス経済学",
+    "reading": [
+      "まるくすけいざいがく"
+    ],
+    "english": [],
+    "description": [
+      "1867年から1894年にかけてマルクス及びエンゲルスによって刊行された『資本論』を発展させた経済学の分野。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "マルッカ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "フィンランドのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "マーケット",
+    "reading": [],
+    "english": [],
+    "description": [
+      "市場、相場、販路。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "ミクロ経済学",
+    "reading": [
+      "みくろけいざいがく"
+    ],
+    "english": [],
+    "description": [
+      "家計や企業の個々の経済活動の分析から理論を構築する経済学の分野。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "メイドカフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "メイド風の衣装を着た店員が接客を行うカフェ。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "メイド喫茶",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ウエーターがメードの衣装で接客する喫茶店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "メインバンク",
+    "reading": [
+      "メーンバンク"
+    ],
+    "english": [],
+    "description": [
+      "複数の銀行取引がある場合、主として融資などの取引がある銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "メンター",
+    "reading": [
+      "メンター"
+    ],
+    "english": [],
+    "description": [
+      "相談者、助言者、指導者。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "メンティー",
+    "reading": [
+      "メンティー"
+    ],
+    "english": [],
+    "description": [
+      "メンターの相手。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "ユーロカレンシー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "国際通貨で、本国、特にその中央銀行の規制を離れて取引される通貨。"
+    ],
+    "category": [
+      "通貨",
+      "金融"
+    ]
+  },
+  {
+    "term": "ライフサイクル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品が企画されてから、市場から撤退するまでの一循環。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "ラッツ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ラトビアのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ラリ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ジョージアの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ランド",
+    "reading": [],
+    "english": [],
+    "description": [
+      "南アフリカ共和国の通貨単位。1ランドは100セント。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ラーメン屋",
+    "reading": [],
+    "english": [],
+    "description": [
+      "中華料理を出す飲食店のうちラーメンを専門またはラーメンを中心として出す飲食店。その料理人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "リスキリング",
+    "reading": [],
+    "english": [],
+    "description": [
+      "現在とは異なる新たな分野の知識やスキルを学ぶこと。",
+      "「新しい職業に就くために、あるいは、今の職業で必要とされるスキルの大幅な変化に適応するために、必要なスキルを獲得する／させること」（経済産業省）"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "リタス",
+    "reading": [],
+    "english": [],
+    "description": [
+      "リトアニアのユーロ採用前の通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "リモートワーク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "自宅などから勤務先のネットワークに接続して行う勤務。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "リヤル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "イエメン、イラン、カタール、サウジアラビア、オマーンの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "リラ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "イタリアの旧通貨。",
+      "トルコの通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ルピー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "インド・パキスタン・スリランカ・ネパール・セーシェル・モーリシャスで使用されている通貨及び通貨単位の名称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ルーブル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ロシア・ベラルーシなどで使用されている（されていた）通貨及び通貨単位の名称。ルーヴル。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "ルーラー",
+    "reading": [],
+    "english": [],
+    "description": [
+      "丸棒。"
+    ],
+    "category": [
+      "簿記"
+    ]
+  },
+  {
+    "term": "レアル",
+    "reading": [],
+    "english": [
+      "real"
+    ],
+    "description": [
+      "1994年から使用されているブラジルの通貨。1レアル=100センターボ。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "レバレッジ",
+    "reading": [
+      "レベレッジ",
+      "レバレッジ"
+    ],
+    "english": [],
+    "description": [
+      "比較的小さな自己資本による資金負担で、収益上昇など大きな効果を生じさせること"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "レント",
+    "reading": [],
+    "english": [],
+    "description": [
+      "超過利益。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "ワラント",
+    "reading": [],
+    "english": [],
+    "description": [
+      "新株予約権。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "ワーキングプア",
+    "reading": [],
+    "english": [
+      "working poor"
+    ],
+    "description": [
+      "フルタイムで働いているにも関わらず十分な収入を得られず、生活の苦しい人。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ワークライフバランス",
+    "reading": [],
+    "english": [
+      "work-life balance"
+    ],
+    "description": [
+      "仕事と私生活の両方を充実させ、調和させること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ワースケ",
+    "reading": [
+      "ワースケ"
+    ],
+    "english": [],
+    "description": [
+      "ワークスケジュール。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "ワープア",
+    "reading": [],
+    "english": [],
+    "description": [
+      "ワーキングプア。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "一年基準",
+    "reading": [],
+    "english": [],
+    "description": [
+      "資産、負債の流動か固定かを判定する基準の一つであり、企業の正常な営業過程にあるもの以外で、貸借対照表日の翌日から起算して、一年以内に現金化、費用化できるものは流動的だとし、一年を超えるものは固定的だとする考え方。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "丁号券",
+    "reading": [
+      "ていごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1930年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "三六協定",
+    "reading": [
+      "さぶろくきょうてい",
+      "さんろくきょうてい"
+    ],
+    "english": [],
+    "description": [
+      "時間外協定。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "上梓",
+    "reading": [
+      "じょうし",
+      "じょーし"
+    ],
+    "english": [],
+    "description": [
+      "著作物を出版すること。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "不労所得",
+    "reading": [
+      "ふろうしょとく",
+      "ふろーしょとく"
+    ],
+    "english": [
+      "unearned income"
+    ],
+    "description": [
+      "労働せずに得られる所得。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "不景気",
+    "reading": [
+      "ふけーき"
+    ],
+    "english": [],
+    "description": [
+      "経済活動に活気がないこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "不況",
+    "reading": [
+      "ふきょう",
+      "ふきょー"
+    ],
+    "english": [
+      "recession",
+      "depression"
+    ],
+    "description": [
+      "景気が悪いこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "世界恐慌",
+    "reading": [
+      "せかいきょうこう",
+      "せかいきょーこー"
+    ],
+    "english": [],
+    "description": [
+      "世界的規模の経済恐慌。特に1929年にアメリカに始まった大恐慌。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "丙号券",
+    "reading": [
+      "へいごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1916年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "両",
+    "reading": [
+      "もろ",
+      "ころ",
+      "リョウ"
+    ],
+    "english": [],
+    "description": [
+      "（リョウ）通貨の単位。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "両替",
+    "reading": [
+      "りょうがえ",
+      "りょーがえ"
+    ],
+    "english": [
+      "exchange"
+    ],
+    "description": [
+      "有価証券・物品などを現金と交換すること。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "両替商",
+    "reading": [
+      "りょうがえしょう"
+    ],
+    "english": [],
+    "description": [
+      "手数料をとり貨幣の両替を商うこと。また、それを商う者。場合により預金、為替、手形などの金融業務なども商う。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "中進国",
+    "reading": [
+      "ちゅうしんこく"
+    ],
+    "english": [],
+    "description": [
+      "経済の水準が先進国と発展途上国の中間の国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "乗務",
+    "reading": [
+      "じょうむ",
+      "じょーむ"
+    ],
+    "english": [],
+    "description": [
+      "のりものに関する業務を取り扱うために、のりものに乗って業務を行うこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "乙号券",
+    "reading": [
+      "おつごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1910年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "乙波",
+    "reading": [
+      "オファー",
+      "オッファー"
+    ],
+    "english": [],
+    "description": [
+      "貿易の相手方に対し、取引の諸条件（価格、納期、決済条件、運賃保険料負担、等）を提示すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "乾物屋",
+    "reading": [
+      "かんぶつや"
+    ],
+    "english": [],
+    "description": [
+      "商品として乾物を専門または中心として扱う店。また、その商人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "予算",
+    "reading": [
+      "よさん"
+    ],
+    "english": [
+      "budget",
+      "estimate"
+    ],
+    "description": [
+      "ある計画のために使う費用を、前もって決めること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "予算管理",
+    "reading": [
+      "よさんかんり"
+    ],
+    "english": [],
+    "description": [
+      "売上高の予算を作り、その予算を達成できるように行動し、実績と数値の開きがあるときはその原因を探ること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "事業",
+    "reading": [
+      "じぎょう",
+      "じぎょー"
+    ],
+    "english": [
+      "work",
+      "undertaking",
+      "project"
+    ],
+    "description": [
+      "生産や営利を目的とした経済活動。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "互市",
+    "reading": [
+      "ごし"
+    ],
+    "english": [],
+    "description": [
+      "外国と互いに物品の取引をすること。貿易。交易。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "交易",
+    "reading": [
+      "こうえき",
+      "きょうやく",
+      "こーえき",
+      "きょーやく"
+    ],
+    "english": [],
+    "description": [
+      "互いに物品の交換や売買をすること。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "交鈔",
+    "reading": [
+      "こうしょう"
+    ],
+    "english": [],
+    "description": [
+      "中国宋に始まり、金、元、明にかけて使用された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "人件費",
+    "reading": [
+      "じんけんひ"
+    ],
+    "english": [],
+    "description": [
+      "労働に対し支払われる費用。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "人工",
+    "reading": [
+      "じんこう",
+      "にんく",
+      "にんぐ",
+      "じんこー"
+    ],
+    "english": [],
+    "description": [
+      "（にんく）作業員1人が要する仕事の分量。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "人民幣",
+    "reading": [
+      "じんみんへい",
+      "じんみんへー"
+    ],
+    "english": [],
+    "description": [
+      "人民元。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "仕事服",
+    "reading": [
+      "しごとふく"
+    ],
+    "english": [],
+    "description": [
+      "仕事をする際に着用するその仕事に適した衣服。仕事着。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "仕入",
+    "reading": [],
+    "english": [],
+    "description": [
+      "棚卸資産を購入すること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "任意保険",
+    "reading": [
+      "にんいほけん"
+    ],
+    "english": [],
+    "description": [
+      "保険への加入が当事者の自由な意思にまかされている保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "企業会計",
+    "reading": [
+      "きぎょうかいけい"
+    ],
+    "english": [],
+    "description": [
+      "営利会計のうち、営利企業が計算主体となる会計。財務会計と管理会計に分類される。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "企業戦士",
+    "reading": [
+      "きぎょうせんし"
+    ],
+    "english": [],
+    "description": [
+      "企業の利益のためにがむしゃらに仕事をこなすサラリーマン。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "休職",
+    "reading": [
+      "きゅうしょく"
+    ],
+    "english": [],
+    "description": [
+      "会社や団体に勤務する者や公務員が、その身分を有したまま、ある程度の期間職務を休むこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "会子",
+    "reading": [
+      "かいし"
+    ],
+    "english": [],
+    "description": [
+      "中国宋の時代に発行された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "会計公準",
+    "reading": [
+      "かいけいこうじゅん"
+    ],
+    "english": [],
+    "description": [
+      "企業会計を行うための基本的な前提。「企業実体の公準」、「継続企業の公準」、「貨幣測定の公準」の三つの公準がある。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "会計基準",
+    "reading": [
+      "かいけいきじゅん"
+    ],
+    "english": [],
+    "description": [
+      "財務諸表を作成する上での社会的な規範。一般に公正妥当と認められる会計基準。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "低成長",
+    "reading": [
+      "ていせいちょう"
+    ],
+    "english": [],
+    "description": [
+      "経済成長率の低い状態が長期間続く状況。日本では1991年のバブル崩壊以降がこれに該当するとされる。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "作成",
+    "reading": [
+      "さくせい",
+      "さくせー"
+    ],
+    "english": [],
+    "description": [
+      "社員が客の名で契約し、保険料は自分で負担すること。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "作業服",
+    "reading": [
+      "さぎょうふく"
+    ],
+    "english": [],
+    "description": [
+      "作業をする際に着用する衣服。作業着。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "作業着",
+    "reading": [
+      "さぎょうぎ"
+    ],
+    "english": [],
+    "description": [
+      "作業をする際に着用する衣服。作業服。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "供給",
+    "reading": [
+      "きょうきゅう",
+      "きょーきゅう"
+    ],
+    "english": [
+      "supply"
+    ],
+    "description": [
+      "財やサービスを提供しようとする経済活動。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "保護貿易",
+    "reading": [
+      "ほごぼうえき",
+      "ほごぼーえき"
+    ],
+    "english": [],
+    "description": [
+      "外国との貿易を行う際、政府が輸入量を制限したり、輸入品に関税をかけるなどの施策をとったりすること。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "保険料",
+    "reading": [
+      "ほけんりょう"
+    ],
+    "english": [],
+    "description": [
+      "保険の加入者が支払い、保険金に充てるための料金。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "保険金",
+    "reading": [
+      "ほけんきん"
+    ],
+    "english": [],
+    "description": [
+      "保険の契約に基づき支払いの事由が発生した際に保険会社が被保険者または保険金受取人に支払う金銭。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "信用保険",
+    "reading": [
+      "しんようほけん"
+    ],
+    "english": [],
+    "description": [
+      "債務者と債権者との契約で債務者が債務不履行となった際に債権者の財産の損害を補償する損害保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "信用協同組合",
+    "reading": [
+      "しんようきょうどうくみあい"
+    ],
+    "english": [],
+    "description": [
+      "中小企業等協同組合法に基づく組合組織の金融機関。信用組合。信組。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "信用取引",
+    "reading": [],
+    "english": [
+      "on account"
+    ],
+    "description": [
+      "掛け取引。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "信用組合",
+    "reading": [
+      "しんようくみあい"
+    ],
+    "english": [],
+    "description": [
+      "信用協同組合の略。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "信用金庫",
+    "reading": [
+      "しんようきんこ"
+    ],
+    "english": [
+      "Shinkin Bank"
+    ],
+    "description": [
+      "日本の金融機関の一。信用金庫法によって設立された法人。「信金」と略される。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "信組",
+    "reading": [
+      "しんくみ",
+      "しんそ"
+    ],
+    "english": [],
+    "description": [
+      "信用協同組合（信用組合）の略。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "信託銀行",
+    "reading": [
+      "しんたくぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "信託業務を行う普通銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "信金",
+    "reading": [
+      "しんきん"
+    ],
+    "english": [],
+    "description": [
+      "信用金庫。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "修繕",
+    "reading": [
+      "しゅうぜん"
+    ],
+    "english": [
+      "repair",
+      "mending"
+    ],
+    "description": [
+      "工事の種別で、建物・設備等の通常の維持管理のため、又は一部が毀損した建物・設備等につきその原状を回復するためのもの。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "俸給",
+    "reading": [
+      "ほうきゅう",
+      "ほーきゅう"
+    ],
+    "english": [],
+    "description": [
+      "公務員や会社員が一定の期間に行った労働に対して支給される報酬。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "個社",
+    "reading": [
+      "こしゃ"
+    ],
+    "english": [],
+    "description": [
+      "個々の会社や企業。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "借入金",
+    "reading": [
+      "かりいれきん",
+      "しゃくにゅうきん"
+    ],
+    "english": [],
+    "description": [
+      "借り受けた金銭。また、その債務。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "停職",
+    "reading": [
+      "ていしょく",
+      "てーしょく"
+    ],
+    "english": [],
+    "description": [
+      "職務規定に違反するなどの罰則で、一定の期間職務に従事させないこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "健保",
+    "reading": [
+      "けんぽ"
+    ],
+    "english": [],
+    "description": [
+      "健康保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "健康保険",
+    "reading": [
+      "けんこうほけん"
+    ],
+    "english": [],
+    "description": [
+      "社会保障の一つで、健康保険法に基づき、労働者とその被扶養者の業務によらない病気、死亡、けが、出産に関する保険の給付を行う公的な保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "債権",
+    "reading": [
+      "さいけん"
+    ],
+    "english": [
+      "credit"
+    ],
+    "description": [
+      "財産権の一つ。契約等で発生する、債務者に対し一定の行為（給付）をするよう要求できる権利。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "傷害保険",
+    "reading": [
+      "しょうがいほけん"
+    ],
+    "english": [],
+    "description": [
+      "急激、偶然、外来により発生した怪我による損害について補償するための損害保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "償却",
+    "reading": [],
+    "english": [],
+    "description": [
+      "資産を取得するためにした金銭の支出を、幾つかの期間にわたって費用として計上していく手続きのこと。償却に伴い、資産の金額が減少していくこととなる。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "児童労働",
+    "reading": [
+      "じどうろうどう"
+    ],
+    "english": [
+      "child labour",
+      "child labor"
+    ],
+    "description": [
+      "児童による労働。日本国憲法第27条第三号では児童の酷使は禁止され、労働基準法では原則として満15歳未満の児童の就労は禁止されている。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "兜町",
+    "reading": [
+      "かぶとちょう"
+    ],
+    "english": [],
+    "description": [
+      "（東京証券取引所がある東京都中央区の地名から）日本の金融市場。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "入超",
+    "reading": [
+      "にゅうちょう",
+      "にゅうちょー"
+    ],
+    "english": [
+      "import",
+      "excess",
+      "surplus"
+    ],
+    "description": [
+      "輸入超過の略。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "共産主義",
+    "reading": [
+      "きょうさんしゅぎ"
+    ],
+    "english": [
+      "communism"
+    ],
+    "description": [
+      "財産を共有し、平等な社会をつくろうとする思想や運動。カール・マルクス、フリードリヒ・エンゲルスによって体系づけられ、20世紀に入ってウラジーミル・レーニンらによって発展させられた。現在ではマルクス・レーニン主義をはじめ、ユーロコミュニズム、トロツキズム、毛沢東思想など、いろいろな種類がある。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "円相場",
+    "reading": [
+      "えんそうば"
+    ],
+    "english": [],
+    "description": [
+      "他の通貨に対する円の価値を、1通貨単位につき何円、という形で示したもの。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "円貨",
+    "reading": [
+      "えんか"
+    ],
+    "english": [],
+    "description": [
+      "日本円を単位とする貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "出勤",
+    "reading": [
+      "しゅっきん"
+    ],
+    "english": [],
+    "description": [
+      "自宅などから出発して職場に到着すること。勤めに出ること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "出版物",
+    "reading": [
+      "しゅっぱんぶつ"
+    ],
+    "english": [],
+    "description": [
+      "出版された書籍・絵画・写真など。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "出版社",
+    "reading": [
+      "しゅっぱんしゃ"
+    ],
+    "english": [
+      "publisher",
+      "publishing house",
+      "press"
+    ],
+    "description": [
+      "雑誌や書籍などの出版をする会社。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "出番",
+    "reading": [
+      "でばん"
+    ],
+    "english": [],
+    "description": [
+      "勤務につく番。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "刀布",
+    "reading": [
+      "とうふ"
+    ],
+    "english": [],
+    "description": [
+      "中国周の時代の銭である刀銭と布銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "刀泉",
+    "reading": [
+      "とうせん"
+    ],
+    "english": [],
+    "description": [
+      "中国周代に使用された刀子の形状をした青銅製の貨幣。刀銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "刀銭",
+    "reading": [
+      "とうせん"
+    ],
+    "english": [],
+    "description": [
+      "中国周代に使用された刀子の形状をした青銅製の貨幣。刀貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "分社",
+    "reading": [
+      "ぶんしゃ"
+    ],
+    "english": [],
+    "description": [
+      "ある会社の事業を分けて、別の会社を設立すること。",
+      "ある会社から分けられた事業を行うために設立された会社。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "刊行",
+    "reading": [
+      "かんこう"
+    ],
+    "english": [],
+    "description": [
+      "書籍、書物を印刷して発行すること。出版。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "刊行物",
+    "reading": [
+      "かんこうぶつ"
+    ],
+    "english": [],
+    "description": [
+      "刊行されたもの。書籍、雑誌、図画、文書など。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "初任給",
+    "reading": [
+      "しょにんきゅう"
+    ],
+    "english": [],
+    "description": [
+      "職に就いたり、任官されたりして最初に支給される給料。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "初版",
+    "reading": [
+      "しょはん"
+    ],
+    "english": [],
+    "description": [
+      "出版された書物の最初の版。また、その本。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "初給",
+    "reading": [
+      "しょきゅう"
+    ],
+    "english": [],
+    "description": [
+      "就職して最初に貰う給料。",
+      "初任給。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "別冊",
+    "reading": [
+      "べっさつ"
+    ],
+    "english": [],
+    "description": [
+      "本体となる書物とは別に綴じられた冊子。",
+      "定例に刊行される書物とは別に臨時に発行される書物。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "利子",
+    "reading": [
+      "りし"
+    ],
+    "english": [
+      "interest"
+    ],
+    "description": [
+      "金銭貸借において、元金の返済に加えて、借り手から貸し手に支払われる金銭。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "利息",
+    "reading": [
+      "りそく"
+    ],
+    "english": [
+      "interest"
+    ],
+    "description": [
+      "金銭貸借において、元金の返済に加えて、借り手から貸し手に支払われる金銭。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "利潤",
+    "reading": [
+      "りじゅん"
+    ],
+    "english": [
+      "profit",
+      "benefit"
+    ],
+    "description": [
+      "経済活動において、会計・経済上の主体に残る余剰、収入から支出を差し引いた残り。利益。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "利潤率",
+    "reading": [
+      "りじゅんりつ"
+    ],
+    "english": [],
+    "description": [
+      "出資した全ての資本金の利潤の比率。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "利率",
+    "reading": [
+      "りりつ"
+    ],
+    "english": [
+      "rate",
+      "of",
+      "interest"
+    ],
+    "description": [
+      "元金に対する利息の割合。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "利食い",
+    "reading": [
+      "りぐい"
+    ],
+    "english": [],
+    "description": [
+      "相場の変動で、利益勘定であるとき、転売や買い戻しによる売買で利益を確定させること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "前場",
+    "reading": [
+      "ぜんば"
+    ],
+    "english": [],
+    "description": [
+      "株式市場で午前の取引。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "前引け",
+    "reading": [
+      "ぜんびけ"
+    ],
+    "english": [],
+    "description": [
+      "株式市場で午前の最後の取引。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "割烹",
+    "reading": [
+      "かっぽう"
+    ],
+    "english": [],
+    "description": [
+      "料理などを客に供する店、割烹店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "労作教育",
+    "reading": [
+      "ろうさくきょういく",
+      "ろーさくきょーいく"
+    ],
+    "english": [
+      "labor",
+      "education"
+    ],
+    "description": [
+      "19世紀末以来、ドイツを中心に興った教育運動。書物を用いて知識を詰め込む受動的教育を批判し、能動的な労働・生産作業を体験させることにより、児童の人格的成長を図る。ゲオルク・ケルシェンシュタイナー (Georg Kerschensteiner) らが主唱。作業教育。勤労教育。労働教育。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労働",
+    "reading": [
+      "ろうどう",
+      "ろーどー"
+    ],
+    "english": [
+      "labor",
+      "labour"
+    ],
+    "description": [
+      "収益のために自分の頭や体を使うこと。土地、資本とともに生産三要素の一つ。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "労働保険",
+    "reading": [
+      "ろうどうほけん"
+    ],
+    "english": [],
+    "description": [
+      "雇用保険と労災保険の総称。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "労働力",
+    "reading": [
+      "ろうどうりょく"
+    ],
+    "english": [
+      "labour",
+      "manpower",
+      "workforce"
+    ],
+    "description": [
+      "物を生産したり役務を提供したりするために使われる知力や体力。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労働契約",
+    "reading": [
+      "ろうどうけいやく"
+    ],
+    "english": [],
+    "description": [
+      "労働法に基づく労働者が使用者に労働を提供し、それに対し使用者が対価（報酬）を支払うことを約束する契約。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労働日",
+    "reading": [
+      "ろうどうび"
+    ],
+    "english": [],
+    "description": [
+      "労働契約上、労働者が労働の義務を負う日。職場に出勤してから退勤するまでを一つの単位とする。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労働時間",
+    "reading": [
+      "ろうどうじかん"
+    ],
+    "english": [],
+    "description": [
+      "労働者が雇用されて労働する時間。労働基準法では原則として一日8時間、一週間で40時間とする"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労働者",
+    "reading": [
+      "ろうどうしゃ"
+    ],
+    "english": [
+      "labor",
+      "labour",
+      "worker"
+    ],
+    "description": [
+      "労働を供給して、対価として賃金を受ける者のこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "労働者災害補償保険",
+    "reading": [
+      "ろうどうしゃさいがいほしょうほけん"
+    ],
+    "english": [],
+    "description": [
+      "労働者の業務上の事由または通勤による負傷・疾病・障害・死亡に対して災害補償を行なう保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "労働金庫",
+    "reading": [
+      "ろうどうきんこ"
+    ],
+    "english": [],
+    "description": [
+      "労働金庫法に定められた日本の金融機関の一つ。労金と略される。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "労務",
+    "reading": [
+      "ろうむ"
+    ],
+    "english": [],
+    "description": [
+      "賃金や報酬などを得て行う労働。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "労災保険",
+    "reading": [
+      "ろうさいほけん"
+    ],
+    "english": [],
+    "description": [
+      "労働者災害補償保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "労金",
+    "reading": [
+      "ろうきん"
+    ],
+    "english": [],
+    "description": [
+      "「労働金庫」の略。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "効用",
+    "reading": [
+      "こうよう",
+      "こーよー"
+    ],
+    "english": [
+      "utility"
+    ],
+    "description": [
+      "人が財を消費することから得られる満足の水準。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "勘定",
+    "reading": [
+      "かんじょう",
+      "かんじょー"
+    ],
+    "english": [
+      "calculation",
+      "check"
+    ],
+    "description": [
+      "取引内容を記録、計算するために設けられた区分のこと。勘定につけた名称を勘定科目という。"
+    ],
+    "category": [
+      "簿記"
+    ]
+  },
+  {
+    "term": "勤怠",
+    "reading": [
+      "きんたい"
+    ],
+    "english": [],
+    "description": [
+      "勤めることと怠けること。出勤と欠勤。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "勤惰",
+    "reading": [
+      "きんだ"
+    ],
+    "english": [],
+    "description": [
+      "勤めることと怠けること。出勤と欠勤。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "勤続",
+    "reading": [
+      "きんぞく"
+    ],
+    "english": [],
+    "description": [
+      "同じ勤務先に続けて勤めること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "半銭",
+    "reading": [
+      "はんせん"
+    ],
+    "english": [],
+    "description": [
+      "一銭の半分。五厘。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "単位",
+    "reading": [
+      "たんい"
+    ],
+    "english": [],
+    "description": [
+      "通貨額を表すのに用いる呼称。通貨単位。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "単産",
+    "reading": [
+      "たんさん"
+    ],
+    "english": [],
+    "description": [
+      "産業別単一労働組合の略。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "即採",
+    "reading": [
+      "そくさい"
+    ],
+    "english": [],
+    "description": [
+      "即採用。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "原価",
+    "reading": [
+      "げんか"
+    ],
+    "english": [
+      "cost"
+    ],
+    "description": [
+      "製品を製造するためにかかった費用。材料費、労務費、経費の3つの基本的な要素からなる。",
+      "商品の仕入値。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "原価管理",
+    "reading": [],
+    "english": [],
+    "description": [
+      "製品の製造のための原価に標準(目標)の数値をあらかじめ定め、実績と比較し、原因の調査と、その後の製造の工程の見直し等を行い、標準(目標)に近づけていく管理会計の手法。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "原価計算",
+    "reading": [
+      "げんかけーさん"
+    ],
+    "english": [],
+    "description": [
+      "工業簿記に組み込まれる、会計技術を応用した原価測定の計算手続き。財務諸表作成目的、価格計算目的、原価管理目的、予算編成・予算統制目的、計画設定目的の5つの目的がある。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "収入",
+    "reading": [
+      "しゅうにゅう"
+    ],
+    "english": [],
+    "description": [
+      "個人や団体が事業をすることなどにより得た金品。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "収益",
+    "reading": [
+      "しゅうえき"
+    ],
+    "english": [
+      "revenues",
+      "turnover"
+    ],
+    "description": [
+      "ある一定期間の、企業の経営活動などによって、その企業に帰属することとなった経済的価値。企業から離脱した費用との比較によって、損益が計算される。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "取引所",
+    "reading": [
+      "とりひきじょ"
+    ],
+    "english": [],
+    "description": [
+      "有価証券や一定の商品について一定の資格を有する者が売買、先物の取引などを行う場所。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "古本屋",
+    "reading": [
+      "ふるほんや"
+    ],
+    "english": [],
+    "description": [
+      "古本を売買する商人。また、その店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "古道具屋",
+    "reading": [
+      "ふるどうぐや"
+    ],
+    "english": [],
+    "description": [
+      "古道具を売買する商人。また、その店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "古銭学",
+    "reading": [
+      "こせんがく"
+    ],
+    "english": [],
+    "description": [
+      "古銭について研究する学問。貨幣学。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "合成の誤謬",
+    "reading": [
+      "ごうせいのごびゅう"
+    ],
+    "english": [
+      "fallacy of composition"
+    ],
+    "description": [
+      "個人や会社などの各個体が自身にとっては正しく合理的な行動を取った結果として、社会全体や集団全体には意図しない結果や望ましくない結果が生じること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "同盟罷業",
+    "reading": [
+      "どうめいひぎょう"
+    ],
+    "english": [],
+    "description": [
+      "ストライキ。複数の労働者が共同で、経営者に対して労働条件の改善などを求めて労務の提供を拒否すること。日本においては労働組合が主体となる場合のみ違法とされない。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "名目国内総生産",
+    "reading": [
+      "めいもくこくないそうせいさん"
+    ],
+    "english": [],
+    "description": [
+      "物価の変動を補正しない国内総生産。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "名目経済成長率",
+    "reading": [
+      "めいもくけいざいせいちょうりつ"
+    ],
+    "english": [],
+    "description": [
+      "物価の変動を補正しない経済成長率。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "呉服屋",
+    "reading": [
+      "ごふくや"
+    ],
+    "english": [],
+    "description": [
+      "呉服を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "和菓子屋",
+    "reading": [
+      "わがしや"
+    ],
+    "english": [],
+    "description": [
+      "和菓子を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "和菓子店",
+    "reading": [
+      "わがしてん"
+    ],
+    "english": [],
+    "description": [
+      "和菓子を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "和食屋",
+    "reading": [
+      "わしょくや"
+    ],
+    "english": [],
+    "description": [
+      "和食を作って客に提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "唐銭",
+    "reading": [
+      "とうせん"
+    ],
+    "english": [],
+    "description": [
+      "平安時代から江戸時代初期にかけて中国から伝わった貨幣（銭）の総称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "商事",
+    "reading": [
+      "しょうじ",
+      "しょーじ"
+    ],
+    "english": [
+      "business",
+      "affairs"
+    ],
+    "description": [
+      "商取引に関する事柄。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "商品有高帳",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品の種別毎に仕入や売上の都度、数量、単価、金額を記録して商品の増減や在庫を管理する帳簿。補助簿の一種。売上商品1個あたりの仕入原価である払出原価には、先入先出法や移動平均法などがあり、それに応じて記入方法が異なる。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "喫茶店",
+    "reading": [
+      "きっさてん"
+    ],
+    "english": [
+      "café",
+      "kissaten"
+    ],
+    "description": [
+      "店内で紅茶やコーヒーなどのアルコールを含まない飲み物や、茶菓や軽食などを提供する飲食店。カフェ。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "営利会計",
+    "reading": [
+      "えいりかいけい"
+    ],
+    "english": [],
+    "description": [
+      "営利を目的とする組織体が計算主体となる会計。通常は企業会計が同義に用いられる。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "団体信用生命保険",
+    "reading": [
+      "だんたいしんようせいめいほけん"
+    ],
+    "english": [],
+    "description": [
+      "主に住宅ローンなどを利用し多額の債務を有する人が、返済中に死亡したり高度障害を負うなどした場合、保険金を残った債務の返済に充てる目的の保険。団信。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "団信",
+    "reading": [
+      "だんしん"
+    ],
+    "english": [],
+    "description": [
+      "「団体信用生命保険」の略。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "団子屋",
+    "reading": [
+      "だんごや"
+    ],
+    "english": [],
+    "description": [
+      "団子を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "固定相場制",
+    "reading": [
+      "こていそうばせい"
+    ],
+    "english": [],
+    "description": [
+      "ある通貨と別の通貨の為替レートを固定する制度。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "国保",
+    "reading": [
+      "こくほ"
+    ],
+    "english": [],
+    "description": [
+      "国民健康保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "国内総生産",
+    "reading": [],
+    "english": [
+      "gross domestic product",
+      "GDP"
+    ],
+    "description": [
+      "一定期間内に国内で産み出された付加価値の総額。生産面からは、一定期間内の国内における、財貨、サービスの生産額から生産活動中に費消された額を控除したものが、該当する。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "国民健康保険",
+    "reading": [
+      "こくみんけんこうほけん"
+    ],
+    "english": [],
+    "description": [
+      "社会保障の一つで、国民健康保険法に基づき健康保険法が適用されない自営者とその被扶養者、短時間労働者、無職のものの病気、死亡、けが、出産に関する保険の給付を行う公的な保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "国税",
+    "reading": [
+      "こくぜい",
+      "こくぜー"
+    ],
+    "english": [],
+    "description": [
+      "国が賦課して徴収する租税。国税は、外国からの輸入貨物に課される関税と、それ以外の内国税に大別される。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "国貨",
+    "reading": [
+      "こっか"
+    ],
+    "english": [],
+    "description": [
+      "その国内で通用する通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "園芸屋",
+    "reading": [
+      "えんげいや"
+    ],
+    "english": [],
+    "description": [
+      "植物や園芸品を売る店。植物や園芸品を売る人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "園芸店",
+    "reading": [
+      "えんげいてん"
+    ],
+    "english": [],
+    "description": [
+      "植物や園芸品を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "在庫",
+    "reading": [
+      "ざいこ"
+    ],
+    "english": [
+      "stock",
+      "backlog"
+    ],
+    "description": [
+      "企業・商店などが加工や販売するために保有する原材料・仕掛品・製品あるいは商品などの財貨。棚卸資産。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "地方税",
+    "reading": [
+      "ちほうぜい"
+    ],
+    "english": [],
+    "description": [
+      "地方公共団体が賦課して徴収する租税。道府県が課する道府県税と市町村が課する市町村税に大別され、さらに使途が特定されていない普通税と使途が特定されている目的税に分けられる。（地方税法1条1項4号、4条、5条）"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "地方銀行",
+    "reading": [
+      "ちほうぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "地方に本店を置き、その地方の金融業務を行う普通銀行。地銀。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "地銀",
+    "reading": [
+      "ちぎん"
+    ],
+    "english": [],
+    "description": [
+      "地方銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "地震保険",
+    "reading": [
+      "じしんほけん"
+    ],
+    "english": [],
+    "description": [
+      "地震、噴火、津波に起因する財産の損害を補償する損害保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "均衡",
+    "reading": [
+      "きんこう"
+    ],
+    "english": [
+      "balance"
+    ],
+    "description": [
+      "需要、供給のような組み合わせの間で、一致して安定している状態にあること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "基幹事務",
+    "reading": [
+      "きかんじむ"
+    ],
+    "english": [],
+    "description": [
+      "マンション管理組合が管理業者に委託する業務のうち、管理組合の会計の収入及び支出の調定及び出納並びにマンション（共用部分等）の維持又は修繕に関する企画又は実施の調整。マンション管理業者は、これを一括して他人に委託することは、禁止されている（マンションの管理の適正化の推進に関する法律第2条、第74条）。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "基軸通貨",
+    "reading": [
+      "きじくつうか"
+    ],
+    "english": [],
+    "description": [
+      "国際的な取引で用いられる通貨。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "基金",
+    "reading": [
+      "ききん"
+    ],
+    "english": [
+      "fund"
+    ],
+    "description": [
+      "事業などの経済的基礎となる資金。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "場",
+    "reading": [
+      "ば",
+      "ジョウ",
+      "チョウ"
+    ],
+    "english": [],
+    "description": [
+      "証券取引や商品取引における取引所取引。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "増刷",
+    "reading": [
+      "ぞうさつ"
+    ],
+    "english": [],
+    "description": [
+      "一度発行した書物をさらに追加して印刷すること。重刷。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "売掛金",
+    "reading": [],
+    "english": [
+      "account(s) receivable"
+    ],
+    "description": [
+      "未収の売上の代金額。また、その受け取れる権利のこと。流動資産に分類される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "変動相場制",
+    "reading": [
+      "へんどうそうばせい"
+    ],
+    "english": [],
+    "description": [
+      "ある通貨と別の通貨の為替レートを固定せず市場原理に委ねる制度。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "外資",
+    "reading": [
+      "がいし"
+    ],
+    "english": [],
+    "description": [
+      "外国からの資本金。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "夜勤",
+    "reading": [
+      "やきん"
+    ],
+    "english": [
+      "night shift",
+      "nightshift"
+    ],
+    "description": [
+      "夜間の勤務。また、それをすること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "大恐慌",
+    "reading": [
+      "だいきょうこう",
+      "だいきょーこー"
+    ],
+    "english": [
+      "Great Depression"
+    ],
+    "description": [
+      "1929年10月24日のニューヨーク株式市場の暴落をきっかけとして発生した世界的な経済恐慌。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "大証",
+    "reading": [
+      "だいしょう",
+      "だいしょー"
+    ],
+    "english": [],
+    "description": [
+      "大阪証券取引所の略。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "好景気",
+    "reading": [
+      "こうけいき",
+      "こーけーき"
+    ],
+    "english": [],
+    "description": [
+      "「好況」と同じ。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "好況",
+    "reading": [
+      "こうきょう",
+      "こーきょー"
+    ],
+    "english": [],
+    "description": [
+      "経済活動が活発で、生産や消費が伸びている状況。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "始業",
+    "reading": [
+      "しぎょう",
+      "しぎょー"
+    ],
+    "english": [],
+    "description": [
+      "その日の仕事を始めること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "安定成長",
+    "reading": [
+      "あんていせいちょう"
+    ],
+    "english": [],
+    "description": [
+      "極端なインフレーションやデフレーション、貿易黒字・赤字を起こさないで堅実に経済が成長すること。日本では1973年から1986年ごろがこれに該当したとされる。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "安定資産",
+    "reading": [
+      "あんていしさん"
+    ],
+    "english": [],
+    "description": [
+      "経済の状況によらず価値が安定した資産。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "官銭",
+    "reading": [
+      "かんせん"
+    ],
+    "english": [],
+    "description": [
+      "政府発行の銭貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "定食屋",
+    "reading": [
+      "ていしょくや"
+    ],
+    "english": [],
+    "description": [
+      "定食を提供する食堂。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "実働",
+    "reading": [
+      "じつどう"
+    ],
+    "english": [],
+    "description": [
+      "実際に仕事につき働くこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "実質国内総生産",
+    "reading": [
+      "じっしつこくないそうせいさん"
+    ],
+    "english": [],
+    "description": [
+      "物価の変動を補正した国内総生産。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "実質経済成長率",
+    "reading": [
+      "じっしつけいざいせいちょうりつ"
+    ],
+    "english": [],
+    "description": [
+      "物価の変動を補正した経済成長率。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "家具屋",
+    "reading": [
+      "かぐや"
+    ],
+    "english": [],
+    "description": [
+      "家具を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "家具店",
+    "reading": [
+      "かぐてん"
+    ],
+    "english": [],
+    "description": [
+      "家具を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "寿退社",
+    "reading": [
+      "ことぶきたいしゃ"
+    ],
+    "english": [],
+    "description": [
+      "主に女性社員がめでたい事、特に結婚を機会に退社・退職すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "小口現金",
+    "reading": [],
+    "english": [],
+    "description": [
+      "少額経費の支払いのために、別口で管理されている現金を処理する勘定。小口現金係と呼ばれる各部署・課の担当者に事前に渡しておき、一定期間経過後に消費した分だけ補給する（定額資金前渡法）。流動資産に分類される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "小売店",
+    "reading": [
+      "こうりてん"
+    ],
+    "english": [],
+    "description": [
+      "商品を仕入れ、消費者に販売する店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "就業",
+    "reading": [
+      "しゅうぎょう",
+      "しゅうぎょー"
+    ],
+    "english": [],
+    "description": [
+      "業務に従事すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "市場",
+    "reading": [
+      "しじょう",
+      "しじょー"
+    ],
+    "english": [
+      "market",
+      "town market",
+      "marketplace",
+      "fair",
+      "bazaar"
+    ],
+    "description": [
+      "財貨やサービスが取引されることを抽象的に捉えた概念。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "市場原理",
+    "reading": [
+      "しじょうげんり"
+    ],
+    "english": [],
+    "description": [
+      "需要に比べて供給が少ないと価格が上がり、その逆で価格が下がるという原理。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "市況",
+    "reading": [
+      "しきょう",
+      "しきょー"
+    ],
+    "english": [],
+    "description": [
+      "市場の景気。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "布団屋",
+    "reading": [
+      "ふとんや"
+    ],
+    "english": [],
+    "description": [
+      "布団を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "帳簿",
+    "reading": [
+      "ちょうぼ",
+      "ちょーぼ"
+    ],
+    "english": [
+      "account",
+      "book"
+    ],
+    "description": [
+      "金銭や物品などの出納、収支などを記しておく帳面。総勘定元帳など。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "常傭",
+    "reading": [
+      "じょうよう",
+      "じょーよー"
+    ],
+    "english": [],
+    "description": [
+      "人を期限を定めずに続けて雇っておくこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "年休",
+    "reading": [
+      "ねんきゅう"
+    ],
+    "english": [
+      "paid",
+      "holiday",
+      "vacation"
+    ],
+    "description": [
+      "年次有給休暇の略。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "年商",
+    "reading": [
+      "ねんしょう",
+      "ねんしょー"
+    ],
+    "english": [],
+    "description": [
+      "一年間の総売上高。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "年次有給休暇",
+    "reading": [
+      "ねんじゆうきゅうきゅうか"
+    ],
+    "english": [
+      "paid",
+      "holiday",
+      "vacation"
+    ],
+    "description": [
+      "労働基準法に基づき1年ごとに労働者に与えられる有給休暇。年休。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "店舗",
+    "reading": [
+      "てんぽ"
+    ],
+    "english": [
+      "shop",
+      "store",
+      "shopping center",
+      "boutique"
+    ],
+    "description": [
+      "商店の用に供する建物。みせ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "建具屋",
+    "reading": [
+      "たてぐや"
+    ],
+    "english": [
+      "cabinetmaker",
+      "joiner"
+    ],
+    "description": [
+      "建具を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "建設国債",
+    "reading": [
+      "けんせつこくさい"
+    ],
+    "english": [],
+    "description": [
+      "国が道路、ダムなどの社会資本整備の財源を確保するために発行する国債。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "弁当屋",
+    "reading": [
+      "べんとうや"
+    ],
+    "english": [],
+    "description": [
+      "弁当を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "引当金",
+    "reading": [],
+    "english": [
+      "allowance",
+      "reserve"
+    ],
+    "description": [
+      "簿記の上で、将来の特定の費用または損失に備えると共に期間損益計算を適正に行うために、負債又は資産の評価勘定として計上される勘定科目。"
+    ],
+    "category": [
+      "簿記"
+    ]
+  },
+  {
+    "term": "強制保険",
+    "reading": [
+      "きょうせいほけん"
+    ],
+    "english": [],
+    "description": [
+      "法令に基づき、一定の範囲の人達に加入することが義務づけられている保険。雇用保険、自賠責保険など。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "強制労働",
+    "reading": [
+      "きょうせいろうどう"
+    ],
+    "english": [
+      "forced labour",
+      "forced labor"
+    ],
+    "description": [
+      "労働者の意に反して強制的にさせる労働。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "強制反対売買",
+    "reading": [
+      "きょうせいはんたいばいばい"
+    ],
+    "english": [],
+    "description": [
+      "信用取引において、取引者が追証を拒否した場合又は期日までに預託できない場合に、証券会社や商品取引会社が強制的に反対売買を執行、建玉をてじまって損失を確定させること。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "御田屋",
+    "reading": [
+      "おでんや"
+    ],
+    "english": [],
+    "description": [
+      "御田を提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "悪税",
+    "reading": [
+      "あくぜい"
+    ],
+    "english": [],
+    "description": [
+      "公平ではなく目的にそぐわない税。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "情報産業",
+    "reading": [
+      "じょうほうさんぎょう"
+    ],
+    "english": [],
+    "description": [
+      "情報を生産・収集・加工・提供する等の形態で業務を行う産業。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "惣菜屋",
+    "reading": [
+      "そうざいや"
+    ],
+    "english": [],
+    "description": [
+      "惣菜を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "惣菜店",
+    "reading": [
+      "そうざいてん"
+    ],
+    "english": [],
+    "description": [
+      "惣菜を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "成長率",
+    "reading": [
+      "せいちょうりつ"
+    ],
+    "english": [],
+    "description": [
+      "ある期間で国内経済がどれだけ成長したかを表す率。経済成長率。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "戦力",
+    "reading": [
+      "せんりょく"
+    ],
+    "english": [],
+    "description": [
+      "スポーツや労働などで貢献する力。そのための人材や機器類。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "投信",
+    "reading": [
+      "とうしん",
+      "とーしん"
+    ],
+    "english": [],
+    "description": [
+      "投資信託の略。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "投機",
+    "reading": [
+      "とうき"
+    ],
+    "english": [
+      "speculation"
+    ],
+    "description": [
+      "将来において価格が上昇することによる利益（例:転売による差益）を期待して取引を行うこと。この期待どおりにならないことによる損失のリスクも負う。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "投資",
+    "reading": [
+      "とうし"
+    ],
+    "english": [
+      "investment"
+    ],
+    "description": [
+      "1.のうち、資本、生産手段に対するもの。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "投資信託",
+    "reading": [
+      "とうししんたく"
+    ],
+    "english": [],
+    "description": [
+      "証券会社が投資家から資金を集め、その資金を専門の機関が有価証券で運用し、その収益を投資家に分配する金融商品。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "掃除屋",
+    "reading": [
+      "そうじや"
+    ],
+    "english": [],
+    "description": [
+      "掃除を行う店、人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "損切り",
+    "reading": [
+      "そんぎり"
+    ],
+    "english": [],
+    "description": [
+      "値下がりした株式、証券、外貨などを売却し、損失が確定であること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "損害保険",
+    "reading": [
+      "そんがいほけん"
+    ],
+    "english": [],
+    "description": [
+      "偶発的な事故により発生した損害について補填するための保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "支出",
+    "reading": [
+      "ししゅつ"
+    ],
+    "english": [
+      "expenditure"
+    ],
+    "description": [
+      "一定の目的に金品を支払うこと。また、その金品。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "支社",
+    "reading": [
+      "ししゃ"
+    ],
+    "english": [],
+    "description": [
+      "企業などで本社から分かれ、本社から離れた地域などで業務を行う事業所。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "改訂",
+    "reading": [
+      "かいてい",
+      "かいてー"
+    ],
+    "english": [],
+    "description": [
+      "（主に書物、著作物に対して）直し、改めること。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "改造券",
+    "reading": [
+      "かいぞうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1888年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "政治統合",
+    "reading": [
+      "せいじとうごう"
+    ],
+    "english": [],
+    "description": [
+      "特定の地域にある国家が共通の議会を導入するなどして政治的な結びつきを強めること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "数理経済学",
+    "reading": [
+      "すうりけいざいがく"
+    ],
+    "english": [],
+    "description": [
+      "数学的な手法を用いた分析がなされる経済学の一分野。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "文字銭",
+    "reading": [
+      "ぶんじせん"
+    ],
+    "english": [],
+    "description": [
+      "江戸時代、寛文年間（1661年~1673年）京都方広寺の大仏を解体して鋳造した寛永通宝の銅銭。裏に「文」の文字があった。文銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "文房具屋",
+    "reading": [
+      "ぶんぼうぐや"
+    ],
+    "english": [],
+    "description": [
+      "文房具を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "文房具店",
+    "reading": [
+      "ぶんぼうぐてん"
+    ],
+    "english": [],
+    "description": [
+      "文房具を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "料亭",
+    "reading": [
+      "りょうてい"
+    ],
+    "english": [],
+    "description": [
+      "「料理屋」のこと。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "料理店",
+    "reading": [
+      "りょうりてん"
+    ],
+    "english": [
+      "restaurant"
+    ],
+    "description": [
+      "客室を設け、飲食物を調理し、求めに応じて販売することを業とする店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "新株",
+    "reading": [
+      "しんかぶ"
+    ],
+    "english": [
+      "new",
+      "stocks",
+      "shares"
+    ],
+    "description": [
+      "株式会社が新規発行増資や株式分割のとき、新しく発行する株式。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "新自由主義",
+    "reading": [
+      "しんじゆうしゅぎ"
+    ],
+    "english": [],
+    "description": [
+      "1970年代以降に登場した、市場への介入をなるべく減らし市場原理に任せる思想。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "新興国",
+    "reading": [
+      "しんこうこく"
+    ],
+    "english": [],
+    "description": [
+      "20世紀後半以降に急速な発展を遂げた国々。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "日勤",
+    "reading": [
+      "にっきん"
+    ],
+    "english": [
+      "day shift"
+    ],
+    "description": [
+      "昼間の勤務。また、それをすること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "日商",
+    "reading": [
+      "にっしょう",
+      "にっしょー"
+    ],
+    "english": [],
+    "description": [
+      "一日の総売上高。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "日本銀行券",
+    "reading": [
+      "にっぽんぎんこうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本銀行が発行する紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "日歩",
+    "reading": [
+      "ひぶ"
+    ],
+    "english": [],
+    "description": [
+      "元金100円に対する１日あたりの利息の割合。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "日経",
+    "reading": [
+      "にっきょう",
+      "にっけい",
+      "にっけー",
+      "にっきょー"
+    ],
+    "english": [],
+    "description": [
+      "（にっけい）日本経済新聞。",
+      "（にっけい）日本経済新聞社。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "日経",
+    "reading": [
+      "にっけい",
+      "にっけー",
+      "にっきょー"
+    ],
+    "english": [],
+    "description": [
+      "日本の経済。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "日銀券",
+    "reading": [
+      "にちぎんけん"
+    ],
+    "english": [],
+    "description": [
+      "日本銀行券の略称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "昇給",
+    "reading": [
+      "しょうきゅう",
+      "しょーきゅう"
+    ],
+    "english": [
+      "raise",
+      "rise"
+    ],
+    "description": [
+      "給料が上がること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "昭和元禄",
+    "reading": [
+      "しょうわげんろく"
+    ],
+    "english": [],
+    "description": [
+      "昭和の高度経済成長期の泰平を江戸時代の元禄期に例えた言葉。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "時季変更権",
+    "reading": [
+      "じきへんこうけん"
+    ],
+    "english": [],
+    "description": [
+      "従業員の有休の取得について業務の運営に支障が出る場合、使用者がその時季を変更できる権利。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "時間外労働",
+    "reading": [
+      "じかんがいろうどう"
+    ],
+    "english": [],
+    "description": [
+      "労働基準法などに規定される労働時間を超えて労働することや、定められた休日に労働すること。超過勤務。残業。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "時間外協定",
+    "reading": [
+      "じかんがいきょうてい"
+    ],
+    "english": [],
+    "description": [
+      "使用者と労働者との間で結ばれる、時間外労働や休日出勤に関する取り決め。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "普通銀行",
+    "reading": [
+      "ふつうぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "銀行法に基づき設立された銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "景気",
+    "reading": [
+      "けいき",
+      "けーき"
+    ],
+    "english": [],
+    "description": [
+      "経済状態の動向。社会全体の状態を指して言う時が多い。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "景気変動",
+    "reading": [
+      "けいきへんどう"
+    ],
+    "english": [],
+    "description": [
+      "資本主義経済のもとで、景気が周期的に好況、後退、不況、回復を繰り返すこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "景気後退",
+    "reading": [
+      "けいきこうたい"
+    ],
+    "english": [],
+    "description": [
+      "景気の山から後退しているが、まだ不景気までには至っていない状況。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "景気循環",
+    "reading": [
+      "けいきじゅんかん"
+    ],
+    "english": [],
+    "description": [
+      "資本主義経済のもとで、景気が周期的に好況、後退、不況、回復を繰り返すこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "曖昧さ回避",
+    "reading": [
+      "あいまいさかいひ"
+    ],
+    "english": [
+      "ambiguity aversion",
+      "disambiguation"
+    ],
+    "description": [
+      "確率が未知であるような事象を回避しようとする選好。曖昧性忌避、不確実性回避。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "書店",
+    "reading": [
+      "しょてん"
+    ],
+    "english": [
+      "bookstore",
+      "bookshop"
+    ],
+    "description": [
+      "書籍の販売を、主要な事業とする企業。一般的には、そのうち小売業のものを指すが、その他、出版社や卸売りを行なう企業も含む。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "最低賃金",
+    "reading": [
+      "さいていちんぎん"
+    ],
+    "english": [
+      "minimum wage"
+    ],
+    "description": [
+      "法令（最低賃金法等）などにより使用者が労働者に支払わなければならない賃金の最低基準額。最賃。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "最貧国",
+    "reading": [
+      "さいひんこく"
+    ],
+    "english": [],
+    "description": [
+      "発展途上国の中でも特に所得の低い国。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "最賃",
+    "reading": [
+      "さいちん"
+    ],
+    "english": [],
+    "description": [
+      "最低賃金。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "月商",
+    "reading": [
+      "げっしょう",
+      "げっしょー"
+    ],
+    "english": [],
+    "description": [
+      "一箇月間の総売上高。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "月給",
+    "reading": [
+      "げっきゅう"
+    ],
+    "english": [
+      "monthly",
+      "salary"
+    ],
+    "description": [
+      "月ごとに決まって支給される給料のこと。サラリー。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "有休",
+    "reading": [
+      "ゆうきゅう"
+    ],
+    "english": [],
+    "description": [
+      "有給休暇。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "有価証券",
+    "reading": [
+      "ゆうかしょうけん",
+      "ゆうかしょーけん"
+    ],
+    "english": [
+      "securities"
+    ],
+    "description": [
+      "財産権を表示する証券で、権利の行使や移転が証券でなされるもの。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "有給",
+    "reading": [
+      "ゆうきゅう"
+    ],
+    "english": [],
+    "description": [
+      "給料が支払われること。",
+      "有給休暇。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "有給休暇",
+    "reading": [
+      "ゆうきゅうきゅうか"
+    ],
+    "english": [],
+    "description": [
+      "出勤した時と同様の給料が発生する休暇。年次有給休暇。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "服屋",
+    "reading": [
+      "ふくや"
+    ],
+    "english": [],
+    "description": [
+      "服を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "期末",
+    "reading": [
+      "きまつ"
+    ],
+    "english": [],
+    "description": [
+      "会計期間の終わり。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "期首",
+    "reading": [
+      "きしゅ"
+    ],
+    "english": [],
+    "description": [
+      "会計期間のはじめ。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "木材屋",
+    "reading": [
+      "もくざいや"
+    ],
+    "english": [],
+    "description": [
+      "木材を仕入れて販売する店、人。木材店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "未払費用",
+    "reading": [
+      "ば"
+    ],
+    "english": [],
+    "description": [
+      "既に提供されたサービス等に対していまだ対価の支払が終わらないもののこと。一定の契約に従い、継続してサービス等の提供を受ける場合が対象。勘定科目で、流動負債に分類されるものの一つ。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "本社",
+    "reading": [
+      "ほんしゃ"
+    ],
+    "english": [],
+    "description": [
+      "会社で本部または中心となる場所又は機能。一般には、本店登記がなされた住所に所在する会社組織。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "札",
+    "reading": [
+      "ふだ",
+      "セチ",
+      "サツ"
+    ],
+    "english": [],
+    "description": [
+      "（サツ）紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "朱",
+    "reading": [
+      "あけ",
+      "あか",
+      "あき",
+      "ス",
+      "シュ"
+    ],
+    "english": [],
+    "description": [
+      "江戸時代の貨幣単位。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "材料",
+    "reading": [
+      "ざいりょう",
+      "ざいりょー"
+    ],
+    "english": [
+      "material",
+      "data"
+    ],
+    "description": [
+      "相場を変動させる要因となるもの。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "材木屋",
+    "reading": [
+      "ざいもくや"
+    ],
+    "english": [],
+    "description": [
+      "材木を仕入れて販売する店、人。材木店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "東証",
+    "reading": [
+      "とうしょう"
+    ],
+    "english": [
+      "Tokyo Stock Exchange"
+    ],
+    "description": [
+      "東京証券取引所または株式会社東京証券取引所の略。東京の兜町にある証券取引所。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "株価",
+    "reading": [
+      "かぶか"
+    ],
+    "english": [],
+    "description": [
+      "株式が取引される価格。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "株券",
+    "reading": [
+      "かぶけん"
+    ],
+    "english": [
+      "stock",
+      "share",
+      "certificate"
+    ],
+    "description": [
+      "株主の地位を表象する有価証券。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "株式会社",
+    "reading": [
+      "かぶしきがいしゃ"
+    ],
+    "english": [
+      "joint-stock company"
+    ],
+    "description": [
+      "日本の会社法において、資本が有限責任資本のみにより構成され（物的会社）、当該資本が、株式という規格化された持分に分割され、出資者の権利が画される営利社団法人。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "棚卸資産",
+    "reading": [],
+    "english": [
+      "inventory"
+    ],
+    "description": [
+      "販売や加工することを目的として所有する資産。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "概念フレームワーク",
+    "reading": [],
+    "english": [],
+    "description": [
+      "企業会計（特に財務会計）の基礎にある前提や概念を体系化したもの。会計基準の概念的な基礎を提供するほか、財務諸表の様々な利用者の意思決定に資し、将来の基準開発に指針を与える役割も有する。財務会計の概念フレームワーク。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "模型屋",
+    "reading": [
+      "もけいや"
+    ],
+    "english": [],
+    "description": [
+      "模型を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "模型店",
+    "reading": [
+      "もけいてん"
+    ],
+    "english": [],
+    "description": [
+      "模型を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "欠勤",
+    "reading": [
+      "けっきん"
+    ],
+    "english": [],
+    "description": [
+      "本来勤務すべき日または時間を休むこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "正規雇用",
+    "reading": [
+      "せいきこよう"
+    ],
+    "english": [],
+    "description": [
+      "雇用の期間を定めず、フルタイムで雇用する形態の契約。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "正貨",
+    "reading": [
+      "せいか"
+    ],
+    "english": [],
+    "description": [
+      "本位貨幣のこと。金本位制における金貨、銀本位制における銀貨など。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "武器屋",
+    "reading": [
+      "ぶきや"
+    ],
+    "english": [],
+    "description": [
+      "武器を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "残業",
+    "reading": [
+      "ざんぎょう",
+      "ざんぎょー"
+    ],
+    "english": [
+      "overtime"
+    ],
+    "description": [
+      "規定の時間を超えて働くこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "毛銭",
+    "reading": [
+      "もうせん"
+    ],
+    "english": [],
+    "description": [
+      "中国宋の時代の銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "水菓子屋",
+    "reading": [
+      "みずがしや"
+    ],
+    "english": [],
+    "description": [
+      "水菓子を売る店、その人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "永",
+    "reading": [
+      "とわ",
+      "ヨウ",
+      "エイ"
+    ],
+    "english": [],
+    "description": [
+      "(エイ) 室町時代、中国の明より輸入され、江戸初期まで盛んに流通したが、1608年禁止された永楽通宝（永楽銭）の略称。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "求人",
+    "reading": [
+      "きゅうじん"
+    ],
+    "english": [],
+    "description": [
+      "労働者を雇用するため、そのような人を求めること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "決算",
+    "reading": [
+      "けっさん"
+    ],
+    "english": [
+      "settlement",
+      "of",
+      "accounts"
+    ],
+    "description": [
+      "会計期間の終わりに帳簿を締め切って、その期間の経営成績と期末における財政状態を明らかにするための一連の手続き。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "法定貨幣",
+    "reading": [],
+    "english": [],
+    "description": [
+      "国の法令により強制的な通用力をもつ貨幣。法貨。法幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "法幣",
+    "reading": [
+      "ほうへい"
+    ],
+    "english": [],
+    "description": [
+      "「法定貨幣」の略。法貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "法貨",
+    "reading": [],
+    "english": [],
+    "description": [
+      "法定貨幣の略。国の法令により強制的な通用力をもつ貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "洋品店",
+    "reading": [
+      "ようひんてん"
+    ],
+    "english": [],
+    "description": [
+      "洋服やその装身具など洋品を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "洋服屋",
+    "reading": [
+      "ようふくや"
+    ],
+    "english": [],
+    "description": [
+      "洋服を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "洋菓子屋",
+    "reading": [
+      "ようがしや"
+    ],
+    "english": [],
+    "description": [
+      "洋菓子を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "洋菓子店",
+    "reading": [
+      "ようがしてん"
+    ],
+    "english": [],
+    "description": [
+      "洋菓子を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "洋食屋",
+    "reading": [
+      "ようしょくや"
+    ],
+    "english": [],
+    "description": [
+      "洋食を作って客に提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "洗濯屋",
+    "reading": [
+      "せんたくや"
+    ],
+    "english": [],
+    "description": [
+      "依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "流動資産",
+    "reading": [],
+    "english": [
+      "current assets"
+    ],
+    "description": [
+      "簿記上の資産のうち、営業循環基準や一年基準によって短期間に現金化、費用化できるとされるもの。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "消費者",
+    "reading": [],
+    "english": [],
+    "description": [
+      "代価を払って財やサービスを消費する者。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "消費者金融",
+    "reading": [],
+    "english": [
+      "consumer finance",
+      "loan shark"
+    ],
+    "description": [
+      "貸金業の内、消費者への金銭の貸付け、又はこれを行う貸金業者。大抵の場合、出資法には抵触しないが利息制限法の制限を超える利息を取る高利貸しである。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "清算",
+    "reading": [
+      "せいさん",
+      "せーさん"
+    ],
+    "english": [
+      "clearing",
+      "clearance",
+      "settlement"
+    ],
+    "description": [
+      "おたがいの貸し借りを計算して、債権債務関係を消滅させること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "減価償却",
+    "reading": [],
+    "english": [
+      "depreciation",
+      "amortisation",
+      "amortization"
+    ],
+    "description": [
+      "固定資産を使用する期間にわたって、その価値を一定の規則に従って費用として配分していくこと。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "減価償却費",
+    "reading": [],
+    "english": [],
+    "description": [
+      "固定資産を減価償却するとき、各期に配分される費用。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "減資",
+    "reading": [
+      "げんし"
+    ],
+    "english": [
+      "capital decrease",
+      "capital reduction"
+    ],
+    "description": [
+      "資本金を減らすこと。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "火災保険",
+    "reading": [
+      "かさいほけん"
+    ],
+    "english": [],
+    "description": [
+      "火災ならびに水災により受ける財産の損害を補償する損害保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "災害保険",
+    "reading": [
+      "さいがいほけん"
+    ],
+    "english": [],
+    "description": [
+      "火災保険と地震保険の総称。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "無尽講",
+    "reading": [
+      "むじんこう"
+    ],
+    "english": [],
+    "description": [
+      "「頼母子講」を参照。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "無給",
+    "reading": [
+      "むきゅう"
+    ],
+    "english": [],
+    "description": [
+      "給料が支払われないこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "無配",
+    "reading": [
+      "むはい"
+    ],
+    "english": [],
+    "description": [
+      "無配当。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "無配当",
+    "reading": [
+      "むはいとう",
+      "むはいとー"
+    ],
+    "english": [],
+    "description": [
+      "配当を実施しないこと。無配。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "焼肉屋",
+    "reading": [
+      "やきにくや"
+    ],
+    "english": [],
+    "description": [
+      "焼き肉を提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "牛店",
+    "reading": [
+      "ぎゅうてん"
+    ],
+    "english": [],
+    "description": [
+      "牛肉料理を食べさせる料理屋。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "牛鍋屋",
+    "reading": [
+      "ぎゅうなべや"
+    ],
+    "english": [],
+    "description": [
+      "牛鍋を提供する店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "特休",
+    "reading": [
+      "とっきゅう"
+    ],
+    "english": [],
+    "description": [
+      "法令の定めなしに企業が独自に就業規則で設ける休暇。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "特例国債",
+    "reading": [
+      "とくれいこくさい"
+    ],
+    "english": [],
+    "description": [
+      "国が一般会計の赤字を補填するために発行する国債。赤字国債。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "特融",
+    "reading": [
+      "とくゆう"
+    ],
+    "english": [
+      "special",
+      "loans"
+    ],
+    "description": [
+      "特別に行われる融資。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "特需景気",
+    "reading": [
+      "とくじゅけいき"
+    ],
+    "english": [],
+    "description": [
+      "特需に伴い発生する好景気。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "独占",
+    "reading": [
+      "どくせん"
+    ],
+    "english": [
+      "monopoly"
+    ],
+    "description": [
+      "売り手又は買い手の主体が一人であり、価格の形成が一方によりなされる経済状態。一般には売り手独占の場合を言う。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "猫カフェ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "店内に多くは複数の猫が飼育され、その猫と触れあうことができるカフェ。キャットカフェ。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "玉",
+    "reading": [
+      "たま",
+      "だん",
+      "おう",
+      "ゴク",
+      "ギョク"
+    ],
+    "english": [],
+    "description": [
+      "（ギョク）取引の対象物。（例）建玉"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "玩具店",
+    "reading": [
+      "がんぐてん"
+    ],
+    "english": [],
+    "description": [
+      "おもちゃを販売する店"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "現金",
+    "reading": [
+      "げんきん"
+    ],
+    "english": [
+      "cash"
+    ],
+    "description": [
+      "ある法制下で強制通用力を有する貨幣。その貨幣を対価として引き渡すことにつき、債権者は拒絶することができず、かつ、引き渡しで決済が確定的に完了するもの。",
+      "語義1のものに加え、金融機関において直ちに、語義1の貨幣に交換できる通貨代用証券を含んだもの。"
+    ],
+    "category": [
+      "通貨",
+      "会計"
+    ]
+  },
+  {
+    "term": "理容室",
+    "reading": [
+      "りようしつ",
+      "りよーしつ"
+    ],
+    "english": [],
+    "description": [
+      "理容院"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "理容店",
+    "reading": [
+      "りようてん"
+    ],
+    "english": [],
+    "description": [
+      "理容院。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "理容所",
+    "reading": [
+      "りようしょ"
+    ],
+    "english": [],
+    "description": [
+      "理容師が理容を行う施設、店舗。とこや。理髪店。理容室。理容院。理容店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "理容院",
+    "reading": [
+      "りよういん",
+      "りよーいん"
+    ],
+    "english": [],
+    "description": [
+      "理容師などが理容術を施す施設。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "理髪店",
+    "reading": [
+      "りはつてん"
+    ],
+    "english": [],
+    "description": [
+      "理髪することを業とする店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "生命保険",
+    "reading": [
+      "せいめいほけん"
+    ],
+    "english": [
+      "life insurance"
+    ],
+    "description": [
+      "人の死亡を保険金支払いの条件としている保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "生活水準",
+    "reading": [
+      "せいかつすいじゅん"
+    ],
+    "english": [],
+    "description": [
+      "ある国民階層の所得や消費などを数値化して示される生活の内容や程度。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生活給",
+    "reading": [
+      "せいかつきゅう"
+    ],
+    "english": [],
+    "description": [
+      "労働者とその家族が生活を維持できる最低限度を保障する賃金。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "生産力",
+    "reading": [
+      "せいさんりょく",
+      "せーさんりょく"
+    ],
+    "english": [],
+    "description": [
+      "財貨を生産することができる力。社会における生産力は生産手段と労働力からなる。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生産手段",
+    "reading": [
+      "せいさんしゅだん"
+    ],
+    "english": [
+      "means of production"
+    ],
+    "description": [
+      "生産過程で労働ともに生産物を作り出すために使用される物質的な要素。土地や原材料など労働の対象と工場や道具、機械など労働手段とがある。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生産様式",
+    "reading": [
+      "せいさんようしき"
+    ],
+    "english": [
+      "mode of production"
+    ],
+    "description": [
+      "生産力と生産関係の結合によって成り立つ社会の経済的構造。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生産者",
+    "reading": [
+      "せいさんしゃ",
+      "せーさんしゃ"
+    ],
+    "english": [
+      "producer"
+    ],
+    "description": [
+      "商品を生産する人。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生産要素",
+    "reading": [
+      "せいさんようそ"
+    ],
+    "english": [],
+    "description": [
+      "財やサービスの生産に用いられる要素。一般に土地・労働・資本を指す。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "生花店",
+    "reading": [
+      "せいかてん"
+    ],
+    "english": [],
+    "description": [
+      "生花を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "用途",
+    "reading": [
+      "ようと",
+      "ようど"
+    ],
+    "english": [],
+    "description": [
+      "（ようど）必要な費用。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "甲号券",
+    "reading": [
+      "こうごうけん"
+    ],
+    "english": [],
+    "description": [
+      "日本で1899年に発行が開始された紙幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "疎外",
+    "reading": [
+      "そがい"
+    ],
+    "english": [
+      "alienation"
+    ],
+    "description": [
+      "（ドイツ語の哲学用語Entfremdungの訳語）あるものから生じたものが、そこから離れて、生じた元と対立関係を生ずること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "百円ショップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "100円ショップの別表記。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "百均",
+    "reading": [
+      "ひゃっきん",
+      "ヒャッキン"
+    ],
+    "english": [],
+    "description": [
+      "100円ショップ。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "直接金融",
+    "reading": [
+      "ちょくせつきんゆう"
+    ],
+    "english": [],
+    "description": [
+      "資金を必要とする者が金融機関を経ず、資金を供給する者から直接調達する方式。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "相互銀行",
+    "reading": [
+      "そうごぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "相互銀行法（1951年~1993年）に基づき設立された銀行。1989年から順次普通銀行に転換された。第二地方銀行。相銀。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "相殺",
+    "reading": [
+      "そうさい",
+      "そうさつ"
+    ],
+    "english": [
+      "counteract",
+      "neutralization",
+      "offset"
+    ],
+    "description": [
+      "（そうさい） 二者がそれぞれ相手方に対して持つ同種の債権を対等額で消滅させる行為。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "相殺",
+    "reading": [
+      "そうさいする",
+      "そうさつする"
+    ],
+    "english": [],
+    "description": [
+      "（そうさい） 二者がそれぞれ相手方に対して持つ同種の債権を対等額で消滅させる。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "相銀",
+    "reading": [
+      "そうぎん",
+      "そーぎん"
+    ],
+    "english": [],
+    "description": [
+      "相互銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "省銭",
+    "reading": [
+      "しょうせん",
+      "せいせん"
+    ],
+    "english": [],
+    "description": [
+      "江戸時代の通貨で百文未満であっても百文として通用させたもの。九六銭など。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "社会主義",
+    "reading": [
+      "しゃかいしゅぎ"
+    ],
+    "english": [
+      "socialism"
+    ],
+    "description": [
+      "土地や生産手段などの財産を共有化し、搾取のない平等で公正な社会をつくろうとする思想や運動。社会民主主義や空想的社会主義、科学的社会主義、共産主義、マルクス主義、など、いろいろな種類や別名がある。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "社保",
+    "reading": [
+      "しゃほ"
+    ],
+    "english": [],
+    "description": [
+      "社会保険の略。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "社団",
+    "reading": [
+      "しゃだん"
+    ],
+    "english": [
+      "association"
+    ],
+    "description": [
+      "一定の目的で構成員（社員）が結合した団体で、当該団体の債務は究極的に社員の個人財産を担保とする。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "社業",
+    "reading": [
+      "しゃぎょう",
+      "しゃぎょー"
+    ],
+    "english": [
+      "company",
+      "business"
+    ],
+    "description": [
+      "会社の事業。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "社畜",
+    "reading": [
+      "しゃちく"
+    ],
+    "english": [],
+    "description": [
+      "企業に飼い慣らされた家畜のようにがむしゃらに働く会社員。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "税収",
+    "reading": [
+      "ぜいしゅう",
+      "ぜーしゅう"
+    ],
+    "english": [],
+    "description": [
+      "税金による国や地方自治体の収入。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "稼得",
+    "reading": [
+      "かとく"
+    ],
+    "english": [],
+    "description": [
+      "労働・サービスの提供により収入を得ること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "立替金",
+    "reading": [],
+    "english": [],
+    "description": [
+      "取引先、役員、従業員、監査法人等が負担すべき金員を一時的に立替えた際に使う勘定科目。従業員が負担すべき社会保険料などは「従業員立替金」という勘定科目で処理されることもある。流動資産に分類される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "第一次産業",
+    "reading": [
+      "だいいちじさんぎょう",
+      "だいいちじさんぎょー"
+    ],
+    "english": [
+      "primary industry"
+    ],
+    "description": [
+      "コーリン・クラークによる産業分類の一つ。原材料・食糧などの生産に関わる産業。農業、林業、漁業など。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "第二地方銀行",
+    "reading": [
+      "だいにちほうぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "旧相互銀行を発祥とする地方銀行。社団法人第二地方銀行協会に属している銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "箪笥預金",
+    "reading": [
+      "たんすよきん"
+    ],
+    "english": [],
+    "description": [
+      "銀行などに預けず自宅の箪笥などに置いている現金。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "簞笥預金",
+    "reading": [
+      "たんすよきん"
+    ],
+    "english": [],
+    "description": [
+      "銀行などに預けず自宅の簞笥などに置いている現金。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "簡易保険",
+    "reading": [
+      "かんいほけん"
+    ],
+    "english": [],
+    "description": [
+      "2007年10月1日に実施された郵政民営化以前に、日本政府・日本郵政公社が行っていた生命保険事業。正式名称は「簡易生命保険」であり、通称「簡保（かんぽ）」。民営化前には「Kampo」とローマ字表記することも多い。簡易生命保険法によって規定されていた。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "簡易生命保険",
+    "reading": [
+      "かんいせいめいほけん"
+    ],
+    "english": [],
+    "description": [
+      "「簡易保険」の正式名称。簡保。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "米ドル",
+    "reading": [],
+    "english": [],
+    "description": [
+      "アメリカ合衆国などで使われているドル。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "粉飾決算",
+    "reading": [
+      "ふんしょくけっさん"
+    ],
+    "english": [],
+    "description": [
+      "財務状況などをよく見せかけるため過大（または過小）に計算し表示された決算。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "精肉店",
+    "reading": [
+      "せいにくてん"
+    ],
+    "english": [],
+    "description": [
+      "精肉を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "系列",
+    "reading": [],
+    "english": [
+      "series",
+      "Keiretsu"
+    ],
+    "description": [
+      "一連の製造又は販売の過程において、複数の企業が、役割分担をしながら、関係を有すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "純売上高",
+    "reading": [],
+    "english": [
+      "net sales"
+    ],
+    "description": [
+      "総売上高から売上値引・返品・割戻を差引いた金額。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "紙幣",
+    "reading": [
+      "しへい",
+      "しべい",
+      "しへー",
+      "しべー"
+    ],
+    "english": [
+      "banknote"
+    ],
+    "description": [
+      "（しへい）紙製の貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "累進課税",
+    "reading": [
+      "るいしんかぜい"
+    ],
+    "english": [],
+    "description": [
+      "所得の高い者に対して所得の低い者より高い税率を課すこと。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "終業",
+    "reading": [
+      "しゅうぎょう",
+      "しゅうぎょー"
+    ],
+    "english": [],
+    "description": [
+      "その日の業務を終えること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "経営学部",
+    "reading": [
+      "けいえいがくぶ"
+    ],
+    "english": [],
+    "description": [
+      "経営学の教授、研究を行う学部。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "経済学",
+    "reading": [
+      "けいざいがく",
+      "けーざいがく"
+    ],
+    "english": [
+      "economics"
+    ],
+    "description": [
+      "経済を研究分野とする学問。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済学者",
+    "reading": [
+      "けいざいがくしゃ"
+    ],
+    "english": [
+      "economist"
+    ],
+    "description": [
+      "経済学を研究する科学者。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済学部",
+    "reading": [
+      "けいざいがくぶ"
+    ],
+    "english": [],
+    "description": [
+      "経済学の教授、研究を行う学部。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済成長",
+    "reading": [
+      "けいざいせいちょう"
+    ],
+    "english": [],
+    "description": [
+      "国民経済の量的規模が長期にわたり成長すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済成長率",
+    "reading": [
+      "けいざいせいちょうりつ"
+    ],
+    "english": [],
+    "description": [
+      "前年と比較した国内総生産の伸び率。成長率。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済的",
+    "reading": [
+      "けいざいてき"
+    ],
+    "english": [],
+    "description": [
+      "経済や金銭に関係があるさま。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経済統合",
+    "reading": [
+      "けいざいとうごう"
+    ],
+    "english": [],
+    "description": [
+      "特定の地域にある国家が共通の通貨を導入したり、関税を廃止したりして、一つのまとまった経済圏を構成すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "経理",
+    "reading": [
+      "けいり"
+    ],
+    "english": [],
+    "description": [
+      "会計や給料計算、金銭・財産管理などを行う事務。計理。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "給料",
+    "reading": [
+      "きゅうりょう"
+    ],
+    "english": [
+      "pay",
+      "salary",
+      "年俸",
+      "wages"
+    ],
+    "description": [
+      "使用者が雇用者の労働に対して報酬として支払う金銭。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "維持費",
+    "reading": [
+      "いじひ"
+    ],
+    "english": [],
+    "description": [
+      "修理や清掃など、機能や見た目の維持にかかる費用。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "総売上高",
+    "reading": [],
+    "english": [
+      "gross sales"
+    ],
+    "description": [
+      "売上高の総額で売上値引・割戻などを差引く前の金額。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "繰延資産",
+    "reading": [],
+    "english": [
+      "deferred asset(s)",
+      "deferred expense(s)"
+    ],
+    "description": [
+      "本来は費用であるが、その効果が次期以降にも波及するため、支出した期間だけの費用にしないで、資産として繰り延べるもの。日本の企業会計では、株式交付費、社債発行費、創立費、開業費、開発費の5つが該当する。流動資産や固定資産とは区分掲記される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "羊羹屋",
+    "reading": [
+      "ようかんや"
+    ],
+    "english": [],
+    "description": [
+      "羊羹を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "美容室",
+    "reading": [
+      "びようしつ",
+      "びよーしつ"
+    ],
+    "english": [],
+    "description": [
+      "美容院。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "美容所",
+    "reading": [
+      "びようしょ"
+    ],
+    "english": [],
+    "description": [
+      "美容師が美容を行う施設、店舗。美容室。美容院。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "美容院",
+    "reading": [
+      "びよういん",
+      "びよーいん"
+    ],
+    "english": [],
+    "description": [
+      "美容師などが美容術を施す施設。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "職場",
+    "reading": [
+      "しょくば"
+    ],
+    "english": [],
+    "description": [
+      "仕事をする場所。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "肉体労働",
+    "reading": [
+      "にくたいろうどう"
+    ],
+    "english": [
+      "manual labor",
+      "manual labour",
+      "manual work"
+    ],
+    "description": [
+      "体（肉体）を使う労働。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "肉屋",
+    "reading": [
+      "にくや"
+    ],
+    "english": [
+      "meat store",
+      "butcher"
+    ],
+    "description": [
+      "肉を売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "肉店",
+    "reading": [
+      "にくてん"
+    ],
+    "english": [],
+    "description": [
+      "肉を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "育休",
+    "reading": [
+      "いくきゅう"
+    ],
+    "english": [],
+    "description": [
+      "育児休業（育児休暇）。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "育児休業",
+    "reading": [
+      "いくじきゅうぎょう"
+    ],
+    "english": [
+      "parental leave",
+      "family leave"
+    ],
+    "description": [
+      "労働者が法令に基づき育児のため一定の期間休業を取得すること。育児休暇。育休。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "自動車保険",
+    "reading": [
+      "じとうしゃほけん"
+    ],
+    "english": [],
+    "description": [
+      "自動車による損害を補償する損害保険",
+      "1.のうち、自動車損害賠償責任保険の限度額を超えた賠償金を賄いきれない際に自動車を保有、運行する者が任意で加入する保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "自動車損害賠償責任保険",
+    "reading": [
+      "じとうしゃそんがいばいしょうせきにんほけん"
+    ],
+    "english": [],
+    "description": [
+      "自動車損害賠償保障法に基づき自動車を保有、運行する者が必ず加入しなければならない保険。自賠責。自賠責保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "自由貿易",
+    "reading": [
+      "じゆうぼうえき",
+      "じゆうぼーえき"
+    ],
+    "english": [
+      "free trade"
+    ],
+    "description": [
+      "外国との貿易を行なう際に、政府の制約なしに自由に貿易ができること。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "自賠責",
+    "reading": [
+      "じばいせき"
+    ],
+    "english": [],
+    "description": [
+      "自動車損害賠償責任保険の略。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "自転車屋",
+    "reading": [
+      "じてんしゃや"
+    ],
+    "english": [],
+    "description": [
+      "自転車を修理したり、売ったりする店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "船員保険",
+    "reading": [
+      "せんいんほけん"
+    ],
+    "english": [],
+    "description": [
+      "船員保険法に基づいて船員法に規定される船員とその被扶養者に対して業務によらない病気、死亡、けが、出産に関する保険の給付を行う公的な保険。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "英貨",
+    "reading": [
+      "えいか",
+      "えーか"
+    ],
+    "english": [
+      "sterling"
+    ],
+    "description": [
+      "イギリスの貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "茶屋",
+    "reading": [
+      "ちゃや"
+    ],
+    "english": [],
+    "description": [
+      "製茶を売る店。",
+      "客に飲食や遊興を提供する店。",
+      "路傍の茶店。"
+    ],
+    "category": [
+      "店舗",
+      "飲食店"
+    ]
+  },
+  {
+    "term": "茶店",
+    "reading": [
+      "さてん",
+      "ちゃてん",
+      "ちゃみせ"
+    ],
+    "english": [
+      "tea",
+      "stall"
+    ],
+    "description": [
+      "(さてん, ちゃてん, ちゃみせ) 茶葉を売る店。",
+      "(さてん, ちゃてん, ちゃみせ) 軽食を提供して通行人を休ませる店。",
+      "(さてん) 喫茶店の略称。"
+    ],
+    "category": [
+      "店舗",
+      "飲食店"
+    ]
+  },
+  {
+    "term": "茶房",
+    "reading": [
+      "さぼう",
+      "さぼー"
+    ],
+    "english": [],
+    "description": [
+      "喫茶店の別名。カフェ。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "茶舗",
+    "reading": [
+      "ちゃほ"
+    ],
+    "english": [],
+    "description": [
+      "お茶を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "菓子屋",
+    "reading": [
+      "かしや"
+    ],
+    "english": [
+      "confectionery",
+      "candy store",
+      "sweet shop",
+      "confectioner"
+    ],
+    "description": [
+      "菓子を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "菓子店",
+    "reading": [
+      "かしてん"
+    ],
+    "english": [],
+    "description": [
+      "菓子を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "薬局",
+    "reading": [
+      "やっきょく"
+    ],
+    "english": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "description": [
+      "薬剤師が薬を調剤し販売する施設。既成の医薬品や雑貨を取り扱うところもある。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "薬店",
+    "reading": [
+      "やくてん"
+    ],
+    "english": [],
+    "description": [
+      "薬剤師や調剤室を置かずに医薬品販売許可を受けて市販薬の販売を行う店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "薬舗",
+    "reading": [
+      "やくほ"
+    ],
+    "english": [],
+    "description": [
+      "薬屋。薬店。薬局。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "蝋燭屋",
+    "reading": [
+      "ろうそくや"
+    ],
+    "english": [
+      "chandler",
+      "candler"
+    ],
+    "description": [
+      "蝋燭を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "融資",
+    "reading": [
+      "ゆうし"
+    ],
+    "english": [],
+    "description": [
+      "資金を融通すること。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "融資枠",
+    "reading": [
+      "ゆうしわく"
+    ],
+    "english": [],
+    "description": [
+      "金融機関と企業との間で予め融資の金額や期限について契約を締結しておき、その範囲内であれば時期や回数にも拘らず融資が受けられるもの。コミットメントライン。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "街金",
+    "reading": [
+      "まちきん"
+    ],
+    "english": [],
+    "description": [
+      "特定の地域内で小規模に営業している正規の（許可を受けた）貸金業者。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "補助簿",
+    "reading": [],
+    "english": [],
+    "description": [
+      "主要簿（仕訳帳と総勘定元帳）を補完するために企業が必要に応じて用いる帳簿。取引の発生順にその内容を記録していく補助記入帳と、 勘定科目を相手先や内容によって区別して記録していく補助元帳に大別され、補助記入帳には、現金出納帳や仕入帳・売上帳、補助元帳には、商品有高帳、売掛金元帳・買掛金元帳等がある。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "製パン店",
+    "reading": [],
+    "english": [],
+    "description": [
+      "パンを製造、販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "製菓店",
+    "reading": [
+      "せいかてん"
+    ],
+    "english": [],
+    "description": [
+      "菓子を製造、販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "製靴店",
+    "reading": [
+      "せいかてん"
+    ],
+    "english": [],
+    "description": [
+      "靴を製造、販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "複利",
+    "reading": [
+      "ふくり"
+    ],
+    "english": [
+      "compound interest"
+    ],
+    "description": [
+      "元金以外に利息にも、利息がかかること。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "見金",
+    "reading": [
+      "げんきん"
+    ],
+    "english": [],
+    "description": [
+      "現金の異表記。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "訂正仕訳",
+    "reading": [],
+    "english": [],
+    "description": [
+      "期中になされた誤った仕訳を訂正するために行う仕訳。正しい仕訳を行った後、誤った仕訳の逆仕訳（反対仕訳）を行い、誤った仕訳を逆仕訳と相殺する。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "計理",
+    "reading": [
+      "けいり"
+    ],
+    "english": [],
+    "description": [
+      "会計や給料計算、金銭・財産管理などを行う事務。経理。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "計算",
+    "reading": [
+      "けいさん",
+      "けーさん"
+    ],
+    "english": [
+      "figure",
+      "calculate",
+      "compute",
+      "reckon"
+    ],
+    "description": [
+      "企業会計、企業財務。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "計算機",
+    "reading": [
+      "けいさんき",
+      "けーさんき"
+    ],
+    "english": [
+      "calculator",
+      "calculating",
+      "machine",
+      "adding"
+    ],
+    "description": [
+      "計算を行なう機械。算盤、計算尺、計算図表、卓上計算機などがある。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "試用期間",
+    "reading": [
+      "しようきかん"
+    ],
+    "english": [],
+    "description": [
+      "企業が労働者を本採用する前に試験的に雇用し、能力や適性を見極める期間。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "調整",
+    "reading": [
+      "ちょうせい",
+      "ちょーせー"
+    ],
+    "english": [],
+    "description": [
+      "乱高下していた市場が落ち着きを取り戻し、相場が値を戻す動きのこと。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "諸掛",
+    "reading": [],
+    "english": [],
+    "description": [
+      "商品の仕入や販売の際にかかる費用の総称。輸送費、運賃、手数料など。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "豆腐屋",
+    "reading": [
+      "とうふや"
+    ],
+    "english": [],
+    "description": [
+      "豆腐を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "貝子",
+    "reading": [
+      "ばいし"
+    ],
+    "english": [],
+    "description": [
+      "かつて中国で使われた貝貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "貝貨",
+    "reading": [
+      "ばいか"
+    ],
+    "english": [],
+    "description": [
+      "貝殻をそのまま、または何らかの加工を施して製造された貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "財務",
+    "reading": [
+      "ざいむ"
+    ],
+    "english": [],
+    "description": [
+      "財政上の事務。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "財投",
+    "reading": [
+      "ざいとう"
+    ],
+    "english": [],
+    "description": [
+      "財政投融資。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "財貨",
+    "reading": [
+      "ざいか"
+    ],
+    "english": [
+      "property",
+      "wealth"
+    ],
+    "description": [
+      "財と同じ。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "財閥",
+    "reading": [
+      "ざいばつ"
+    ],
+    "english": [],
+    "description": [
+      "同族により出資された持株会社を中核とし、子会社に多角的経営をさせている企業集団。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "貨幣",
+    "reading": [
+      "かへい",
+      "かへー"
+    ],
+    "english": [],
+    "description": [
+      "物やサービスの流通価値を化体した物質。通貨を物質化したもの。お金。紙幣・硬貨など。",
+      "交換手段、価値表示手段、価値貯蔵手段としての機能をあわせ持つ財。価値基準財（ニュメレール）。日本においては、過去に米が貨幣として利用されたという歴史がある（参考:日本銀行金融研究所貨幣博物館『貨幣の散歩道』）。"
+    ],
+    "category": [
+      "通貨",
+      "経済"
+    ]
+  },
+  {
+    "term": "貨幣学",
+    "reading": [
+      "かへいがく"
+    ],
+    "english": [],
+    "description": [
+      "貨幣について研究する学問。古銭学。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "貨泉",
+    "reading": [
+      "かせん"
+    ],
+    "english": [],
+    "description": [
+      "新の王莽の時に鋳造された、円形の銅貨。西暦14年～40年の間に鋳造され、年代決定の手がかりとされる。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "買掛金",
+    "reading": [
+      "かいかけきん"
+    ],
+    "english": [
+      "account(s) payable"
+    ],
+    "description": [
+      "未払いの仕入代金額。また、その支払い義務。流動負債に分類される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "貸借",
+    "reading": [
+      "たいしゃく",
+      "かしかり"
+    ],
+    "english": [
+      "loan",
+      "debits",
+      "and",
+      "credits"
+    ],
+    "description": [
+      "貸方と借方。"
+    ],
+    "category": [
+      "簿記"
+    ]
+  },
+  {
+    "term": "貸金業",
+    "reading": [
+      "かしきんぎょう"
+    ],
+    "english": [],
+    "description": [
+      "消費者や事業者に対して融資を専門に行う事業。銀行業、証券業、保険業などそれぞれの法律に基づくものは含まれない。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "費用",
+    "reading": [
+      "ひよう",
+      "ひよー"
+    ],
+    "english": [
+      "cost",
+      "expense"
+    ],
+    "description": [
+      "収益をあげるために費やした価値。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "賃金",
+    "reading": [
+      "ちんぎん"
+    ],
+    "english": [
+      "wage"
+    ],
+    "description": [
+      "労働の対価として給付される金銭。",
+      "原価計算では、製造工程にかかわる者（いわゆる「ブルーカラー」層）のものをいい、管理者や管理事務の者（いわゆる「ホワイトカラー」層）のものは、給料という。前者（本稿）は\"wage\"の訳語であり、後者は\"salary\"の訳語である。"
+    ],
+    "category": [
+      "労働",
+      "会計"
+    ]
+  },
+  {
+    "term": "資本",
+    "reading": [
+      "しほん"
+    ],
+    "english": [
+      "capital"
+    ],
+    "description": [
+      "土地、労働とともに生産の三要素の一つで、経営組織のもと、生産過程に使われ、将来の収益源泉となるもの。",
+      "企業会計上、総資産から総負債を引いた残りのこと。純資産とも言う。→資本金"
+    ],
+    "category": [
+      "経済",
+      "会計"
+    ]
+  },
+  {
+    "term": "資本主義",
+    "reading": [
+      "しほんしゅぎ"
+    ],
+    "english": [
+      "capitalism"
+    ],
+    "description": [
+      "生産に必要な工場、労働力などが金銭で売買され、経済活動が余剰金を目的として資本に価値を求め、個人の意思にゆだねられる経済体制。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "資本家",
+    "reading": [
+      "しほんか"
+    ],
+    "english": [],
+    "description": [
+      "資本を企業に提供したり、資本を貸し付けて利益を得る人。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "資産",
+    "reading": [
+      "しさん"
+    ],
+    "english": [
+      "property",
+      "asset"
+    ],
+    "description": [
+      "経営活動を営むために必要な財貨や債権のこと。また、運用の形態から、流動資産、固定資産、繰延資産の3つに区分される。現預金や土地を除き、将来の費用との表現もある。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "資質",
+    "reading": [
+      "ししつ"
+    ],
+    "english": [
+      "endowment"
+    ],
+    "description": [
+      "職業などに適合する能力や性質。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "資金",
+    "reading": [
+      "しきん"
+    ],
+    "english": [
+      "capital",
+      "fund",
+      "funds",
+      "cash"
+    ],
+    "description": [
+      "事業の運営や特定の目的に使われる金銭。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "賞与",
+    "reading": [
+      "しょうよ"
+    ],
+    "english": [],
+    "description": [
+      "企業や公務員で給与とは別に年2回程度支給される金銭。ボーナス。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "赤字",
+    "reading": [
+      "あかじ"
+    ],
+    "english": [
+      "red ink",
+      "loss",
+      "deficit",
+      "in the red"
+    ],
+    "description": [
+      "支出が収入を上回ること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "赤字国債",
+    "reading": [
+      "あかじこくさい"
+    ],
+    "english": [],
+    "description": [
+      "国が一般会計の赤字を補填するために発行する国債。日本の財政法では禁止されているが、特例法が設けられ発行されることから特例国債とも称される。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "超勤",
+    "reading": [
+      "ちょうきん",
+      "ちょーきん"
+    ],
+    "english": [
+      "overtime"
+    ],
+    "description": [
+      "超過勤務の略。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "超過勤務",
+    "reading": [
+      "ちょうかきんむ",
+      "ちょーかきんむ"
+    ],
+    "english": [
+      "overtime",
+      "work"
+    ],
+    "description": [
+      "定められた時間を超過して勤務すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "軟貨",
+    "reading": [
+      "なんか"
+    ],
+    "english": [],
+    "description": [
+      "紙幣、札。",
+      "同じ価値の金または外貨と交換できない通貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "輸入",
+    "reading": [
+      "ゆにゅう",
+      "しゅにゅう"
+    ],
+    "english": [
+      "import"
+    ],
+    "description": [
+      "他国の商品を買い入れること。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "輸入超過",
+    "reading": [
+      "ゆにゅうちょうか",
+      "ゆにゅうちょーか"
+    ],
+    "english": [
+      "import",
+      "excess",
+      "surplus"
+    ],
+    "description": [
+      "ある期間の輸入総額が、同じ期間の輸出総額を超過すること。入超。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "輸出",
+    "reading": [
+      "ゆしゅつ"
+    ],
+    "english": [
+      "export"
+    ],
+    "description": [
+      "自国の商品を他国へ売ること。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "輸出超過",
+    "reading": [
+      "ゆしゅつちょうか",
+      "ゆしゅつちょーか"
+    ],
+    "english": [
+      "export",
+      "excess",
+      "surplus"
+    ],
+    "description": [
+      "ある期間の輸出総額が、同じ期間の輸入総額を超過すること。出超。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "近代経済学",
+    "reading": [
+      "きんだいけいざいがく"
+    ],
+    "english": [],
+    "description": [
+      "1870年代以降、西欧やアメリカを中心に発展した経済学の総称。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "追証",
+    "reading": [
+      "おいしょう"
+    ],
+    "english": [],
+    "description": [
+      "追加保証金の略語。為替や商品先物のなどの信用取引において、保証金に対する損失の比率が一定の割合を超えたときに、越えた分を充当するために取引所や取次業者に預託することを要する保証金。追証をしなかった場合は、強制反対売買が行われて、損失が確定する。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "退勤",
+    "reading": [
+      "たいきん"
+    ],
+    "english": [],
+    "description": [
+      "勤務が終わって職場を出ること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "退蔵益",
+    "reading": [
+      "たいぞうえき"
+    ],
+    "english": [],
+    "description": [
+      "プリペイドカードや有価証券などが商品や役務と交換されないまま失効したことによって発生する発行者側の利益。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "逆張り",
+    "reading": [
+      "ぎゃくばり"
+    ],
+    "english": [],
+    "description": [
+      "取引で人気がある時に売り、人気の無い時に買うこと。"
+    ],
+    "category": [
+      "相場"
+    ]
+  },
+  {
+    "term": "逆日歩",
+    "reading": [
+      "さかにっぽ",
+      "ぎゃくひぶ"
+    ],
+    "english": [],
+    "description": [
+      "株式を信用取引するとき、売建の借株について、貸株料以外にかかる手数料。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "逆進性",
+    "reading": [
+      "ぎゃくしんせい"
+    ],
+    "english": [],
+    "description": [
+      "所得の低い者が高い者より税金の負担が大きくなっていること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "通商",
+    "reading": [
+      "つうしょう",
+      "つうしょー"
+    ],
+    "english": [],
+    "description": [
+      "外国と商取引をすること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "通貨",
+    "reading": [
+      "つうか"
+    ],
+    "english": [
+      "currency"
+    ],
+    "description": [
+      "物やサービスの価値が一定の単位で化体され、国家等の強制力により流通が保証されたもの。流通貨幣の略とされる。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "遊休資本",
+    "reading": [
+      "ゆうきゅうしほん"
+    ],
+    "english": [],
+    "description": [
+      "投資先や貸し付け先がなくうまく活用されていない資金。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "過労",
+    "reading": [
+      "かろう",
+      "かろー"
+    ],
+    "english": [
+      "overwork"
+    ],
+    "description": [
+      "働き過ぎること。体調を崩すほどに心身を酷使すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "過労死",
+    "reading": [
+      "かろうし"
+    ],
+    "english": [
+      "karoshi"
+    ],
+    "description": [
+      "頻繁な残業や長時間労働などの過労やストレスによって、脳疾患や心疾患が引き起こされ、死亡すること。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "過疎",
+    "reading": [
+      "かそ"
+    ],
+    "english": [
+      "depopulation",
+      "underpopulation",
+      "depopulated"
+    ],
+    "description": [
+      "ある集落の人口が、他と比べて極端に少ない状態。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "道具屋",
+    "reading": [
+      "どうぐや"
+    ],
+    "english": [],
+    "description": [
+      "道具を販売する店、人。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "都市銀行",
+    "reading": [
+      "としぎんこう"
+    ],
+    "english": [],
+    "description": [
+      "大都市に本店を置き、全国各地に支店を有する普通銀行。都銀。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "都銀",
+    "reading": [
+      "とぎん"
+    ],
+    "english": [],
+    "description": [
+      "都市銀行。"
+    ],
+    "category": [
+      "銀行"
+    ]
+  },
+  {
+    "term": "酒店",
+    "reading": [
+      "しゅてん",
+      "さかだな",
+      "さかみせ",
+      "さけてん"
+    ],
+    "english": [],
+    "description": [
+      "酒を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "重刷",
+    "reading": [
+      "じゅうさつ"
+    ],
+    "english": [],
+    "description": [
+      "一度発行した書物をさらに追加して印刷すること。増刷。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "重労働",
+    "reading": [
+      "じゅうろうどう"
+    ],
+    "english": [],
+    "description": [
+      "肉体的に力のいる労働。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "重厚長大",
+    "reading": [
+      "じゅうこうちょうだい"
+    ],
+    "english": [],
+    "description": [
+      "造船、石油化学、鉄鋼などの重工業。また、その特徴。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "重版",
+    "reading": [
+      "じゅうはん"
+    ],
+    "english": [],
+    "description": [
+      "初版と同じ版を使い同じ判型・装幀にて刷りなおすこと。基本的にISBNコードは変更されない。"
+    ],
+    "category": [
+      "出版"
+    ]
+  },
+  {
+    "term": "金",
+    "reading": [
+      "かね",
+      "かな",
+      "こがね",
+      "コン",
+      "キン",
+      "きん"
+    ],
+    "english": [
+      "gold",
+      "golden"
+    ],
+    "description": [
+      "（かね）金銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "金券ショップ",
+    "reading": [],
+    "english": [],
+    "description": [
+      "金券やチケットを割り引きで販売する店舗。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "金融危機",
+    "reading": [
+      "きんゆうきき"
+    ],
+    "english": [],
+    "description": [
+      "景気の状況が悪化したことで金融不安が生じ、金融恐慌に近い状態になること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "金融市場",
+    "reading": [
+      "きんゆうしじょう"
+    ],
+    "english": [],
+    "description": [
+      "金融に関係する商品の取引が行われる市場。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "金融機関",
+    "reading": [
+      "きんゆうきかん"
+    ],
+    "english": [],
+    "description": [
+      "資金の供給や仲介（金融）などを行う機関。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "金貨",
+    "reading": [
+      "きんか"
+    ],
+    "english": [
+      "gold"
+    ],
+    "description": [
+      "金を主な原料として作られた貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "金銀",
+    "reading": [
+      "きんぎん",
+      "こんごん"
+    ],
+    "english": [],
+    "description": [
+      "金貨と銀貨。金銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銀",
+    "reading": [
+      "しろがね",
+      "かね",
+      "ゴン",
+      "ギン",
+      "ぎん"
+    ],
+    "english": [
+      "silver"
+    ],
+    "description": [
+      "貨幣や通貨、又はその象徴的な表現。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銀行印",
+    "reading": [
+      "ぎんこういん"
+    ],
+    "english": [],
+    "description": [
+      "金融機関に登録し、口座などの手続きを行うのに用いる印。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "銀角",
+    "reading": [
+      "ぎんかく"
+    ],
+    "english": [],
+    "description": [
+      "かつて中国で鋳造された一元未満の少額の銀貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銀貨",
+    "reading": [
+      "ぎんか"
+    ],
+    "english": [
+      "silver"
+    ],
+    "description": [
+      "銀を主な成分として鋳造される貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銀銭",
+    "reading": [
+      "ぎんせん"
+    ],
+    "english": [],
+    "description": [
+      "銀貨。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銃砲店",
+    "reading": [
+      "じゅうほうてん"
+    ],
+    "english": [],
+    "description": [
+      "銃砲を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "銅貨",
+    "reading": [
+      "どうか",
+      "どーか"
+    ],
+    "english": [],
+    "description": [
+      "銅を主な素材として鋳造された貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "銅銭",
+    "reading": [
+      "どうせん"
+    ],
+    "english": [],
+    "description": [
+      "銅で鋳造された銭。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "鋳貨",
+    "reading": [
+      "ちゅうか"
+    ],
+    "english": [],
+    "description": [
+      "鋳造された貨幣。"
+    ],
+    "category": [
+      "通貨"
+    ]
+  },
+  {
+    "term": "間接金融",
+    "reading": [
+      "かんせつきんゆう"
+    ],
+    "english": [],
+    "description": [
+      "資金を必要とする者が金融機関から資金を調達する方式。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "関税",
+    "reading": [
+      "かんぜい",
+      "かんぜー"
+    ],
+    "english": [
+      "tariff",
+      "customs duty",
+      "custom"
+    ],
+    "description": [
+      "外国からの輸入貨物や外国への輸出貨物が税関を通過する際に課される租税（間接消費税）。関税は、国内産業の保護を目的として課される保護関税と、財源の調達を目的として課される財政関税がある。"
+    ],
+    "category": [
+      "貿易"
+    ]
+  },
+  {
+    "term": "闇金融",
+    "reading": [
+      "やみきんゆう"
+    ],
+    "english": [],
+    "description": [
+      "元金に対し高い金利やそれに相当する金銭を請求する不正な貸金業者。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "防具屋",
+    "reading": [
+      "ぼうぐや"
+    ],
+    "english": [],
+    "description": [
+      "防具を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "限界利益",
+    "reading": [
+      "げんかいりえき"
+    ],
+    "english": [],
+    "description": [
+      "売上高から変動費を差し引いたもの。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "除却",
+    "reading": [
+      "じょきゃく"
+    ],
+    "english": [
+      "retirement",
+      "retire"
+    ],
+    "description": [
+      "固定資産の物理的な廃棄。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "陶器屋",
+    "reading": [
+      "とうきや"
+    ],
+    "english": [],
+    "description": [
+      "陶器を販売する店、人。陶器商。陶器店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "階級闘争",
+    "reading": [
+      "かいきゅうとうそう",
+      "かいきゅうとーそー"
+    ],
+    "english": [
+      "class struggle"
+    ],
+    "description": [
+      "生産手段の私有が社会の基礎となっている階級社会において、階級と階級とのあいだで発生する社会的格差を克服するために行われる闘争。"
+    ],
+    "category": [
+      "共産主義"
+    ]
+  },
+  {
+    "term": "雇用",
+    "reading": [
+      "こよう",
+      "こよー"
+    ],
+    "english": [],
+    "description": [
+      "仕事をさせるため人を雇うこと。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "雇用保険",
+    "reading": [
+      "こようほけん"
+    ],
+    "english": [],
+    "description": [
+      "雇用保険法に基づき失業した労働者に対する失業給付のほか、求職活動の促進をはかるための保険。国が保険者となり、事業主と労働者が加入する。"
+    ],
+    "category": [
+      "保険"
+    ]
+  },
+  {
+    "term": "青果店",
+    "reading": [
+      "せいかてん"
+    ],
+    "english": [],
+    "description": [
+      "青果を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "非営利会計",
+    "reading": [
+      "ひえいりかいけい"
+    ],
+    "english": [],
+    "description": [
+      "営利を目的としない組織体が計算主体となる会計。非営利組織会計。非営利法人会計。"
+    ],
+    "category": [
+      "会計"
+    ]
+  },
+  {
+    "term": "非正規雇用",
+    "reading": [
+      "ひせいきこよう"
+    ],
+    "english": [],
+    "description": [
+      "雇用期間の定めがあり、フルタイムより労働時間や日数が少ない雇用の形態。"
+    ],
+    "category": [
+      "労働"
+    ]
+  },
+  {
+    "term": "靴店",
+    "reading": [
+      "くつてん"
+    ],
+    "english": [],
+    "description": [
+      "靴を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "預り金",
+    "reading": [],
+    "english": [],
+    "description": [
+      "取引先、役員、従業員等から金員を一時的に預かり、後日その者に返金するか、本人または本人に代わって第三者に支払う金員を管理するために使う勘定科目。従業員から預かった源泉徴収税額など。流動負債に分類されるが、1年を超えるものは「長期預り金」「預り保証金」の勘定科目で処理され、固定負債に分類される。"
+    ],
+    "category": [
+      "会計",
+      "簿記"
+    ]
+  },
+  {
+    "term": "預金",
+    "reading": [
+      "よきん"
+    ],
+    "english": [
+      "deposit"
+    ],
+    "description": [
+      "お金を銀行などに預けること。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "頼母子講",
+    "reading": [
+      "たのもしこう"
+    ],
+    "english": [],
+    "description": [
+      "金融を目的とした庶民の互助組織。一定の期日に集まって構成員が一定の金銭を出し、抽選や入札により当選者を決める。それを繰り返し（一度当選したものは除かれる）、全員が目的を果たすと解散する。鎌倉時代に始まるとされる。無尽講。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "額面",
+    "reading": [
+      "がくめん"
+    ],
+    "english": [],
+    "description": [
+      "「額面価格」のこと。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "額面価格",
+    "reading": [
+      "がくめんかかく"
+    ],
+    "english": [],
+    "description": [
+      "紙幣や有価証券に記載された価格。額面。"
+    ],
+    "category": [
+      "金融"
+    ]
+  },
+  {
+    "term": "風俗店",
+    "reading": [
+      "ふうぞくてん"
+    ],
+    "english": [],
+    "description": [
+      "客に対し性的なサービスを提供する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "食事処",
+    "reading": [
+      "しょくじどころ"
+    ],
+    "english": [],
+    "description": [
+      "和食や定食を中心とする食事を提供する飲食店。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "食堂",
+    "reading": [
+      "しょくどう",
+      "じきどう",
+      "しょくどー"
+    ],
+    "english": [
+      "dining room",
+      "restaurant"
+    ],
+    "description": [
+      "（しょくどう）食事及びそれを供する場所を有料で提供する店舗。特に、個室に区切らない大衆的なものを指す。レストラン。料理屋。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "飲みニケーション",
+    "reading": [
+      "のみにけーしょん"
+    ],
+    "english": [],
+    "description": [
+      "外食店などで酒を飲みながら会話して親交を深めること。特に、仕事上の関係がある人同士が業務外の時間に行うものを指すことが多い。"
+    ],
+    "category": [
+      "ビジネス"
+    ]
+  },
+  {
+    "term": "餃子屋",
+    "reading": [
+      "ぎょうざや"
+    ],
+    "english": [],
+    "description": [
+      "餃子を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "饅頭屋",
+    "reading": [
+      "まんじゅうや"
+    ],
+    "english": [],
+    "description": [
+      "饅頭を作って売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "駄菓子屋",
+    "reading": [
+      "だがしや"
+    ],
+    "english": [],
+    "description": [
+      "駄菓子を売る店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "高度成長",
+    "reading": [
+      "こうどせいちょう"
+    ],
+    "english": [],
+    "description": [
+      "国の経済が短期間に急激に成長すること。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "高度経済成長",
+    "reading": [
+      "こうどけいざいせいちょう"
+    ],
+    "english": [],
+    "description": [
+      "経済の急速な成長。特に、日本で1955年から1973年にかけて発生したもの。"
+    ],
+    "category": [
+      "経済"
+    ]
+  },
+  {
+    "term": "鮮魚店",
+    "reading": [
+      "せんぎょてん"
+    ],
+    "english": [],
+    "description": [
+      "鮮魚を販売する店。"
+    ],
+    "category": [
+      "店舗"
+    ]
+  },
+  {
+    "term": "麺屋",
+    "reading": [
+      "めんや"
+    ],
+    "english": [],
+    "description": [
+      "麺料理を作って客に提供する飲食店、人。"
+    ],
+    "category": [
+      "飲食店"
+    ]
+  },
+  {
+    "term": "黒字",
+    "reading": [
+      "くろじ"
+    ],
+    "english": [
+      "black ink",
+      "surplus",
+      "in the black"
+    ],
+    "description": [
+      "収入が支出を上回ること。"
+    ],
+    "category": [
+      "会計"
+    ]
+  }
+]

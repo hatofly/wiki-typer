@@ -120,7 +120,6 @@ def api_request(params: dict) -> dict:
             response.read()
         )
 
-
 def get_subcategories(
     category: str,
 ) -> list[str]:
@@ -252,7 +251,7 @@ def is_language_category(
 
 def collect_categories(
     root_category: str,
-    delay: float = 0.1,
+    delay: float = 1,
 ) -> set[str]:
 
     root = normalize_category(
@@ -994,6 +993,14 @@ def main():
         target_categories = (
             collect_categories(root)
         )
+
+    # normalize
+    target_categories = {
+        normalize_category(
+            c
+        )
+        for c in target_categories
+    }
 
     print()
     print(
