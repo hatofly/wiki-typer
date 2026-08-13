@@ -287,7 +287,12 @@ def collect_categories(
                 f"    WARNING: failed to "
                 f"retrieve subcategories: {e}"
             )
-
+            if "429" in str(e):
+                print(
+                    "    Rate limit exceeded. "
+                    "Exponential backoff will be applied."
+                )
+                delay *= 2
             continue
 
         for child in children:
