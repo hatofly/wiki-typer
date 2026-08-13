@@ -65,7 +65,7 @@ def main():
         print(f"エラー: JSONディレクトリが見つかりません: {json_dir}", file=sys.stderr)
         sys.exit(1)
 
-    json_files = sorted(json_dir.glob("*.json"))
+    json_files = sorted(json_dir.glob("*.JSON"))
     if not json_files:
         print(f"警告: {json_dir} に .json ファイルが見つかりませんでした。")
         return
