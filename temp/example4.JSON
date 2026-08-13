@@ -1,0 +1,243 @@
+{
+    "word": "アイソトープ",
+    "lang_code": "ja",
+    "lang": "日本語",
+    "pos": "noun",
+    "pos_title": "名詞",
+    "senses": [
+        {
+            "glosses": [
+                "同位体のこと。ラジオアイソトープは放射性同位体のこと。"
+            ],
+            "topics": [
+                "chemistry",
+                "physics"
+            ],
+            "categories": [
+                "日本語 化学",
+                "日本語 物理学"
+            ]
+        }
+    ],
+    "categories": [
+        "日本語",
+        "日本語 名詞",
+        "日本語_英語由来"
+    ],
+    "etymology_texts": [
+        "英語: isotope"
+    ],
+    "translations": [
+        {
+            "lang_code": "is",
+            "lang": "アイスランド語",
+            "word": "samsæta",
+            "sense": "同位体",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "is",
+            "lang": "アイスランド語",
+            "word": "ísótópur",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "ar",
+            "lang": "アラビア語",
+            "word": "نظير",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ],
+            "roman": "naZiir"
+        },
+        {
+            "lang_code": "hy",
+            "lang": "アルメニア語",
+            "word": "իզոտոպ",
+            "sense": "同位体",
+            "roman": "izotop"
+        },
+        {
+            "lang_code": "it",
+            "lang": "イタリア語",
+            "word": "isotopo",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "io",
+            "lang": "イド語",
+            "word": "izotopo",
+            "sense": "同位体"
+        },
+        {
+            "lang_code": "uk",
+            "lang": "ウクライナ語",
+            "word": "ізотоп",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ],
+            "roman": "izotóp"
+        },
+        {
+            "lang_code": "en",
+            "lang": "英語",
+            "word": "isotope",
+            "sense": "同位体"
+        },
+        {
+            "lang_code": "eo",
+            "lang": "エスペラント",
+            "word": "izotopo",
+            "sense": "同位体"
+        },
+        {
+            "lang_code": "nl",
+            "lang": "オランダ語",
+            "word": "isotoop",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "ca",
+            "lang": "カタルーニャ語",
+            "word": "isòtop",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "sv",
+            "lang": "スウェーデン語",
+            "word": "isotop",
+            "sense": "同位体",
+            "tags": [
+                "common"
+            ]
+        },
+        {
+            "lang_code": "es",
+            "lang": "スペイン語",
+            "word": "isótopo",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "cs",
+            "lang": "チェコ語",
+            "word": "izotop",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "zh",
+            "lang": "中国語",
+            "word": "同位素",
+            "sense": "同位体",
+            "roman": "tóngwèisù"
+        },
+        {
+            "lang_code": "de",
+            "lang": "ドイツ語",
+            "word": "Isotop",
+            "sense": "同位体",
+            "tags": [
+                "neuter"
+            ]
+        },
+        {
+            "lang_code": "hu",
+            "lang": "ハンガリー語",
+            "word": "izotóp",
+            "sense": "同位体"
+        },
+        {
+            "lang_code": "fi",
+            "lang": "フィンランド語",
+            "word": "isotooppi",
+            "sense": "同位体"
+        },
+        {
+            "lang_code": "fr",
+            "lang": "フランス語",
+            "word": "isotope",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "bg",
+            "lang": "ブルガリア語",
+            "word": "изотоп",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ],
+            "roman": "izotóp"
+        },
+        {
+            "lang_code": "be",
+            "lang": "ベラルーシ語",
+            "word": "ізатоп",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ],
+            "roman": "izatóp"
+        },
+        {
+            "lang_code": "pt",
+            "lang": "ポルトガル語",
+            "word": "isótopo",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "lt",
+            "lang": "リトアニア語",
+            "word": "izotopas",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "ro",
+            "lang": "ルーマニア語",
+            "word": "izotop",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "ru",
+            "lang": "ロシア語",
+            "word": "изотоп",
+            "sense": "同位体",
+            "tags": [
+                "masculine"
+            ],
+            "roman": "izotóp"
+        }
+    ]
+}

@@ -4,31 +4,44 @@ import argparse
 import gzip
 import json
 import re
+import time
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
+
+# ============================================================
+# Configuration
+# ============================================================
 
 DEFAULT_URL = (
     "https://kaikki.org/jawiktionary/"
     "raw-wiktextract-data.jsonl.gz"
 )
 
+WIKTIONARY_API = (
+    "https://ja.wiktionary.org/w/api.php"
+)
 
-# ----------------------------------------------------------------------
-# Category handling
-# ----------------------------------------------------------------------
+
+# ============================================================
+# Category normalization
+# ============================================================
 
 def normalize_category(category: str) -> str:
     """
-    Normalize category names.
+    Normalize Wiktionary category names.
 
     Examples:
+
         日本語 物理学
         日本語_物理学
         ja:物理学
         物理学
 
-    -> 物理学
+    are normalized to:
+
+        物理学
     """
 
     if not category:
@@ -36,15 +49,16 @@ def normalize_category(category: str) -> str:
 
     category = category.strip()
 
-    # Wiktionary category names may use spaces or underscores.
+    # Underscore and whitespace are equivalent for
+    # MediaWiki category names.
     category = re.sub(r"[\s_]+", " ", category)
 
-    # Remove language prefix.
     prefixes = (
         "日本語 ",
         "Japanese ",
         "ja:",
         "ja ",
+        "カテゴリ:"
     )
 
     for prefix in prefixes:
@@ -55,10 +69,10 @@ def normalize_category(category: str) -> str:
     return category.strip()
 
 
-def category_matches(category: str, target: str) -> bool:
-    """
-    Compare categories after normalization.
-    """
+def category_matches(
+    category: str,
+    target: str,
+) -> bool:
 
     return (
         normalize_category(category)
@@ -66,99 +80,385 @@ def category_matches(category: str, target: str) -> bool:
     )
 
 
-# ----------------------------------------------------------------------
-# Japanese text detection
-# ----------------------------------------------------------------------
+# ============================================================
+# Wiktionary category API
+# ============================================================
 
-HIRAGANA_RE = re.compile(r"^[ぁ-ゖー]+$")
-KATAKANA_RE = re.compile(r"^[ァ-ヺー]+$")
+def api_request(params: dict) -> dict:
+    """
+    Perform a request to the Japanese Wiktionary API.
+    """
+
+    params = {
+        **params,
+        "action": "query",
+        "format": "json",
+        "formatversion": "2",
+    }
+
+    query = urllib.parse.urlencode(
+        params,
+        doseq=True,
+    )
+
+    url = (
+        WIKTIONARY_API
+        + "?"
+        + query
+    )
+
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent":
+                "ScientificTypingTermExtractor/1.0"
+        },
+    )
+
+    with urllib.request.urlopen(request) as response:
+        return json.loads(
+            response.read()
+        )
+
+
+def get_subcategories(
+    category: str,
+) -> list[str]:
+    """
+    Get all direct subcategories of a category.
+
+    Pagination via cmcontinue is handled automatically.
+    """
+
+    category_title = (
+        "Category:"
+        + category
+    )
+
+    subcategories = []
+
+    continue_token = None
+
+    while True:
+
+        params = {
+            "list": "categorymembers",
+            "cmtitle": category_title,
+            "cmtype": "subcat",
+            "cmlimit": "500",
+        }
+
+        if continue_token:
+            params["cmcontinue"] = (
+                continue_token
+            )
+
+        data = api_request(params)
+
+        members = (
+            data
+            .get("query", {})
+            .get("categorymembers", [])
+        )
+
+        for member in members:
+
+            title = member.get(
+                "title",
+                "",
+            )
+
+            if title.startswith(
+                "Category:"
+            ):
+                title = title[
+                    len("Category:"):
+                ]
+
+            if title:
+                subcategories.append(
+                    title
+                )
+
+        continuation = data.get(
+            "continue"
+        )
+
+        if not continuation:
+            break
+
+        continue_token = continuation.get(
+            "cmcontinue"
+        )
+
+        if not continue_token:
+            break
+
+    return subcategories
+
+def is_language_category(
+    category: str,
+    parent_category: str,
+) -> bool:
+    """
+    Return True if category looks like:
+
+        <language> <parent_category>
+
+    Examples:
+
+        イタリア語 物理学
+        英語 物理学
+        ドイツ語 力学
+
+    These are language-specific categories and should not
+    be followed during scientific-category recursion.
+    """
+
+    category = normalize_category(category)
+    parent_category = normalize_category(parent_category)
+
+    if not category.endswith(
+        " " + parent_category
+    ):
+        return False
+
+    prefix = category[
+        :-(len(parent_category) + 1)
+    ].strip()
+
+    if not prefix:
+        return False
+
+    # Japanese Wiktionary language names.
+    #
+    # This is deliberately somewhat conservative rather than
+    # trying to enumerate every possible language.
+    language_names = (
+        "語",
+        "語の",
+        "インターリングア",
+        "エスペラント",
+        "トク・ピシン",
+        "ロジバン"
+    )
+
+    # prefixに言語名が含まれていたらTrueを返す
+    for name in language_names:
+        if name in prefix:
+            return True
+
+    return False
+
+def collect_categories(
+    root_category: str,
+    delay: float = 0.1,
+) -> set[str]:
+
+    root = normalize_category(
+        root_category
+    )
+
+    visited = set()
+    queue = [
+        (root, None)
+    ]
+
+    while queue:
+
+        category, parent = queue.pop(0)
+
+        if category in visited:
+            continue
+
+        visited.add(category)
+
+        print(
+            f"  category: {category}"
+        )
+
+        try:
+            children = get_subcategories(
+                category
+            )
+
+        except Exception as e:
+
+            print(
+                f"    WARNING: failed to "
+                f"retrieve subcategories: {e}"
+            )
+
+            continue
+
+        for child in children:
+
+            normalized = normalize_category(
+                child
+            )
+
+            # ------------------------------------------------
+            # Exclude language-specific categories
+            # ------------------------------------------------
+
+            if is_language_category(
+                normalized,
+                category,
+            ):
+                print(
+                    f"    skip: {normalized}"
+                )
+                continue
+
+            if normalized not in visited:
+
+                queue.append(
+                    (
+                        normalized,
+                        category,
+                    )
+                )
+
+        if delay > 0:
+            time.sleep(delay)
+
+    return visited
+
+# ============================================================
+# Japanese text / kana
+# ============================================================
+
+HIRAGANA_RE = re.compile(
+    r"^[ぁ-ゖー]+$"
+)
+
+KATAKANA_RE = re.compile(
+    r"^[ァ-ヺー]+$"
+)
 
 
 def is_hiragana(text: str) -> bool:
-    return bool(HIRAGANA_RE.fullmatch(text))
+    return bool(
+        HIRAGANA_RE.fullmatch(text)
+    )
 
 
 def is_katakana(text: str) -> bool:
-    return bool(KATAKANA_RE.fullmatch(text))
+    return bool(
+        KATAKANA_RE.fullmatch(text)
+    )
 
 
 def is_kana(text: str) -> bool:
-    """
-    True if the entire string consists of hiragana/katakana.
-    """
+    return (
+        is_hiragana(text)
+        or is_katakana(text)
+    )
 
-    return is_hiragana(text) or is_katakana(text)
 
-
-# ----------------------------------------------------------------------
+# ============================================================
 # Reading extraction
-# ----------------------------------------------------------------------
+# ============================================================
 
-def extract_reading(entry: dict) -> str:
+def extract_readings(
+    entry: dict,
+) -> list[str]:
     """
-    Extract Japanese reading from forms.
+    Extract possible kana readings.
 
-    We prefer:
-        - hiragana
-        - katakana
+    Priority:
 
-    and ignore things such as:
-        - ソウ
-        - ショウ
-        - transliteration of kanji
+        1. forms[].form containing hiragana
+        2. forms[].form containing katakana
+        3. sounds[].other containing kana
 
-    because these are often on'yomi / kun'yomi labels rather
-    than the actual kana reading of the word.
-
-    Example:
-        重力子 -> じゅうりょくし
-        酸     -> (no reliable kana reading from forms)
+    Multiple readings are preserved.
     """
 
-    candidates = []
+    hiragana = []
+    katakana = []
+    sound_other = []
 
-    for form in entry.get("forms", []):
-        value = form.get("form", "").strip()
+    # --------------------------------------------------------
+    # forms
+    # --------------------------------------------------------
+
+    for form in entry.get(
+        "forms",
+        [],
+    ):
+
+        value = form.get(
+            "form",
+            "",
+        ).strip()
 
         if not value:
             continue
 
-        # Actual kana spelling
+        if is_hiragana(value):
+            hiragana.append(value)
+
+        elif is_katakana(value):
+            katakana.append(value)
+
+    # --------------------------------------------------------
+    # sounds
+    # --------------------------------------------------------
+
+    for sound in entry.get(
+        "sounds",
+        [],
+    ):
+
+        value = sound.get(
+            "other",
+            "",
+        ).strip()
+
+        if not value:
+            continue
+
         if is_kana(value):
-            candidates.append(value)
+            sound_other.append(value)
 
-    # Remove duplicates while preserving order.
-    candidates = list(dict.fromkeys(candidates))
+    # --------------------------------------------------------
+    # Combine according to priority.
+    # --------------------------------------------------------
 
-    if not candidates:
-        return ""
+    result = []
 
-    # Prefer hiragana.
-    hiragana = [
-        x for x in candidates
-        if is_hiragana(x)
-    ]
+    for values in (
+        hiragana,
+        katakana,
+        sound_other,
+    ):
 
-    if hiragana:
-        return hiragana[0]
+        for value in values:
 
-    return candidates[0]
+            if value not in result:
+                result.append(value)
+
+    return result
 
 
-# ----------------------------------------------------------------------
+# ============================================================
 # English translation
-# ----------------------------------------------------------------------
+# ============================================================
 
-def extract_english_translation(entry: dict) -> str:
+def extract_english(
+    entry: dict,
+) -> list[str]:
     """
     Extract English translations.
-
-    Returns up to three unique English translations.
     """
 
-    candidates = []
+    result = []
 
-    for translation in entry.get("translations", []):
+    for translation in entry.get(
+        "translations",
+        [],
+    ):
 
         lang_code = translation.get(
             "lang_code",
@@ -170,117 +470,151 @@ def extract_english_translation(entry: dict) -> str:
             "",
         )
 
-        if (
+        if not (
             lang_code == "en"
             or lang.lower() in {
                 "english",
                 "英語",
             }
         ):
-            word = translation.get(
-                "word",
-                "",
-            ).strip()
+            continue
 
-            if word:
-                candidates.append(word)
+        word = translation.get(
+            "word",
+            "",
+        ).strip()
 
-    # Deduplicate
-    candidates = list(dict.fromkeys(candidates))
+        if (
+            word
+            and word not in result
+        ):
+            result.append(word)
 
-    return ", ".join(candidates[:3])
+    return result
 
 
-# ----------------------------------------------------------------------
+# ============================================================
 # Sense extraction
-# ----------------------------------------------------------------------
+# ============================================================
 
-def find_matching_senses(
+def get_matching_senses(
     entry: dict,
-    target_category: str,
+    target_categories: set[str],
 ):
     """
-    Find senses whose categories contain target_category.
-
-    IMPORTANT:
-    The gloss must be taken from the SAME sense that contains
-    the matching category.
-
-    This fixes the problem illustrated by:
-
-        相
-
-    where only the 7th sense belongs to physics.
+    Return senses whose categories belong to the
+    recursively collected target category tree.
     """
 
-    matching_senses = []
+    matching = []
 
-    for sense in entry.get("senses", []):
+    for sense in entry.get(
+        "senses",
+        [],
+    ):
 
         categories = sense.get(
             "categories",
             [],
         )
 
-        if any(
-            category_matches(
-                category,
-                target_category,
+        matched_categories = []
+
+        for category in categories:
+
+            normalized = normalize_category(
+                category
             )
-            for category in categories
-        ):
-            matching_senses.append(sense)
 
-    return matching_senses
+            if normalized in target_categories:
+                matched_categories.append(
+                    normalized
+                )
+
+        if matched_categories:
+
+            matching.append(
+                (
+                    sense,
+                    matched_categories,
+                )
+            )
+
+    return matching
 
 
-def extract_description_from_senses(
-    senses: list,
-) -> str:
+def extract_descriptions(
+    matching_senses,
+) -> tuple[list[str], list[str]]:
     """
-    Extract descriptions from matching senses.
+    Extract glosses and their corresponding categories.
+
+    Returns:
+
+        descriptions
+        categories
     """
 
     descriptions = []
+    categories = []
 
-    for sense in senses:
+    for sense, sense_categories in (
+        matching_senses
+    ):
 
-        for gloss in sense.get(
+        glosses = sense.get(
             "glosses",
             [],
-        ):
+        )
+
+        if not glosses:
+            continue
+
+        for gloss in glosses:
 
             gloss = gloss.strip()
 
-            if gloss:
-                descriptions.append(gloss)
+            if not gloss:
+                continue
 
-    # Remove duplicates while preserving order.
-    descriptions = list(
-        dict.fromkeys(descriptions)
+            if gloss not in descriptions:
+
+                descriptions.append(
+                    gloss
+                )
+
+            for category in (
+                sense_categories
+            ):
+
+                if category not in categories:
+                    categories.append(
+                        category
+                    )
+
+    return (
+        descriptions,
+        categories,
     )
 
-    if not descriptions:
-        return ""
 
-    # Join multiple meanings.
-    return " / ".join(descriptions)
-
-
-# ----------------------------------------------------------------------
+# ============================================================
 # Entry extraction
-# ----------------------------------------------------------------------
+# ============================================================
 
 def extract_entry(
     entry: dict,
-    target_category: str,
+    target_categories: set[str],
 ):
     """
-    Convert a Wiktextract entry into the simplified format.
+    Convert a Wiktextract entry into our
+    simplified JSON format.
     """
 
     # Japanese entries only.
-    if entry.get("lang_code") != "ja":
+    if entry.get(
+        "lang_code"
+    ) != "ja":
         return None
 
     term = entry.get(
@@ -291,41 +625,57 @@ def extract_entry(
     if not term:
         return None
 
-    # Find senses belonging to the requested category.
-    matching_senses = find_matching_senses(
+    # --------------------------------------------------------
+    # Find category-matching senses.
+    # --------------------------------------------------------
+
+    matching_senses = get_matching_senses(
         entry,
-        target_category,
+        target_categories,
     )
 
     if not matching_senses:
         return None
 
-    description = extract_description_from_senses(
+    # --------------------------------------------------------
+    # Extract only descriptions from
+    # category-matching senses.
+    # --------------------------------------------------------
+
+    (
+        descriptions,
+        categories,
+    ) = extract_descriptions(
         matching_senses
     )
 
-    # Ignore entries with no usable definition.
-    if not description:
+    if not descriptions:
         return None
 
-    reading = extract_reading(entry)
+    # --------------------------------------------------------
+    # Other fields
+    # --------------------------------------------------------
 
-    english = extract_english_translation(entry)
+    readings = extract_readings(
+        entry
+    )
+
+    english = extract_english(
+        entry
+    )
 
     return {
         "term": term,
-        "reading": reading,
+        "reading": readings,
         "english": english,
-        "description": description,
-        "category": normalize_category(
-            target_category
-        ),
+        "description": descriptions,
+        "category": categories,
     }
 
 
-# ----------------------------------------------------------------------
+# ============================================================
 # Download
-# ----------------------------------------------------------------------
+# ============================================================
 
 def download_file(
     url: str,
@@ -335,11 +685,21 @@ def download_file(
     Download Wiktextract JSONL.gz.
     """
 
-    print(f"Downloading:")
+    print("Downloading:")
     print(f"  {url}")
     print(f"  -> {output}")
 
-    with urllib.request.urlopen(url) as response:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent":
+                "ScientificTypingTermExtractor/1.0"
+        },
+    )
+
+    with urllib.request.urlopen(
+        request
+    ) as response:
 
         total = response.headers.get(
             "Content-Length"
@@ -381,8 +741,7 @@ def download_file(
                         f"{downloaded / 1024 / 1024:.1f} MB"
                         f" / "
                         f"{total / 1024 / 1024:.1f} MB"
-                        f" "
-                        f"({percent:.1f}%)",
+                        f" ({percent:.1f}%)",
                         end="",
                     )
 
@@ -390,29 +749,26 @@ def download_file(
     print("Download complete.")
 
 
-# ----------------------------------------------------------------------
+# ============================================================
 # JSONL processing
-# ----------------------------------------------------------------------
+# ============================================================
 
 def process_jsonl(
     input_path: Path,
     output_path: Path,
-    target_category: str,
+    target_categories: set[str],
 ):
     """
-    Process Wiktextract JSONL.gz line by line.
-
-    The complete dataset is never loaded into memory.
+    Stream-process the Wiktextract JSONL.gz file.
     """
 
     results = []
 
     print()
     print(
-        f"Target category: "
-        f"{normalize_category(target_category)}"
+        f"Processing "
+        f"{len(target_categories)} categories..."
     )
-    print()
 
     with gzip.open(
         input_path,
@@ -431,12 +787,14 @@ def process_jsonl(
                 continue
 
             try:
-                entry = json.loads(line)
+                entry = json.loads(
+                    line
+                )
 
             except json.JSONDecodeError:
 
                 print(
-                    f"Warning: invalid JSON "
+                    f"WARNING: invalid JSON "
                     f"at line {line_number}"
                 )
 
@@ -444,24 +802,29 @@ def process_jsonl(
 
             result = extract_entry(
                 entry,
-                target_category,
+                target_categories,
             )
 
             if result is not None:
-                results.append(result)
+                results.append(
+                    result
+                )
 
-            if line_number % 100_000 == 0:
+            if (
+                line_number % 100_000
+                == 0
+            ):
 
                 print(
                     f"  processed "
-                    f"{line_number:,} entries"
+                    f"{line_number:,}"
                     f" / found "
                     f"{len(results):,}"
                 )
 
-    # ------------------------------------------------------------------
+    # --------------------------------------------------------
     # Deduplicate
-    # ------------------------------------------------------------------
+    # --------------------------------------------------------
 
     unique = {}
 
@@ -469,8 +832,8 @@ def process_jsonl(
 
         key = (
             result["term"],
-            result["reading"],
-            result["description"],
+            tuple(result["reading"]),
+            tuple(result["description"]),
         )
 
         if key not in unique:
@@ -480,7 +843,10 @@ def process_jsonl(
         unique.values()
     )
 
-    # Sort alphabetically by term.
+    # --------------------------------------------------------
+    # Sort
+    # --------------------------------------------------------
+
     results.sort(
         key=lambda x: (
             x["term"],
@@ -488,9 +854,9 @@ def process_jsonl(
         )
     )
 
-    # ------------------------------------------------------------------
+    # --------------------------------------------------------
     # Write JSON
-    # ------------------------------------------------------------------
+    # --------------------------------------------------------
 
     output_path.parent.mkdir(
         parents=True,
@@ -516,21 +882,21 @@ def process_jsonl(
         f"{len(results):,}"
     )
     print(
-        f"  Output:  "
+        f"  Output: "
         f"{output_path}"
     )
 
 
-# ----------------------------------------------------------------------
+# ============================================================
 # Main
-# ----------------------------------------------------------------------
+# ============================================================
 
 def main():
 
     parser = argparse.ArgumentParser(
         description=(
-            "Extract Japanese terms from "
-            "Wiktionary/Wiktextract data."
+            "Extract Japanese scientific "
+            "terms from Wiktionary."
         )
     )
 
@@ -538,8 +904,16 @@ def main():
         "--category",
         required=True,
         help=(
-            "Wiktionary category, "
-            "e.g. '物理学'"
+            "Root category, "
+            "e.g. 物理学"
+        ),
+    )
+
+    parser.add_argument(
+        "--no-recursive",
+        action="store_true",
+        help=(
+            "Do not search subcategories."
         ),
     )
 
@@ -550,7 +924,8 @@ def main():
             "jawiktionary.jsonl.gz"
         ),
         help=(
-            "Path to Wiktextract JSONL.gz."
+            "Path to Wiktextract "
+            "JSONL.gz."
         ),
     )
 
@@ -568,7 +943,7 @@ def main():
         action="store_true",
         help=(
             "Download the latest "
-            "Japanese Wiktionary dump first."
+            "Wiktionary dump."
         ),
     )
 
@@ -580,7 +955,10 @@ def main():
 
     args = parser.parse_args()
 
-    # Download if requested or if file doesn't exist.
+    # --------------------------------------------------------
+    # Download
+    # --------------------------------------------------------
+
     if (
         args.download
         or not args.input.exists()
@@ -591,10 +969,47 @@ def main():
             args.input,
         )
 
+    # --------------------------------------------------------
+    # Collect categories
+    # --------------------------------------------------------
+
+    print()
+    print(
+        f"Collecting categories under "
+        f"'{args.category}'..."
+    )
+
+    root = normalize_category(
+        args.category
+    )
+
+    if args.no_recursive:
+
+        target_categories = {
+            root
+        }
+
+    else:
+
+        target_categories = (
+            collect_categories(root)
+        )
+
+    print()
+    print(
+        f"Found "
+        f"{len(target_categories)} "
+        f"categories."
+    )
+
+    # --------------------------------------------------------
+    # Process dump
+    # --------------------------------------------------------
+    print(f"Target categories: {target_categories}")
     process_jsonl(
         args.input,
         args.output,
-        args.category,
+        target_categories,
     )
 
 

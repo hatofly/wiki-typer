@@ -1,0 +1,1787 @@
+[
+  {
+    "term": "N",
+    "reading": "エヌ",
+    "english": "",
+    "description": "磁石やコンパスが北を示す方の磁極。Sの対極。",
+    "category": "物理学"
+  },
+  {
+    "term": "X線",
+    "reading": "",
+    "english": "X-ray",
+    "description": "1ピコメートルから10ナノメートル程度の短い波長をもつ電磁波。X線撮影などに用いられる。",
+    "category": "物理学"
+  },
+  {
+    "term": "α線",
+    "reading": "",
+    "english": "",
+    "description": "アルファ線のギリシア文字を用いた表記。",
+    "category": "物理学"
+  },
+  {
+    "term": "β線",
+    "reading": "",
+    "english": "",
+    "description": "ベータ線のギリシア文字を用いた表記。",
+    "category": "物理学"
+  },
+  {
+    "term": "γ線",
+    "reading": "",
+    "english": "",
+    "description": "ガンマ線のギリシア文字を用いた表記。",
+    "category": "物理学"
+  },
+  {
+    "term": "δ関数",
+    "reading": "",
+    "english": "",
+    "description": "デルタ関数のギリシア文字を用いた表記。",
+    "category": "物理学"
+  },
+  {
+    "term": "しごと",
+    "reading": "しごとし",
+    "english": "work, job",
+    "description": "物体に力を働かせて動かしたときの力と変位の内積。",
+    "category": "物理学"
+  },
+  {
+    "term": "なみ",
+    "reading": "",
+    "english": "wave, ripple",
+    "description": "主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。",
+    "category": "物理学"
+  },
+  {
+    "term": "ぬれる",
+    "reading": "ぬれ",
+    "english": "get, wet",
+    "description": "固体の表面に液体の薄い膜ができる。表面張力が小さい場合におこる。",
+    "category": "物理学"
+  },
+  {
+    "term": "ねいろ",
+    "reading": "",
+    "english": "timbre",
+    "description": "高さ・大きさと並ぶ音の三要素のひとつ。音の波形がこれにあたり、同じ高さの音をきいた時のきこえ方の違いを示す性質。",
+    "category": "物理学"
+  },
+  {
+    "term": "ば",
+    "reading": "",
+    "english": "field",
+    "description": "空間におけるある領域の各点である量が与えられている状態。一定の量を持った平面又は空間。",
+    "category": "物理学"
+  },
+  {
+    "term": "ひかり",
+    "reading": "",
+    "english": "light",
+    "description": "太陽や炎から発せられる、目に見えるもので、周囲の物を照らして見えるようにするもの。電磁波で、人の目に達して感覚（視覚）を生ずるもの。目に見える限界はそれぞれ、短波長側が360nm - 400nm、長波長側が760nm - 830nmの範囲にある。可視光線。",
+    "category": "物理学"
+  },
+  {
+    "term": "ひずみ",
+    "reading": "",
+    "english": "",
+    "description": "物体に外力を加えたときに生じる形状・体積などの変化。",
+    "category": "物理学"
+  },
+  {
+    "term": "ゆがみ",
+    "reading": "",
+    "english": "",
+    "description": "一般相対性理論で、重力により生じる空間の曲がり。",
+    "category": "物理学"
+  },
+  {
+    "term": "アイソトープ",
+    "reading": "",
+    "english": "isotope",
+    "description": "同位体のこと。ラジオアイソトープは放射性同位体のこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "アルキメデスの原理",
+    "reading": "",
+    "english": "",
+    "description": "静止した物体が受ける浮力の大きさは、その物体が逃がした流体の重さに等しいという原理。",
+    "category": "物理学"
+  },
+  {
+    "term": "アルファ線",
+    "reading": "",
+    "english": "",
+    "description": "放射線の一つで、放射性元素のα崩壊によるアルファ粒子の流れ。電離作用が強い。",
+    "category": "物理学"
+  },
+  {
+    "term": "エネルギー",
+    "reading": "",
+    "english": "energy",
+    "description": "仕事をすることができる量・能力。",
+    "category": "物理学"
+  },
+  {
+    "term": "エレクトロンボルト",
+    "reading": "",
+    "english": "",
+    "description": "電子ボルト。",
+    "category": "物理学"
+  },
+  {
+    "term": "エーテル",
+    "reading": "アイテール",
+    "english": "",
+    "description": "光量子説以前に考えられていた、光が振動するための媒質。 / 真空において電場や磁場、重力場が存在する空間。",
+    "category": "物理学"
+  },
+  {
+    "term": "カロリー",
+    "reading": "",
+    "english": "calorie",
+    "description": "熱量の単位のひとつ。水一グラムを摂氏温度で一度上げるのに必要な熱量を一とする。小カロリー。記号はcal, ㎈。主に栄養学で用いられ、国際単位系ではジュールが用いられる。",
+    "category": "物理学"
+  },
+  {
+    "term": "ガンマ線",
+    "reading": "",
+    "english": "",
+    "description": "電磁波で最も短い波長のもの。原子核から放出される放射線の一種。",
+    "category": "物理学"
+  },
+  {
+    "term": "キャビテーション",
+    "reading": "",
+    "english": "",
+    "description": "船のスクリューなどの圧力が蒸気圧より小さくなった際に水蒸気の泡が発生する現象。この現象は機器の効率が低下したり壊れたりする原因となる。",
+    "category": "物理学"
+  },
+  {
+    "term": "キロメートル波",
+    "reading": "",
+    "english": "",
+    "description": "長波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "キロワット",
+    "reading": "",
+    "english": "",
+    "description": "電力をはじめとする仕事率の単位で1ワットの千倍。",
+    "category": "物理学"
+  },
+  {
+    "term": "クォーク",
+    "reading": "クオーク",
+    "english": "quark",
+    "description": "ハドロンを構成する素粒子。単独で存在することはなくハドロン中にのみ存在する。+2/3・eの電荷を持つアップ・トップ・チャームと、-1/3・eの電荷を持つダウン・ボトム・ストレンジの六種類がある。それぞれの粒子は色荷という物理量を有していて、ハドロン中で色荷は白色でなければならない性質を持つ。",
+    "category": "物理学"
+  },
+  {
+    "term": "クラスター",
+    "reading": "",
+    "english": "",
+    "description": "原子や分子が相互作用により結合して一つの塊となっている状態。",
+    "category": "物理学"
+  },
+  {
+    "term": "ゲージ粒子",
+    "reading": "げーじりゅうし",
+    "english": "",
+    "description": "力を伝える素粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "コイル",
+    "reading": "",
+    "english": "coil",
+    "description": "針金などのひも状のものを、螺旋状にまたはうずまき状に巻きあげたもの。 / 電気部品のひとつで、電磁誘導により電流の変化を抑える働きをさせたり、磁力をつくりだしたり（電磁石）させる。",
+    "category": "物理学"
+  },
+  {
+    "term": "コンプライアンス",
+    "reading": "",
+    "english": "",
+    "description": "物体の変形しやすさを表す物理量。",
+    "category": "物理学"
+  },
+  {
+    "term": "サインカーブ",
+    "reading": "",
+    "english": "",
+    "description": "正弦関数（sin）のグラフの曲線。",
+    "category": "物理学"
+  },
+  {
+    "term": "サブミリ波",
+    "reading": "",
+    "english": "",
+    "description": "波長が100マイクロメートルから1ミリメートルの電波。",
+    "category": "物理学"
+  },
+  {
+    "term": "シヌソイド",
+    "reading": "",
+    "english": "",
+    "description": "正弦波。",
+    "category": "物理学"
+  },
+  {
+    "term": "シュバルツシルト面",
+    "reading": "",
+    "english": "",
+    "description": "事象の地平面。",
+    "category": "物理学"
+  },
+  {
+    "term": "ジーメンス",
+    "reading": "",
+    "english": "siemens",
+    "description": "コンダクタンス、アドミタンス、サセプタンスの単位。記号 S。1ジーメンスは、1アンペアの直流の電流が流れる導体の二点間の直流の電圧が1ボルトであるときのその二点間の電気のコンダクタンスのこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "スカラー",
+    "reading": "",
+    "english": "scalar",
+    "description": "速さ・質量・温度といった、単一の数で表す量。ベクトルでないいわゆる普通の数。スカラー量。",
+    "category": "物理学"
+  },
+  {
+    "term": "スカラー量",
+    "reading": "",
+    "english": "",
+    "description": "大きさのみを持つ量。スカラー。",
+    "category": "物理学"
+  },
+  {
+    "term": "スピン",
+    "reading": "",
+    "english": "",
+    "description": "素粒子の角運動量。",
+    "category": "物理学"
+  },
+  {
+    "term": "スペクトル",
+    "reading": "",
+    "english": "spectrum",
+    "description": "電磁波を分光器を通して分解し、波長ごとに並べたもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "センチメートル波",
+    "reading": "",
+    "english": "",
+    "description": "波長が1センチメートルから10センチメートルの電波。",
+    "category": "物理学"
+  },
+  {
+    "term": "センチ波",
+    "reading": "",
+    "english": "",
+    "description": "波長が1センチメートルから10センチメートルの電波。センチメートル波。",
+    "category": "物理学"
+  },
+  {
+    "term": "タウ粒子",
+    "reading": "",
+    "english": "tauon, tau lepton",
+    "description": "レプトンの一つ。電気素量に等しい負の電荷と1/2のスピンを持ち、陽子の約2倍の質量を持つ。",
+    "category": "物理学"
+  },
+  {
+    "term": "タキオン",
+    "reading": "",
+    "english": "",
+    "description": "常に超光速で進む粒子として想定されている未発見の粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ターディオン",
+    "reading": "",
+    "english": "",
+    "description": "光速未満の速度でしか進めない粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "テスラ",
+    "reading": "",
+    "english": "tesla",
+    "description": "磁束密度の単位（国際単位系;SI）。記号はT。",
+    "category": "物理学"
+  },
+  {
+    "term": "テラヘルツ波",
+    "reading": "",
+    "english": "",
+    "description": "周波数が1テラヘルツ前後、波長が100マイクロメートルから1ミリメートル前後の電波。",
+    "category": "物理学"
+  },
+  {
+    "term": "デカメートル波",
+    "reading": "",
+    "english": "",
+    "description": "短波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "デシメートル波",
+    "reading": "",
+    "english": "",
+    "description": "極超短波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "ドップラー効果",
+    "reading": "",
+    "english": "",
+    "description": "移動している物体から発せられる波の波長が変化する現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "ニュートリノ",
+    "reading": "",
+    "english": "neutrino",
+    "description": "素粒子の内のレプトンのうち、電荷をもたないもの。記号νで表され、電子ニュートリノ (νₑ)、ミューニュートリノ (ν_μ)及びタウニュートリノ(ν_τ)よりなる。「中性微子」ともいうが、用いられることはまれ。",
+    "category": "物理学"
+  },
+  {
+    "term": "ニュートロン",
+    "reading": "",
+    "english": "",
+    "description": "中性子。",
+    "category": "物理学"
+  },
+  {
+    "term": "バッテリー",
+    "reading": "",
+    "english": "",
+    "description": "電池。",
+    "category": "物理学"
+  },
+  {
+    "term": "パラレルワールド",
+    "reading": "",
+    "english": "",
+    "description": "並行世界。",
+    "category": "物理学"
+  },
+  {
+    "term": "ヒッグス粒子",
+    "reading": "",
+    "english": "",
+    "description": "物体に質量をもたらす粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ヒル",
+    "reading": "",
+    "english": "",
+    "description": "国際単位系 (SI) における質量の単位。記号はhyl。メトリックスラグに同じ。",
+    "category": "物理学"
+  },
+  {
+    "term": "ビーム",
+    "reading": "",
+    "english": "",
+    "description": "粒子の集団や波長の短い波が、細い流れとなって並進したもの。粒子線など。",
+    "category": "物理学"
+  },
+  {
+    "term": "ピークトゥピーク",
+    "reading": "",
+    "english": "",
+    "description": "振動の幅。振幅の倍の値。",
+    "category": "物理学"
+  },
+  {
+    "term": "フィジックス",
+    "reading": "",
+    "english": "",
+    "description": "物理学。",
+    "category": "物理学"
+  },
+  {
+    "term": "フィールド",
+    "reading": "",
+    "english": "",
+    "description": "電場、磁場、重力場などの場。",
+    "category": "物理学"
+  },
+  {
+    "term": "ブラケット",
+    "reading": "",
+    "english": "",
+    "description": "ブラとケットを用いた物理学の記法。",
+    "category": "物理学"
+  },
+  {
+    "term": "プロトン",
+    "reading": "",
+    "english": "",
+    "description": "素粒子のひとつ、陽子のこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "ヘクトメートル波",
+    "reading": "",
+    "english": "",
+    "description": "中波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "ヘルツ",
+    "reading": "",
+    "english": "hertz",
+    "description": "周波数、振動数の単位。1ヘルツは、1秒間に1回の周波数・振動数のこと。固有の名称と記号が与えられているSI組立単位の一つで、記号は Hz で表す。",
+    "category": "物理学"
+  },
+  {
+    "term": "ベクトル",
+    "reading": "",
+    "english": "vector",
+    "description": "大きさと向きを持つ量。",
+    "category": "物理学"
+  },
+  {
+    "term": "ベクトル量",
+    "reading": "",
+    "english": "",
+    "description": "大きさと向きを持つ量。ベクトル。",
+    "category": "物理学"
+  },
+  {
+    "term": "ベクレル",
+    "reading": "",
+    "english": "becquerel",
+    "description": "放射能の単位。記号 Bq。1ベクレルは、1秒間あたりに1個の原子核が崩壊して放射線を出す能力。",
+    "category": "物理学"
+  },
+  {
+    "term": "ベータ崩壊",
+    "reading": "",
+    "english": "",
+    "description": "放射性同位体が電子（ベータ線）を放出することにより崩壊すること。中性子が陽子に変化し、質量数は同じで原子番号が1大きくなる。",
+    "category": "物理学"
+  },
+  {
+    "term": "ベータ線",
+    "reading": "",
+    "english": "",
+    "description": "光速の電子から成る放射線。放射性同位体のベータ崩壊により放出され、薄い金属板で遮蔽可能である。",
+    "category": "物理学"
+  },
+  {
+    "term": "ボソン",
+    "reading": "",
+    "english": "",
+    "description": "ボース粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ボース粒子",
+    "reading": "",
+    "english": "boson",
+    "description": "スピンが0または整数である素粒子。ボソン。",
+    "category": "物理学"
+  },
+  {
+    "term": "ポテンシャル",
+    "reading": "",
+    "english": "",
+    "description": "保存力を持ち、位置を変数とするスカラー関数。電場における電位、重力場における位置エネルギーなど。",
+    "category": "物理学"
+  },
+  {
+    "term": "マイクロ波",
+    "reading": "まいくろは",
+    "english": "",
+    "description": "波長が約1メートルから約1ミリメートルまでの電波の総称。極超短波。",
+    "category": "物理学"
+  },
+  {
+    "term": "マイナス",
+    "reading": "",
+    "english": "",
+    "description": "陰電気、陰極。",
+    "category": "物理学"
+  },
+  {
+    "term": "ミューオン",
+    "reading": "",
+    "english": "",
+    "description": "電荷が電子と同じでスピンが2分の1の素粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ミリアメートル波",
+    "reading": "",
+    "english": "",
+    "description": "超長波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "ミリメートル波",
+    "reading": "",
+    "english": "",
+    "description": "波長が1ミリメートルから1センチメートルの電波。ミリ波。",
+    "category": "物理学"
+  },
+  {
+    "term": "ミリ波",
+    "reading": "",
+    "english": "",
+    "description": "波長が1ミリメートルから1センチメートルの電波。",
+    "category": "物理学"
+  },
+  {
+    "term": "メゾスコピック",
+    "reading": "",
+    "english": "",
+    "description": "巨視的（マクロスコピック）、微視的（ミクロスコピック）の中間領域の大きさ。半導体業界等の物性物理の分野では、原子数個分のサイズ、いわゆるナノサイズを示す一方、気象分野では、地域予報のサイズ（数100kmサイズ）を示すなど、分野により大きさの具体的な定義は異なる。",
+    "category": "物理学"
+  },
+  {
+    "term": "メートル波",
+    "reading": "",
+    "english": "",
+    "description": "超短波の別名。",
+    "category": "物理学"
+  },
+  {
+    "term": "ルクシオン",
+    "reading": "",
+    "english": "",
+    "description": "光子や重力子など、常に光速で進む粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ルミネセンス",
+    "reading": "",
+    "english": "",
+    "description": "刺激により熱放射と異なる光を発する現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "レプトン",
+    "reading": "",
+    "english": "lepton",
+    "description": "軽粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "ワット",
+    "reading": "",
+    "english": "watt",
+    "description": "電力をはじめとする仕事率の単位。1ワットで、1秒当たりに1ジュールの仕事やエネルギーが生み出されたり、費やされることを意味する。固有の名称と記号が与えられているSI組立単位の一つで、記号は W で表す。",
+    "category": "物理学"
+  },
+  {
+    "term": "一般相対論",
+    "reading": "いっぱんそうたいろん",
+    "english": "",
+    "description": "「一般相対性理論」の略。",
+    "category": "物理学"
+  },
+  {
+    "term": "三次元",
+    "reading": "さんじげん",
+    "english": "",
+    "description": "空間の次元が三であること。長さ・幅・高さのように三つの方向を持つ広がり。",
+    "category": "物理学"
+  },
+  {
+    "term": "世界線",
+    "reading": "せかいせん",
+    "english": "",
+    "description": "零次元幾何を持つ点粒子の時空上の軌跡。",
+    "category": "物理学"
+  },
+  {
+    "term": "並行世界",
+    "reading": "へいこうせかい",
+    "english": "",
+    "description": "何かが起こるために世界が分岐し、この世界では起こらなかったことも別の世界では実在しているという仮説。",
+    "category": "物理学"
+  },
+  {
+    "term": "乾電池",
+    "reading": "かんでんち",
+    "english": "dry cell",
+    "description": "電池の一種で、電解液を固体に染み込ませたりゲル化したりして容器に収め、外に流れ出さないようにし、携帯に便利にした小型のもの。電気製品で利用され、容易に交換できる。",
+    "category": "物理学"
+  },
+  {
+    "term": "事象の地平線",
+    "reading": "",
+    "english": "",
+    "description": "事象の地平面。",
+    "category": "物理学"
+  },
+  {
+    "term": "事象の地平面",
+    "reading": "",
+    "english": "event horizon",
+    "description": "光や電磁波が伝達され情報を知り得る領域と、光や電磁波が到達できず観測できない領域との境界。",
+    "category": "物理学"
+  },
+  {
+    "term": "二次元",
+    "reading": "にじげん",
+    "english": "",
+    "description": "空間の次元が二であること。長さと幅のように二つの方向を持つ広がり。",
+    "category": "物理学"
+  },
+  {
+    "term": "亜光速",
+    "reading": "あこうそく",
+    "english": "",
+    "description": "光速に近い速度。",
+    "category": "物理学"
+  },
+  {
+    "term": "位相",
+    "reading": "いそう",
+    "english": "phase, register, topology",
+    "description": "波動などの周期的な現象において、ひとつの周期中の位置を示す無次元量。",
+    "category": "物理学"
+  },
+  {
+    "term": "位置",
+    "reading": "いち",
+    "english": "place, location, space",
+    "description": "場所。その場所にあること。",
+    "category": "物理学"
+  },
+  {
+    "term": "作用",
+    "reading": "さよう",
+    "english": "action, effect, act",
+    "description": "二つの物体間において、一方が他方に働く力。cf. 反作用 / 物体や場に及ぼされる働き。 / エネルギーと時間の積に等しい次元をもち、最小作用の原理が適用される物理量。作用量。",
+    "category": "物理学"
+  },
+  {
+    "term": "像",
+    "reading": "かた",
+    "english": "figure, statue, image",
+    "description": "（ぞう） 物体から出た光線がレンズや鏡を通った後に別の場所に集まることで見える、その物体の姿形。",
+    "category": "物理学"
+  },
+  {
+    "term": "光エネルギー",
+    "reading": "",
+    "english": "light energy",
+    "description": "光の持つエネルギー。",
+    "category": "物理学"
+  },
+  {
+    "term": "光子",
+    "reading": "こうし",
+    "english": "photon",
+    "description": "光を含む、電磁波のエネルギーを持つ素粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "光時計",
+    "reading": "ひかりどけい",
+    "english": "",
+    "description": "相対性理論の思考実験で使われる、仮想的な時計。時計の端から端まで光が進むのに必要な時間を用いて時刻を測定する。",
+    "category": "物理学"
+  },
+  {
+    "term": "光量",
+    "reading": "こうりょう",
+    "english": "",
+    "description": "光源からある方向に放射されたすべての光の明るさがどれだけ長く続いたかを表す物理量。",
+    "category": "物理学"
+  },
+  {
+    "term": "共鳴",
+    "reading": "きょうめい",
+    "english": "",
+    "description": "振動体が外部から固有振動数に等しい振動を受けたとき、物体が大きく振動する現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "写像",
+    "reading": "しゃぞう",
+    "english": "mapping, map",
+    "description": "光がレンズや鏡を経て一つに集まってできる像。",
+    "category": "物理学"
+  },
+  {
+    "term": "冷光",
+    "reading": "れいこう",
+    "english": "",
+    "description": "ルミネセンスによって生じる、熱を伴わない光。",
+    "category": "物理学"
+  },
+  {
+    "term": "凝固",
+    "reading": "ぎょうこ",
+    "english": "",
+    "description": "液体が固体になること。",
+    "category": "物理学"
+  },
+  {
+    "term": "凝固熱",
+    "reading": "ぎょうこねつ",
+    "english": "",
+    "description": "凝固するときに外部へ放出される熱量。",
+    "category": "物理学"
+  },
+  {
+    "term": "初速",
+    "reading": "しょそく",
+    "english": "initial velocity",
+    "description": "初めの速度。",
+    "category": "物理学"
+  },
+  {
+    "term": "単振動",
+    "reading": "たんしんどう",
+    "english": "",
+    "description": "正弦関数あるいは余弦関数で動きを表すことができる振動。",
+    "category": "物理学"
+  },
+  {
+    "term": "原子",
+    "reading": "げんし",
+    "english": "atom",
+    "description": "物質を構成する粒子。正の電荷を持った原子核と、負の電荷を持った1個以上の電子からなる。大きさは1千万分の1ミリメートル程度である。",
+    "category": "物理学"
+  },
+  {
+    "term": "原子核物理学",
+    "reading": "げんしかくぶつりがく",
+    "english": "",
+    "description": "原子核の構造や性質などについて研究する物理学の一分野。",
+    "category": "物理学"
+  },
+  {
+    "term": "原子模型",
+    "reading": "げんしもけい",
+    "english": "",
+    "description": "原子の内部がどのようになっているかについての仮説。",
+    "category": "物理学"
+  },
+  {
+    "term": "原子物理学",
+    "reading": "げんしぶつりがく",
+    "english": "",
+    "description": "原子や原子核、素粒子などの構造や性質を研究対象とする学問。",
+    "category": "物理学"
+  },
+  {
+    "term": "反作用",
+    "reading": "はんさよう",
+    "english": "",
+    "description": "物体が、作用した物体に対して及ぼす力。台車に乗って壁を勢いよく押したときに台車が動くのはこれによる。",
+    "category": "物理学"
+  },
+  {
+    "term": "反射",
+    "reading": "はんしゃ",
+    "english": "reflection, reflex, reflect",
+    "description": "光や音などが、物に当たってはねかえること、又は、はねかえすこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "反物質",
+    "reading": "はんぶっしつ",
+    "english": "",
+    "description": "反粒子で構成される物質。",
+    "category": "物理学"
+  },
+  {
+    "term": "反粒子",
+    "reading": "はんりゅうし",
+    "english": "",
+    "description": "ある素粒子と物理量は等しいが電荷や磁気モーメントの符号が逆の素粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "反響",
+    "reading": "はんきょう",
+    "english": "",
+    "description": "音波が物体に衝突して跳ね返って来て聞こえること。",
+    "category": "物理学"
+  },
+  {
+    "term": "古典物理学",
+    "reading": "こてんぶつりがく",
+    "english": "",
+    "description": "20世紀以降に発展した量子力学より昔の物理学。ニュートン力学などがこれにあたる。中等教育までに扱われる物理は高校物理の原子分野を除いて全てこの分野の話題である。",
+    "category": "物理学"
+  },
+  {
+    "term": "可視光線",
+    "reading": "かしこうせん",
+    "english": "visible light",
+    "description": "人間の視覚により感じ取れる、すなわち可視の電磁波。いわゆるひかり。",
+    "category": "物理学"
+  },
+  {
+    "term": "同位体",
+    "reading": "どういたい",
+    "english": "isotope",
+    "description": "陽子の数が同じで、中性子の数が異なる原子のこと。原子番号は等しく、質量数は異なる。アイソトープ。同位元素。",
+    "category": "物理学"
+  },
+  {
+    "term": "同位元素",
+    "reading": "どういげんそ",
+    "english": "",
+    "description": "同位体。アイソトープ。",
+    "category": "物理学"
+  },
+  {
+    "term": "同位相",
+    "reading": "どういそう",
+    "english": "",
+    "description": "位相の差が0であること。同相。",
+    "category": "物理学"
+  },
+  {
+    "term": "同相",
+    "reading": "どうそう",
+    "english": "",
+    "description": "同位相。",
+    "category": "物理学"
+  },
+  {
+    "term": "同相成分",
+    "reading": "どうそうせいぶん",
+    "english": "in-phase component",
+    "description": "同位相成分。",
+    "category": "物理学"
+  },
+  {
+    "term": "周期",
+    "reading": "しゅうき",
+    "english": "",
+    "description": "一定時間を置いて同じ運動や現象が繰り返される時、ある時点と同じ状態に循環して戻るまでの時間。またその循環を1回とする一連の事象。",
+    "category": "物理学"
+  },
+  {
+    "term": "四次元",
+    "reading": "よじげん",
+    "english": "",
+    "description": "次元が四であること。",
+    "category": "物理学"
+  },
+  {
+    "term": "回路",
+    "reading": "かいろ",
+    "english": "",
+    "description": "電気が流れる環状の道筋。 / 流体やエネルギーなどが流れる環状の道筋。",
+    "category": "物理学"
+  },
+  {
+    "term": "固体",
+    "reading": "こたい",
+    "english": "solid, solid state",
+    "description": "物質の三態の一つ。物質を構成する分子間の距離が小さく、分子間力が強いため、他の分子に対する位置が容易には変わらない状態。圧力に対して体積をほとんど変えない。外部から熱を加えたり、圧力を下げることにより液体まれに気体に態を変える。ソリッド。",
+    "category": "物理学"
+  },
+  {
+    "term": "地球楕円体",
+    "reading": "ちきゅうだえんたい",
+    "english": "Earth ellipsoid",
+    "description": "測地学において地球の形に近似した回転楕円体。",
+    "category": "物理学"
+  },
+  {
+    "term": "地球物理学",
+    "reading": "ちきゅうぶつりがく",
+    "english": "",
+    "description": "地球を物理的な手法によって研究する分野。",
+    "category": "物理学"
+  },
+  {
+    "term": "場",
+    "reading": "ば",
+    "english": "",
+    "description": "（ば）物理量を持つものの存在が別の場所にある他のものに影響を与えること、あるいはその影響を受けている状態にある空間のこと。fieldの訳語。工学では界という。",
+    "category": "物理学"
+  },
+  {
+    "term": "塑性",
+    "reading": "そせい",
+    "english": "plasticity",
+    "description": "物体に力を加えたときのひずみが、力を取り去っても元に戻らない性質。",
+    "category": "物理学"
+  },
+  {
+    "term": "天体物理学",
+    "reading": "てんたいぶつりがく",
+    "english": "",
+    "description": "天体の物理的性質などを研究する分野。",
+    "category": "物理学"
+  },
+  {
+    "term": "宇宙物理学",
+    "reading": "うちゅうぶつりがく",
+    "english": "",
+    "description": "宇宙における物質や諸々の現象などを物理学の側面から研究する学問。",
+    "category": "物理学"
+  },
+  {
+    "term": "宇宙線",
+    "reading": "うちゅうせん",
+    "english": "",
+    "description": "宇宙空間を飛び交う高エネルギーの放射線。",
+    "category": "物理学"
+  },
+  {
+    "term": "定常波",
+    "reading": "",
+    "english": "standing wave, fixed wave, stationary wave",
+    "description": "進行方向が反対で同一の周期・波長・振幅・速さを持つ2つの波が重なってできる、一定の位置で振動しているように見える波。",
+    "category": "物理学"
+  },
+  {
+    "term": "密度",
+    "reading": "みつど",
+    "english": "density",
+    "description": "単位体積あたりの質量。",
+    "category": "物理学"
+  },
+  {
+    "term": "対消滅",
+    "reading": "",
+    "english": "annihilation",
+    "description": "素粒子と反粒子が衝突して消滅し、光子または他の素粒子に転化する現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "屈折",
+    "reading": "くっせつ",
+    "english": "curve, warp, refraction",
+    "description": "波動が他の媒質へ進むとき境界面で進行方向を変えること。",
+    "category": "物理学"
+  },
+  {
+    "term": "展性",
+    "reading": "てんせい",
+    "english": "malleability",
+    "description": "金属を叩いたり圧延したりして延ばすことができる性質。",
+    "category": "物理学"
+  },
+  {
+    "term": "崩壊",
+    "reading": "ほうかい",
+    "english": "",
+    "description": "放射性元素が放射線を放出して別の元素に変化すること。",
+    "category": "物理学"
+  },
+  {
+    "term": "干渉",
+    "reading": "かんしょう",
+    "english": "interference, interposition",
+    "description": "複数の波動の重ね合わせが，一見すると新たな波動を生み出しているように見えること．",
+    "category": "物理学"
+  },
+  {
+    "term": "引力",
+    "reading": "いんりょく",
+    "english": "attraction",
+    "description": "物体どうしが引き合う力。",
+    "category": "物理学"
+  },
+  {
+    "term": "弦理論",
+    "reading": "げんりろん",
+    "english": "",
+    "description": "粒子は点（零次元）ではなく弦（一次元）の運動として扱う理論。粒子を二次元以上物体と考える流派も存在する。超弦理論。超ひも理論。",
+    "category": "物理学"
+  },
+  {
+    "term": "弾性",
+    "reading": "だんせい",
+    "english": "elasticity",
+    "description": "物体に力を加えたときのひずみが、力を取り去ると元に戻ろうとする性質。",
+    "category": "物理学"
+  },
+  {
+    "term": "応用物理学",
+    "reading": "おうようぶつりがく",
+    "english": "",
+    "description": "物理学を主に工学などの諸分野に応用するため研究する学問。",
+    "category": "物理学"
+  },
+  {
+    "term": "思考実験",
+    "reading": "しこうじっけん",
+    "english": "",
+    "description": "実際に器具を使うのではなく、理論などを元に机上で考えることによって行う実験。",
+    "category": "物理学"
+  },
+  {
+    "term": "感応",
+    "reading": "かんのう",
+    "english": "",
+    "description": "誘導。",
+    "category": "物理学"
+  },
+  {
+    "term": "抵抗",
+    "reading": "ていこう",
+    "english": "",
+    "description": "電気抵抗。",
+    "category": "物理学"
+  },
+  {
+    "term": "振動",
+    "reading": "しんどう",
+    "english": "",
+    "description": "位置や物理量がある範囲で周期的に変動すること。",
+    "category": "物理学"
+  },
+  {
+    "term": "振幅",
+    "reading": "しんぷく",
+    "english": "amplitude",
+    "description": "振動の幅の半分。振動の中心から振動の最大変位までの幅。",
+    "category": "物理学"
+  },
+  {
+    "term": "換算質量",
+    "reading": "かんさんしつりょう",
+    "english": "reduced mass",
+    "description": "物理量xの各値x_iに対し、1/(x_r)=∑ᵢ 1/(x_i)という変換によって得るx_rのこと。並列接続の合成抵抗や直列接続の合成容量など。",
+    "category": "物理学"
+  },
+  {
+    "term": "揮発",
+    "reading": "きはつ",
+    "english": "volatilization, volatilize",
+    "description": "常温・常圧の元で、液体が気体になること。",
+    "category": "物理学"
+  },
+  {
+    "term": "放射",
+    "reading": "ほうしゃ",
+    "english": "",
+    "description": "電磁波や粒子線、重力波などを放出すること。あるいは、放出されたもの（＝放射線）。",
+    "category": "物理学"
+  },
+  {
+    "term": "放射性",
+    "reading": "ほうしゃせい",
+    "english": "",
+    "description": "物質が放射能を持つ性質。",
+    "category": "物理学"
+  },
+  {
+    "term": "放射性物質",
+    "reading": "ほうしゃせいぶっしつ",
+    "english": "",
+    "description": "放射能を持つ物質。",
+    "category": "物理学"
+  },
+  {
+    "term": "散乱",
+    "reading": "さんらん",
+    "english": "scattering",
+    "description": "波動や粒子線が物体や微粒子と衝突して色々な方向に広がっていく現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "時空",
+    "reading": "じくう",
+    "english": "spacetime",
+    "description": "時間と空間。",
+    "category": "物理学"
+  },
+  {
+    "term": "時間微分",
+    "reading": "じかんびぶん",
+    "english": "",
+    "description": "微分変数が時刻t,[s]であるときの常微分の称。",
+    "category": "物理学"
+  },
+  {
+    "term": "有向線分",
+    "reading": "ゆうこうせんぶん",
+    "english": "",
+    "description": "線分のうち、向きを持つもの。幾何ベクトルを用いて表される。長さと向きで決まり、線分の位置は議論に関係ない。よって、平行移動は自由に行える。物理学においては、力を表す有向線分は力の作用線上のみ平行移動できる。",
+    "category": "物理学"
+  },
+  {
+    "term": "核",
+    "reading": "かく",
+    "english": "core, nucleus, kernel",
+    "description": "原子核。",
+    "category": "物理学"
+  },
+  {
+    "term": "格子点",
+    "reading": "こうしてん",
+    "english": "",
+    "description": "空間格子を形成する各直線の交点。",
+    "category": "物理学"
+  },
+  {
+    "term": "極端紫外線",
+    "reading": "きょくたんしがいせん",
+    "english": "",
+    "description": "紫外線のうち、波長10ナノメートル未満のもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "極超長波",
+    "reading": "きょくちょうちょうは",
+    "english": "",
+    "description": "波長100km以上の電波。",
+    "category": "物理学"
+  },
+  {
+    "term": "次元",
+    "reading": "じげん",
+    "english": "dimension",
+    "description": "ディメンション。",
+    "category": "物理学"
+  },
+  {
+    "term": "正弦曲線",
+    "reading": "せいげんきょくせん",
+    "english": "",
+    "description": "正弦関数をグラフで表した曲線。サインカーブ。",
+    "category": "物理学"
+  },
+  {
+    "term": "殻",
+    "reading": "から",
+    "english": "",
+    "description": "（カク）電子殻の略称。",
+    "category": "物理学"
+  },
+  {
+    "term": "比容",
+    "reading": "ひよう",
+    "english": "",
+    "description": "単位質量の物体が占める容積。",
+    "category": "物理学"
+  },
+  {
+    "term": "比重",
+    "reading": "ひじゅう",
+    "english": "specific gravity",
+    "description": "ある物質の密度と摂氏4度の水の密度との比。",
+    "category": "物理学"
+  },
+  {
+    "term": "気体",
+    "reading": "きたい",
+    "english": "gas",
+    "description": "物質の三態の一つ。物質を構成する分子間の距離が大きく、他の分子の影響をほとんど受けずに自由に動ける状態。その体積、圧力及び温度に関してボイル＝シャルルの法則が成立する。圧力を加え体積を小さくしたり、温度を下げることにより、液体まれに固体に態を変える。",
+    "category": "物理学"
+  },
+  {
+    "term": "気圧",
+    "reading": "きあつ",
+    "english": "air pressure, atmospheric pressure, atmosphere",
+    "description": "気体の圧力。",
+    "category": "物理学"
+  },
+  {
+    "term": "水量",
+    "reading": "すいりょう",
+    "english": "",
+    "description": "水の量の多寡、及びその分量。",
+    "category": "物理学"
+  },
+  {
+    "term": "永久機関",
+    "reading": "えいきゅうきかん",
+    "english": "perpetual motion",
+    "description": "外部から何もエネルギーを供給することなく仕事を行い続ける装置。",
+    "category": "物理学"
+  },
+  {
+    "term": "汎函数",
+    "reading": "はんかんすう",
+    "english": "functional",
+    "description": "広義には函数空間を始域とする写像。狭義には函数空間から体への写像。広義汎函数に含まれるが狭義汎函数に含まれない写像は作用素若しくは変換と呼ばれる。",
+    "category": "物理学"
+  },
+  {
+    "term": "汎関数",
+    "reading": "はんかんすう",
+    "english": "",
+    "description": "汎函数の異表記。",
+    "category": "物理学"
+  },
+  {
+    "term": "波動",
+    "reading": "はどう",
+    "english": "",
+    "description": "空間のある点で生じた振動が次々に周囲に伝わっていく現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "波数",
+    "reading": "はすう",
+    "english": "",
+    "description": "単位長さ当たりの波の数。波長の逆数。",
+    "category": "物理学"
+  },
+  {
+    "term": "活性化エネルギー",
+    "reading": "",
+    "english": "activation energy",
+    "description": "化学反応を起こさせる際、反応物に必要なエネルギー。",
+    "category": "物理学"
+  },
+  {
+    "term": "流体",
+    "reading": "りゅうたい",
+    "english": "fluid",
+    "description": "液体と気体の総称。",
+    "category": "物理学"
+  },
+  {
+    "term": "流線",
+    "reading": "りゅうせん",
+    "english": "streamline",
+    "description": "ある瞬間における流れの方向と一致するような曲線。語義1を物理的に解釈したもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "浮力",
+    "reading": "ふりょく",
+    "english": "buoyancy",
+    "description": "流体中にある物体に働く上向きの力。",
+    "category": "物理学"
+  },
+  {
+    "term": "液体",
+    "reading": "えきたい",
+    "english": "liquid",
+    "description": "物質の三態の一つ。物質を構成する分子間の距離は小さいが、分子間の結合力が弱いため、他の分子に対する位置が容易に変わりうる状態。気体と異なり、圧力に対して体積をほとんど変えない。一般に外部からの圧力を下げたり熱を加えることにより気体に、逆に熱を奪うことにより固体に態を変える。リキッド。",
+    "category": "物理学"
+  },
+  {
+    "term": "減速材",
+    "reading": "げんそくざい",
+    "english": "",
+    "description": "原子炉で核分裂により放出される中性子を減速させるために使う物質。軽水、重水、炭素など。",
+    "category": "物理学"
+  },
+  {
+    "term": "温度",
+    "reading": "おんど",
+    "english": "temperature",
+    "description": "熱さ・冷たさの度合で、熱いほど高い値を示す。熱力学においては、熱平衡の状態を決める尺度である。高温ほど、その物質中の原子の平均運動エネルギーが大きい。",
+    "category": "物理学"
+  },
+  {
+    "term": "無名数",
+    "reading": "むめいすう",
+    "english": "",
+    "description": "無次元量を表す数。",
+    "category": "物理学"
+  },
+  {
+    "term": "無次元量",
+    "reading": "むじげんりょう",
+    "english": "",
+    "description": "次元が1である物理量。",
+    "category": "物理学"
+  },
+  {
+    "term": "焦点",
+    "reading": "しょうてん",
+    "english": "focus",
+    "description": "レンズや鏡に入射した平行な光線が屈折・反射して集まる点。",
+    "category": "物理学"
+  },
+  {
+    "term": "熱",
+    "reading": "ねつ",
+    "english": "heat, body temperature, zeal",
+    "description": "温度差がある2つの物体の間あるいは系と周囲の間で接触や放射があったときに、その温度差を原因として移動する形態のエネルギー。多くの場合には、物体に熱を与えれば温度が上がり、物体から熱を取り去れば温度が下がる。",
+    "category": "物理学"
+  },
+  {
+    "term": "熱線",
+    "reading": "ねっせん",
+    "english": "",
+    "description": "赤外線のこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "熱量",
+    "reading": "ねつりょう",
+    "english": "",
+    "description": "熱の量。「熱」の量的側面を強調した表現。",
+    "category": "物理学"
+  },
+  {
+    "term": "物体",
+    "reading": "ぶったい",
+    "english": "object",
+    "description": "具体的な形を持つもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "物理学史",
+    "reading": "ぶつりがくし",
+    "english": "",
+    "description": "物理学に関する歴史。",
+    "category": "物理学"
+  },
+  {
+    "term": "物理的",
+    "reading": "ぶつりてき",
+    "english": "physical",
+    "description": "物理学に関係するさま。物理学が扱う事柄と考えられているさま。",
+    "category": "物理学"
+  },
+  {
+    "term": "物質",
+    "reading": "ぶっしつ",
+    "english": "matter, substance, material",
+    "description": "空間の一部を占め質量をもつもの。分子、原子、素粒子など。",
+    "category": "物理学"
+  },
+  {
+    "term": "特殊相対論",
+    "reading": "とくしゅそうたいろん",
+    "english": "",
+    "description": "「特殊相対性理論」の略。",
+    "category": "物理学"
+  },
+  {
+    "term": "状態",
+    "reading": "じょうたい",
+    "english": "state, status, condition",
+    "description": "物質が、ある相によって区別される形質をもっていること。固体、液体、気体といった区別。基本的に、化学的性質は状態によらず不変であり、状態が変化するために化学変化は必要ではない。",
+    "category": "物理学"
+  },
+  {
+    "term": "状態方程式",
+    "reading": "じょうたいほうていしき",
+    "english": "",
+    "description": "完全流体のエネルギー密度をρ、圧力をPとしたとき、無次元量wを用いてw=P/ρと表される方程式。",
+    "category": "物理学"
+  },
+  {
+    "term": "現代物理学",
+    "reading": "げんだいぶつりがく",
+    "english": "",
+    "description": "20世紀以降に発展した量子力学以後の物理学。相対性理論を含める場合もある。数学・哲学の発展に相互に影響を与えた。",
+    "category": "物理学"
+  },
+  {
+    "term": "理論物理学",
+    "reading": "りろんぶつりがく",
+    "english": "",
+    "description": "既知の物理法則から理論的な計算や推算によって新しい法則を求める物理学の分野。",
+    "category": "物理学"
+  },
+  {
+    "term": "白色光",
+    "reading": "はくしょくこう",
+    "english": "white light",
+    "description": "可視光線の範囲の周波数成分をまんべんなく含んだ光線。",
+    "category": "物理学"
+  },
+  {
+    "term": "直交成分",
+    "reading": "ちょっこうせいぶん",
+    "english": "quadrature component",
+    "description": "逆位相成分。",
+    "category": "物理学"
+  },
+  {
+    "term": "相",
+    "reading": "あい",
+    "english": "",
+    "description": "（ソウ） 純物質か混合物かを問わず、物体が巨視的に均一な化学的組成や物理的性質を持つときに、その均一な特性で物体の状態を区分したもの。位相。",
+    "category": "物理学"
+  },
+  {
+    "term": "相互作用",
+    "reading": "そうごさよう",
+    "english": "interaction",
+    "description": "場と物体とが近接作用する機構。力。",
+    "category": "物理学"
+  },
+  {
+    "term": "相図",
+    "reading": "そうず",
+    "english": "",
+    "description": "温度、圧力、組成などに対して物質の相が何になるかを示した図。普通は平衡状態での相を示す。状態図に同じ。",
+    "category": "物理学"
+  },
+  {
+    "term": "相対論",
+    "reading": "そうたいろん",
+    "english": "",
+    "description": "「相対性理論」の略。",
+    "category": "物理学"
+  },
+  {
+    "term": "相対論効果",
+    "reading": "そうたいろんこうか",
+    "english": "",
+    "description": "古典力学では現れず、相対性理論を考慮した場合のみに生じる効果。相対論的効果。",
+    "category": "物理学"
+  },
+  {
+    "term": "相対論的効果",
+    "reading": "そうたいろんてきこうか",
+    "english": "",
+    "description": "「相対論効果」に同じ。",
+    "category": "物理学"
+  },
+  {
+    "term": "移相",
+    "reading": "",
+    "english": "",
+    "description": "電圧や電流の変数を変化させること。",
+    "category": "物理学"
+  },
+  {
+    "term": "空間",
+    "reading": "くうかん",
+    "english": "space",
+    "description": "物体が存在し現象が発生する場。古典物理学では3次元ユークリッド空間、特殊相対性理論ではミンコフスキー時空、一般相対性理論では4次元リーマン空間。",
+    "category": "物理学"
+  },
+  {
+    "term": "等速直線運動",
+    "reading": "",
+    "english": "",
+    "description": "速さや方向を変えずに行われる運動。加速度が0である運動のうち静止でないもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "粒子",
+    "reading": "りゅうし",
+    "english": "particle",
+    "description": "物質を構成する細かい粒。",
+    "category": "物理学"
+  },
+  {
+    "term": "素粒子",
+    "reading": "そりゅうし",
+    "english": "elementary particle",
+    "description": "物質を構成するそれ以上分けることができない基本的な粒子。",
+    "category": "物理学"
+  },
+  {
+    "term": "素量",
+    "reading": "そりょう",
+    "english": "",
+    "description": "ある物理量の最小単位。電気素量が代表的。",
+    "category": "物理学"
+  },
+  {
+    "term": "紫外線",
+    "reading": "しがいせん",
+    "english": "ultraviolet",
+    "description": "X線よりも波長が長く、可視光線よりも波長が短い電磁波。目には見えない。日焼けの原因となる。DNAを損傷する作用があり、殺菌灯に用いられる。",
+    "category": "物理学"
+  },
+  {
+    "term": "結合エネルギー",
+    "reading": "けつごうえねるぎー",
+    "english": "",
+    "description": "結合を一つ切断するのに必要なエネルギー。例えば、原子核の結合エネルギーは質量欠損分に相当する。",
+    "category": "物理学"
+  },
+  {
+    "term": "絶対温度",
+    "reading": "ぜったいおんど",
+    "english": "",
+    "description": "絶対零度を零度とし、摂氏と同じ間隔で目盛を振った温度。",
+    "category": "物理学"
+  },
+  {
+    "term": "絶縁",
+    "reading": "ぜつえん",
+    "english": "",
+    "description": "導体の途中に不導体を入れて電流や熱を断つこと。",
+    "category": "物理学"
+  },
+  {
+    "term": "腹",
+    "reading": "はら",
+    "english": "",
+    "description": "(はら) 定常波で、振幅の最大な部分。",
+    "category": "物理学"
+  },
+  {
+    "term": "菫外線",
+    "reading": "きんがいせん",
+    "english": "",
+    "description": "紫外線。",
+    "category": "物理学"
+  },
+  {
+    "term": "蒸発",
+    "reading": "じょうはつ",
+    "english": "evaporation, vaporization, disappearance",
+    "description": "液体の表面が気化する現象。",
+    "category": "物理学"
+  },
+  {
+    "term": "角運動量",
+    "reading": "かくうんどうりょう",
+    "english": "",
+    "description": "位置と運動量の外積で、回転の勢いを表す物理量。",
+    "category": "物理学"
+  },
+  {
+    "term": "計算物理学",
+    "reading": "けいさんぶつりがく",
+    "english": "",
+    "description": "数学的に解けない物理現象の基礎方程式を計算機によって数値的に解くことを目的とする分野。",
+    "category": "物理学"
+  },
+  {
+    "term": "調子",
+    "reading": "ちょうし",
+    "english": "pitch, tone, intonation",
+    "description": "発音体の振動数の多少によって生ずる音の高低。",
+    "category": "物理学"
+  },
+  {
+    "term": "質量",
+    "reading": "しつりょう",
+    "english": "mass",
+    "description": "物体の、重力を発生させようとする性質の強さ。重力質量。 / 物体の、動きにくい性質の強さ。慣性質量。",
+    "category": "物理学"
+  },
+  {
+    "term": "赤外線",
+    "reading": "せきがいせん",
+    "english": "infrared",
+    "description": "可視光線よりも波長が長く、電波よりも波長が短い電磁波。目には見えない。赤外線の中で波長の短いものを近赤外線、長いものを遠赤外線という。リモコンや自動ドアのセンサーは近赤外線を使い、電気ストーブの加熱や赤外線体温計の測定対象には遠赤外線を用いる。",
+    "category": "物理学"
+  },
+  {
+    "term": "超伝導",
+    "reading": "ちょうでんどう",
+    "english": "",
+    "description": "一定の温度以下になった物体の電気抵抗がゼロになる現象。超電導。",
+    "category": "物理学"
+  },
+  {
+    "term": "超光速",
+    "reading": "ちょうこうそく",
+    "english": "",
+    "description": "光速を上回る速度。",
+    "category": "物理学"
+  },
+  {
+    "term": "軌道",
+    "reading": "きどう",
+    "english": "orbit, trajectory, rail",
+    "description": "物体が一定の法則に従い描く道筋。",
+    "category": "物理学"
+  },
+  {
+    "term": "軸",
+    "reading": "しんぎ",
+    "english": "",
+    "description": "回転の中心となる直線や棒。回転軸。",
+    "category": "物理学"
+  },
+  {
+    "term": "近紫外線",
+    "reading": "きんしがいせん",
+    "english": "",
+    "description": "紫外線のうち、波長が可視光線に近いもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "近赤外線",
+    "reading": "きんせきがいせん",
+    "english": "",
+    "description": "赤外線のうち、波長が可視光線に近いもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "逆位相",
+    "reading": "ぎゃくいそう",
+    "english": "",
+    "description": "位相の差がπであること。直交。",
+    "category": "物理学"
+  },
+  {
+    "term": "速度微分",
+    "reading": "そくどびぶん",
+    "english": "",
+    "description": "微分変数が速度v,[m/s]であるときの常微分の称。",
+    "category": "物理学"
+  },
+  {
+    "term": "週期",
+    "reading": "しゅうき",
+    "english": "",
+    "description": "周期。",
+    "category": "物理学"
+  },
+  {
+    "term": "運動",
+    "reading": "うんどう",
+    "english": "",
+    "description": "物理学で物体が時間につれて位置を変えること。",
+    "category": "物理学"
+  },
+  {
+    "term": "遠紫外線",
+    "reading": "えんしがいせん",
+    "english": "",
+    "description": "紫外線のうち、波長200ナノメートル未満のもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "遠赤外線",
+    "reading": "えんせきがいせん",
+    "english": "",
+    "description": "赤外線のうち、波長が電波に近いもの。",
+    "category": "物理学"
+  },
+  {
+    "term": "重力加速度",
+    "reading": "じゅうりょくかそくど",
+    "english": "",
+    "description": "自由落下の際の加速度。地球上では約9.8 m/s²。",
+    "category": "物理学"
+  },
+  {
+    "term": "重力子",
+    "reading": "じゅうりょくし",
+    "english": "",
+    "description": "重力を伝える素粒子。ゲージ粒子に属するボース粒子とされているが、未発見である。",
+    "category": "物理学"
+  },
+  {
+    "term": "量子",
+    "reading": "りょうし",
+    "english": "quantum",
+    "description": "物理現象における物理量の最小単位。",
+    "category": "物理学"
+  },
+  {
+    "term": "量水",
+    "reading": "りょうすい",
+    "english": "",
+    "description": "水量を量ること。",
+    "category": "物理学"
+  },
+  {
+    "term": "陰極",
+    "reading": "いんきょく",
+    "english": "cathode, negative pole",
+    "description": "直流電源の負極側に接続する電極。対になっている電極のうち、電位の低い側の電極。",
+    "category": "物理学"
+  },
+  {
+    "term": "陰電子",
+    "reading": "いんでんし",
+    "english": "",
+    "description": "電子。陽電子の反物質。",
+    "category": "物理学"
+  },
+  {
+    "term": "陽子",
+    "reading": "ようし",
+    "english": "proton",
+    "description": "アップクォーク2個とダウンクォーク1個から成る粒子。+1 の電荷を有するハドロンのひとつ。スピン1/2のフェルミ粒子でもある。中性子とともに原子核を作る。プロトンとも。",
+    "category": "物理学"
+  },
+  {
+    "term": "陽極",
+    "reading": "ようきょく",
+    "english": "anode, positive pole",
+    "description": "直流電源の正極側に接続する電極。対になっている電極のうち、電位の高い側の電極。",
+    "category": "物理学"
+  },
+  {
+    "term": "陽電子",
+    "reading": "ようでんし",
+    "english": "",
+    "description": "正の電荷を持つ電子。電子の反物質。",
+    "category": "物理学"
+  },
+  {
+    "term": "電位差",
+    "reading": "でんいさ",
+    "english": "",
+    "description": "2点間の電位の隔たり。電圧。",
+    "category": "物理学"
+  },
+  {
+    "term": "電子",
+    "reading": "でんし",
+    "english": "electron",
+    "description": "素粒子の内のレプトンの一つ。負の電荷を持ち、原子核と共に原子を構成する。エレクトロン。",
+    "category": "物理学"
+  },
+  {
+    "term": "電子ボルト",
+    "reading": "",
+    "english": "electron volt, electronvolt",
+    "description": "エネルギーの単位。記号:eV。1ボルトの電位差で電子1つを加速する時に電子が得るエネルギー。1eV=1.602 176 565(35)×10⁻¹⁹J",
+    "category": "物理学"
+  },
+  {
+    "term": "電子線",
+    "reading": "でんしせん",
+    "english": "",
+    "description": "真空の中に放射された一定方向の電子の流れ。",
+    "category": "物理学"
+  },
+  {
+    "term": "電池",
+    "reading": "でんち",
+    "english": "battery",
+    "description": "電力を生成する器具。狭義には、電解液と電極を内部に持ち、化学エネルギーを発生させるものを指し、乾電池、鉛蓄電池などがある。広義には、燃料電池、太陽電池、原子力電池なども含む。",
+    "category": "物理学"
+  },
+  {
+    "term": "電波",
+    "reading": "でんぱ",
+    "english": "radio wave",
+    "description": "電磁波のうち光より周波数が低い、すなわち波長の長いもの。 / 300万メガヘルツ以下の周波数の電磁波（電波法第2条の1）。",
+    "category": "物理学"
+  },
+  {
+    "term": "電磁波",
+    "reading": "でんじは",
+    "english": "electromagnetic wave",
+    "description": "電場の変化と磁場の変化が互いを生み出しながら、空間を進む波。電磁波には、波長の長い順に、電波、赤外線、可視光線、紫外線、X線、ガンマ線がある。",
+    "category": "物理学"
+  },
+  {
+    "term": "電荷",
+    "reading": "でんか",
+    "english": "electrical charge",
+    "description": "物質の帯びている電気のこと。正電荷と負電荷がある。",
+    "category": "物理学"
+  },
+  {
+    "term": "静圧",
+    "reading": "",
+    "english": "",
+    "description": "流体中で、流れに平行な面に働く圧力。",
+    "category": "物理学"
+  },
+  {
+    "term": "飽和",
+    "reading": "ほうわ",
+    "english": "saturation",
+    "description": "一定の条件下で、それ以上増加させようとしても、増加しなくなった状態。",
+    "category": "物理学"
+  }
+]

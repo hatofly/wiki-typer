@@ -1,0 +1,43 @@
+{
+    "word": "インダクタンス",
+    "lang_code": "ja",
+    "lang": "日本語",
+    "pos": "noun",
+    "pos_title": "名詞",
+    "senses": [
+        {
+            "glosses": [
+                "電気回路において、一つの回路の電流の強さが変化するときの電磁誘導の大きさを表す定数。単位はヘンリー。"
+            ],
+            "topics": [
+                "electromagnetism"
+            ],
+            "categories": [
+                "日本語 電磁気学"
+            ]
+        }
+    ],
+    "categories": [
+        "日本語",
+        "日本語 名詞",
+        "日本語 英語由来",
+        "日本語_英語借用語"
+    ],
+    "forms": [
+        {
+            "form": "誘導係数",
+            "tags": [
+                "alternative"
+            ]
+        },
+        {
+            "form": "誘導子",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "etymology_texts": [
+        "英語 inductance からの借用語"
+    ]
+}
