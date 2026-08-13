@@ -1,0 +1,600 @@
+{
+    "word": "酸",
+    "lang_code": "ja",
+    "lang": "日本語",
+    "pos": "noun",
+    "pos_title": "名詞",
+    "senses": [
+        {
+            "glosses": [
+                "(サン)水に溶けて水素イオンを生ずるもの（一般的定義）"
+            ],
+            "topics": [
+                "chemistry"
+            ],
+            "categories": [
+                "日本語 化学"
+            ],
+            "examples": [
+                {
+                    "text": "塩酸、硫酸"
+                }
+            ]
+        }
+    ],
+    "categories": [
+        "日本語 国際音声記号あり"
+    ],
+    "forms": [
+        {
+            "form": "サン",
+            "tags": [
+                "transliteration",
+                "go-on",
+                "joyo"
+            ]
+        },
+        {
+            "form": "サン",
+            "tags": [
+                "transliteration",
+                "kan-on",
+                "joyo"
+            ]
+        },
+        {
+            "form": "す-い",
+            "tags": [
+                "transliteration",
+                "kun",
+                "joyo"
+            ]
+        }
+    ],
+    "sounds": [
+        {
+            "tags": [
+                "Atamadaka",
+                "Tokyo"
+            ],
+            "other": "さん",
+            "roman": "[sáꜜǹ]"
+        },
+        {
+            "ipa": "[sã̠ɴ]"
+        },
+        {
+            "tags": [
+                "Atamadaka",
+                "Kyoto",
+                "Osaka"
+            ],
+            "other": "("
+        }
+    ],
+    "translations": [
+        {
+            "lang_code": "is",
+            "lang": "アイスランド語",
+            "word": "sýra",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "ga",
+            "lang": "アイルランド語",
+            "word": "aigéad"
+        },
+        {
+            "lang_code": "az",
+            "lang": "アゼルバイジャン語",
+            "word": "turşular"
+        },
+        {
+            "lang_code": "af",
+            "lang": "アフリカーンス語",
+            "word": "suur"
+        },
+        {
+            "lang_code": "an",
+            "lang": "アラゴン語",
+            "word": "aceto"
+        },
+        {
+            "lang_code": "ar",
+            "lang": "アラビア語",
+            "word": "حمض"
+        },
+        {
+            "lang_code": "sq",
+            "lang": "アルバニア語",
+            "word": "acidi"
+        },
+        {
+            "lang_code": "hy",
+            "lang": "アルメニア語",
+            "word": "թթու",
+            "roman": "t't'u"
+        },
+        {
+            "lang_code": "it",
+            "lang": "イタリア語",
+            "word": "acido",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "io",
+            "lang": "イド語",
+            "word": "acido"
+        },
+        {
+            "lang_code": "ia",
+            "lang": "インターリングア",
+            "word": "acido"
+        },
+        {
+            "lang_code": "id",
+            "lang": "インドネシア語",
+            "word": "asam"
+        },
+        {
+            "lang_code": "ug",
+            "lang": "ウイグル語",
+            "word": "كىسلاتا"
+        },
+        {
+            "lang_code": "cy",
+            "lang": "ウェールズ語",
+            "word": "suryn",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "vec",
+            "lang": "ヴェネツィア語",
+            "word": "àsido"
+        },
+        {
+            "lang_code": "uk",
+            "lang": "ウクライナ語",
+            "word": "кислота"
+        },
+        {
+            "lang_code": "ur",
+            "lang": "ウルドゥー語",
+            "word": "ترشہ"
+        },
+        {
+            "lang_code": "en",
+            "lang": "英語",
+            "word": "acid"
+        },
+        {
+            "lang_code": "et",
+            "lang": "エストニア語",
+            "word": "hape"
+        },
+        {
+            "lang_code": "eo",
+            "lang": "エスペラント",
+            "word": "acido"
+        },
+        {
+            "lang_code": "oc",
+            "lang": "オック語",
+            "word": "acid"
+        },
+        {
+            "lang_code": "nl",
+            "lang": "オランダ語",
+            "word": "zuur",
+            "tags": [
+                "neuter"
+            ]
+        },
+        {
+            "lang_code": "kk",
+            "lang": "カザフ語",
+            "word": "қышқыл"
+        },
+        {
+            "lang_code": "ca",
+            "lang": "カタルーニャ語",
+            "word": "àcid",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "gl",
+            "lang": "ガリシア語",
+            "word": "ácido"
+        },
+        {
+            "lang_code": "fiu",
+            "lang": "fiu",
+            "word": "hapas"
+        },
+        {
+            "lang_code": "kn",
+            "lang": "カンナダ語",
+            "word": "ಆಮ್ಲ"
+        },
+        {
+            "lang_code": "el",
+            "lang": "ギリシア語",
+            "word": "οξύ",
+            "tags": [
+                "neuter"
+            ]
+        },
+        {
+            "lang_code": "ka",
+            "lang": "グルジア語",
+            "word": "მჟავა"
+        },
+        {
+            "lang_code": "ku",
+            "lang": "クルド語",
+            "word": "asîd"
+        },
+        {
+            "lang_code": "qu",
+            "lang": "ケチュア語",
+            "word": "p'uchqu"
+        },
+        {
+            "lang_code": "sa",
+            "lang": "サンスクリット",
+            "word": "अम्लम्"
+        },
+        {
+            "lang_code": "scn",
+            "lang": "シチリア語",
+            "word": "àcitu"
+        },
+        {
+            "lang_code": "jv",
+            "lang": "ジャワ語",
+            "word": "asam"
+        },
+        {
+            "lang_code": "es",
+            "lang": "スペイン語",
+            "word": "ácido",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "sk",
+            "lang": "スロヴァキア語",
+            "word": "kyselina"
+        },
+        {
+            "lang_code": "sl",
+            "lang": "スロヴェニア語",
+            "word": "kisla snov"
+        },
+        {
+            "lang_code": "sw",
+            "lang": "スワヒリ語",
+            "word": "asidi"
+        },
+        {
+            "lang_code": "sh",
+            "lang": "セルビア・クロアチア語",
+            "word": "киселина"
+        },
+        {
+            "lang_code": "sh",
+            "lang": "セルビア・クロアチア語",
+            "word": "kiselìna",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "sh",
+            "lang": "セルビア・クロアチア語",
+            "word": "kiseline"
+        },
+        {
+            "lang_code": "th",
+            "lang": "タイ語",
+            "word": "กรด"
+        },
+        {
+            "lang_code": "tl",
+            "lang": "タガログ語",
+            "word": "asido"
+        },
+        {
+            "lang_code": "ta",
+            "lang": "タミル語",
+            "word": "காடி"
+        },
+        {
+            "lang_code": "cs",
+            "lang": "チェコ語",
+            "word": "kyselina"
+        },
+        {
+            "lang_code": "zh",
+            "lang": "中国語",
+            "word": "酸",
+            "roman": "suān"
+        },
+        {
+            "lang_code": "hak",
+            "lang": "客家語",
+            "word": "sôn"
+        },
+        {
+            "lang_code": "ko",
+            "lang": "朝鮮語",
+            "word": "산(酸)"
+        },
+        {
+            "lang_code": "za",
+            "lang": "チワン語",
+            "word": "soemj"
+        },
+        {
+            "lang_code": "nds",
+            "lang": "低地ドイツ語",
+            "word": "süür"
+        },
+        {
+            "lang_code": "te",
+            "lang": "テルグ語",
+            "word": "ఆమ్లం"
+        },
+        {
+            "lang_code": "da",
+            "lang": "デンマーク語",
+            "word": "syre"
+        },
+        {
+            "lang_code": "de",
+            "lang": "ドイツ語",
+            "word": "Säure",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "tr",
+            "lang": "トルコ語",
+            "word": "asit"
+        },
+        {
+            "lang_code": "pnb",
+            "lang": "西パンジャーブ語",
+            "word": "تیزاب"
+        },
+        {
+            "lang_code": "new",
+            "lang": "ネパール・バサ語",
+            "word": "अम्ल"
+        },
+        {
+            "lang_code": "nov",
+            "lang": "ノヴィアル",
+            "word": "aside"
+        },
+        {
+            "lang_code": "no",
+            "lang": "ノルウェー語",
+            "word": "syre"
+        },
+        {
+            "lang_code": "nn",
+            "lang": "ニーノシュク",
+            "word": "syre"
+        },
+        {
+            "lang_code": "ht",
+            "lang": "ハイチ語",
+            "word": "asid"
+        },
+        {
+            "lang_code": "eu",
+            "lang": "バスク語",
+            "word": "azido"
+        },
+        {
+            "lang_code": "hu",
+            "lang": "ハンガリー語",
+            "word": "sav"
+        },
+        {
+            "lang_code": "hi",
+            "lang": "ヒンディー語",
+            "word": "अम्ल"
+        },
+        {
+            "lang_code": "hif",
+            "lang": "フィジー・ヒンディー語",
+            "word": "tejaab"
+        },
+        {
+            "lang_code": "fi",
+            "lang": "フィンランド語",
+            "word": "hapan"
+        },
+        {
+            "lang_code": "fi",
+            "lang": "フィンランド語",
+            "word": "aine"
+        },
+        {
+            "lang_code": "fo",
+            "lang": "フェロー語",
+            "word": "sýra"
+        },
+        {
+            "lang_code": "fr",
+            "lang": "フランス語",
+            "word": "acide",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "bg",
+            "lang": "ブルガリア語",
+            "word": "киселина"
+        },
+        {
+            "lang_code": "br",
+            "lang": "ブルトン語",
+            "word": "trenkenn"
+        },
+        {
+            "lang_code": "vi",
+            "lang": "ベトナム語",
+            "word": "axít"
+        },
+        {
+            "lang_code": "he",
+            "lang": "ヘブライ語",
+            "word": "חומצה"
+        },
+        {
+            "lang_code": "be",
+            "lang": "ベラルーシ語",
+            "word": "кіслоты"
+        },
+        {
+            "lang_code": "fa",
+            "lang": "ペルシア語",
+            "word": "اسید"
+        },
+        {
+            "lang_code": "bn",
+            "lang": "ベンガル語",
+            "word": "অম্ল"
+        },
+        {
+            "lang_code": "pl",
+            "lang": "ポーランド語",
+            "word": "kwas",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "pt",
+            "lang": "ポルトガル語",
+            "word": "ácido",
+            "tags": [
+                "masculine"
+            ]
+        },
+        {
+            "lang_code": "mk",
+            "lang": "マケドニア語",
+            "word": "киселина"
+        },
+        {
+            "lang_code": "ml",
+            "lang": "マラヤーラム語",
+            "word": "അമ്ലം"
+        },
+        {
+            "lang_code": "ms",
+            "lang": "マレー語",
+            "word": "asid"
+        },
+        {
+            "lang_code": "yo",
+            "lang": "ヨルバ語",
+            "word": "omikíkan"
+        },
+        {
+            "lang_code": "la",
+            "lang": "ラテン語",
+            "word": "acidum"
+        },
+        {
+            "lang_code": "lv",
+            "lang": "ラトヴィア語",
+            "word": "skābe",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "lt",
+            "lang": "リトアニア語",
+            "word": "rūgštis"
+        },
+        {
+            "lang_code": "li",
+            "lang": "リンブルフ語",
+            "word": "zoer"
+        },
+        {
+            "lang_code": "ro",
+            "lang": "ルーマニア語",
+            "word": "acid"
+        },
+        {
+            "lang_code": "lb",
+            "lang": "ルクセンブルク語",
+            "word": "saier"
+        },
+        {
+            "lang_code": "ru",
+            "lang": "ロシア語",
+            "word": "кислота",
+            "tags": [
+                "feminine"
+            ]
+        },
+        {
+            "lang_code": "ru",
+            "lang": "ロシア語",
+            "word": "кислятина",
+            "tags": [
+                "feminine"
+            ],
+            "roman": "kisljátina"
+        },
+        {
+            "lang_code": "lmo",
+            "lang": "ロンバルド語",
+            "word": "acid"
+        },
+        {
+            "lang_code": "war",
+            "lang": "ワライ語",
+            "word": "asido"
+        }
+    ],
+    "proverbs": [
+        {
+            "word": "酸化"
+        },
+        {
+            "word": "酸性"
+        },
+        {
+            "word": "酸素"
+        },
+        {
+            "word": "酸鼻"
+        },
+        {
+            "word": "酸味"
+        },
+        {
+            "word": "硫酸"
+        }
+    ]
+}

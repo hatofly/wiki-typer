@@ -14,242 +14,385 @@ DEFAULT_URL = (
 )
 
 
-def download_file(url: str, output: Path):
-    """Download the Wiktionary JSONL.gz file."""
-    print(f"Downloading:\n  {url}")
-    print(f"          -> {output}")
-    
-    with urllib.request.urlopen(url) as response:
-        total = response.headers.get("Content-Length")
-        total = int(total) if total else None
-
-        downloaded = 0
-
-        with output.open("wb") as f:
-            while True:
-                chunk = response.read(1024 * 1024)
-                if not chunk:
-                    break
-
-                f.write(chunk)
-                downloaded += len(chunk)
-
-                if total:
-                    percent = downloaded / total * 100
-                    print(
-                        f"\r  {downloaded / 1024 / 1024:.1f} MB"
-                        f" / {total / 1024 / 1024:.1f} MB"
-                        f" ({percent:.1f}%)",
-                        end="",
-                    )
-
-    print("\nDownload complete.")
-
+# ----------------------------------------------------------------------
+# Category handling
+# ----------------------------------------------------------------------
 
 def normalize_category(category: str) -> str:
     """
-    Normalize category strings so that
-    'ja:物理学' and '物理学' can be compared.
+    Normalize category names.
+
+    Examples:
+        日本語 物理学
+        日本語_物理学
+        ja:物理学
+        物理学
+
+    -> 物理学
     """
+
+    if not category:
+        return ""
+
     category = category.strip()
 
-    if ":" in category:
-        prefix, value = category.split(":", 1)
+    # Wiktionary category names may use spaces or underscores.
+    category = re.sub(r"[\s_]+", " ", category)
 
-        if prefix.lower() in {
-            "ja",
-            "japanese",
-            "日本語",
-        }:
-            return value
+    # Remove language prefix.
+    prefixes = (
+        "日本語 ",
+        "Japanese ",
+        "ja:",
+        "ja ",
+    )
 
-    return category
+    for prefix in prefixes:
+        if category.startswith(prefix):
+            category = category[len(prefix):]
+            break
+
+    return category.strip()
 
 
-def category_matches(categories, target: str) -> bool:
+def category_matches(category: str, target: str) -> bool:
     """
-    Check whether one of the sense categories matches target.
+    Compare categories after normalization.
     """
-    target = normalize_category(target)
 
-    for category in categories or []:
-        category = normalize_category(category)
-
-        if category == target:
-            return True
-
-    return False
-
-
-def is_japanese_entry(entry: dict) -> bool:
-    """
-    Keep entries whose Wiktionary language is Japanese.
-    """
     return (
-        entry.get("lang_code") == "ja"
-        or entry.get("lang") == "Japanese"
+        normalize_category(category)
+        == normalize_category(target)
     )
 
 
-def is_japanese_text(text: str) -> bool:
-    """
-    Roughly determine whether a string contains Japanese characters.
-    """
-    return bool(
-        re.search(
-            r"[\u3040-\u309f\u30a0-\u30ff\u3400-\u4dbf\u4e00-\u9fff]",
-            text,
-        )
-    )
+# ----------------------------------------------------------------------
+# Japanese text detection
+# ----------------------------------------------------------------------
 
+HIRAGANA_RE = re.compile(r"^[ぁ-ゖー]+$")
+KATAKANA_RE = re.compile(r"^[ァ-ヺー]+$")
+
+
+def is_hiragana(text: str) -> bool:
+    return bool(HIRAGANA_RE.fullmatch(text))
+
+
+def is_katakana(text: str) -> bool:
+    return bool(KATAKANA_RE.fullmatch(text))
+
+
+def is_kana(text: str) -> bool:
+    """
+    True if the entire string consists of hiragana/katakana.
+    """
+
+    return is_hiragana(text) or is_katakana(text)
+
+
+# ----------------------------------------------------------------------
+# Reading extraction
+# ----------------------------------------------------------------------
 
 def extract_reading(entry: dict) -> str:
     """
-    Extract a Japanese reading.
+    Extract Japanese reading from forms.
 
-    Wiktextract can contain several forms/sounds.
-    We prefer hiragana/katakana readings.
+    We prefer:
+        - hiragana
+        - katakana
+
+    and ignore things such as:
+        - ソウ
+        - ショウ
+        - transliteration of kanji
+
+    because these are often on'yomi / kun'yomi labels rather
+    than the actual kana reading of the word.
+
+    Example:
+        重力子 -> じゅうりょくし
+        酸     -> (no reliable kana reading from forms)
     """
 
     candidates = []
 
-    # forms
     for form in entry.get("forms", []):
-        form_text = form.get("form", "")
+        value = form.get("form", "").strip()
 
-        if not form_text:
+        if not value:
             continue
 
-        # Typical Japanese reading tags
-        tags = set(form.get("tags", []))
+        # Actual kana spelling
+        if is_kana(value):
+            candidates.append(value)
 
-        if (
-            "hiragana" in tags
-            or "katakana" in tags
-            or "kana" in tags
-        ):
-            candidates.append(form_text)
+    # Remove duplicates while preserving order.
+    candidates = list(dict.fromkeys(candidates))
 
-    # sounds
-    for sound in entry.get("sounds", []):
-        ipa = sound.get("ipa", "")
+    if not candidates:
+        return ""
 
-        # Some Japanese entries have romanized data here,
-        # but we don't use it as the primary reading.
-        if is_japanese_text(ipa):
-            candidates.append(ipa)
+    # Prefer hiragana.
+    hiragana = [
+        x for x in candidates
+        if is_hiragana(x)
+    ]
 
-    # Remove duplicates while preserving order
-    seen = set()
+    if hiragana:
+        return hiragana[0]
 
-    for candidate in candidates:
-        if candidate not in seen:
-            seen.add(candidate)
-            return candidate
+    return candidates[0]
 
-    return ""
 
+# ----------------------------------------------------------------------
+# English translation
+# ----------------------------------------------------------------------
 
 def extract_english_translation(entry: dict) -> str:
     """
-    Extract the first English translation.
+    Extract English translations.
 
-    Wiktionary translations may contain:
-      {
-        "lang_code": "en",
-        "lang": "English",
-        "word": "..."
-      }
+    Returns up to three unique English translations.
     """
-
-    translations = entry.get("translations", [])
 
     candidates = []
 
-    for translation in translations:
-        lang_code = translation.get("lang_code", "")
-        lang = translation.get("lang", "")
+    for translation in entry.get("translations", []):
 
-        if lang_code == "en" or lang.lower() == "english":
-            word = translation.get("word", "").strip()
+        lang_code = translation.get(
+            "lang_code",
+            "",
+        )
+
+        lang = translation.get(
+            "lang",
+            "",
+        )
+
+        if (
+            lang_code == "en"
+            or lang.lower() in {
+                "english",
+                "英語",
+            }
+        ):
+            word = translation.get(
+                "word",
+                "",
+            ).strip()
 
             if word:
                 candidates.append(word)
 
-    # Remove duplicates
+    # Deduplicate
     candidates = list(dict.fromkeys(candidates))
 
-    if candidates:
-        return ", ".join(candidates[:3])
-
-    return ""
+    return ", ".join(candidates[:3])
 
 
-def extract_description(entry: dict) -> str:
+# ----------------------------------------------------------------------
+# Sense extraction
+# ----------------------------------------------------------------------
+
+def find_matching_senses(
+    entry: dict,
+    target_category: str,
+):
     """
-    Extract a short description from the first available sense.
+    Find senses whose categories contain target_category.
+
+    IMPORTANT:
+    The gloss must be taken from the SAME sense that contains
+    the matching category.
+
+    This fixes the problem illustrated by:
+
+        相
+
+    where only the 7th sense belongs to physics.
+    """
+
+    matching_senses = []
+
+    for sense in entry.get("senses", []):
+
+        categories = sense.get(
+            "categories",
+            [],
+        )
+
+        if any(
+            category_matches(
+                category,
+                target_category,
+            )
+            for category in categories
+        ):
+            matching_senses.append(sense)
+
+    return matching_senses
+
+
+def extract_description_from_senses(
+    senses: list,
+) -> str:
+    """
+    Extract descriptions from matching senses.
     """
 
     descriptions = []
 
-    for sense in entry.get("senses", []):
-        for gloss in sense.get("glosses", []):
+    for sense in senses:
+
+        for gloss in sense.get(
+            "glosses",
+            [],
+        ):
+
             gloss = gloss.strip()
 
             if gloss:
                 descriptions.append(gloss)
 
-    # Remove duplicates while preserving order
-    descriptions = list(dict.fromkeys(descriptions))
+    # Remove duplicates while preserving order.
+    descriptions = list(
+        dict.fromkeys(descriptions)
+    )
 
     if not descriptions:
         return ""
 
-    # Use the first few definitions.
-    return " / ".join(descriptions[:2])
+    # Join multiple meanings.
+    return " / ".join(descriptions)
 
 
-def extract_entry(entry: dict, target_category: str):
+# ----------------------------------------------------------------------
+# Entry extraction
+# ----------------------------------------------------------------------
+
+def extract_entry(
+    entry: dict,
+    target_category: str,
+):
     """
-    Convert one Wiktextract entry into our simplified format.
+    Convert a Wiktextract entry into the simplified format.
     """
 
-    if not is_japanese_entry(entry):
+    # Japanese entries only.
+    if entry.get("lang_code") != "ja":
         return None
 
-    term = entry.get("word", "").strip()
+    term = entry.get(
+        "word",
+        "",
+    ).strip()
 
     if not term:
         return None
 
-    matched_categories = []
+    # Find senses belonging to the requested category.
+    matching_senses = find_matching_senses(
+        entry,
+        target_category,
+    )
 
-    for sense in entry.get("senses", []):
-        for category in sense.get("categories", []):
-            category_normalized = normalize_category(category)
+    if not matching_senses:
+        return None
 
-            if category_normalized == normalize_category(target_category):
-                matched_categories.append(category_normalized)
+    description = extract_description_from_senses(
+        matching_senses
+    )
 
-    if not matched_categories:
+    # Ignore entries with no usable definition.
+    if not description:
         return None
 
     reading = extract_reading(entry)
-    english = extract_english_translation(entry)
-    description = extract_description(entry)
 
-    # Require at least a term and description.
-    if not description:
-        return None
+    english = extract_english_translation(entry)
 
     return {
         "term": term,
         "reading": reading,
         "english": english,
         "description": description,
-        "category": normalize_category(target_category),
+        "category": normalize_category(
+            target_category
+        ),
     }
 
+
+# ----------------------------------------------------------------------
+# Download
+# ----------------------------------------------------------------------
+
+def download_file(
+    url: str,
+    output: Path,
+):
+    """
+    Download Wiktextract JSONL.gz.
+    """
+
+    print(f"Downloading:")
+    print(f"  {url}")
+    print(f"  -> {output}")
+
+    with urllib.request.urlopen(url) as response:
+
+        total = response.headers.get(
+            "Content-Length"
+        )
+
+        total = (
+            int(total)
+            if total
+            else None
+        )
+
+        downloaded = 0
+
+        with output.open("wb") as f:
+
+            while True:
+
+                chunk = response.read(
+                    1024 * 1024
+                )
+
+                if not chunk:
+                    break
+
+                f.write(chunk)
+
+                downloaded += len(chunk)
+
+                if total:
+
+                    percent = (
+                        downloaded
+                        / total
+                        * 100
+                    )
+
+                    print(
+                        f"\r  "
+                        f"{downloaded / 1024 / 1024:.1f} MB"
+                        f" / "
+                        f"{total / 1024 / 1024:.1f} MB"
+                        f" "
+                        f"({percent:.1f}%)",
+                        end="",
+                    )
+
+    print()
+    print("Download complete.")
+
+
+# ----------------------------------------------------------------------
+# JSONL processing
+# ----------------------------------------------------------------------
 
 def process_jsonl(
     input_path: Path,
@@ -257,19 +400,30 @@ def process_jsonl(
     target_category: str,
 ):
     """
-    Stream-process the JSONL file.
+    Process Wiktextract JSONL.gz line by line.
 
-    The entire ~400 MB Wiktionary dataset is never loaded
-    into memory at once.
+    The complete dataset is never loaded into memory.
     """
 
     results = []
 
-    print(f"Processing category: {target_category}")
+    print()
+    print(
+        f"Target category: "
+        f"{normalize_category(target_category)}"
+    )
+    print()
 
-    with gzip.open(input_path, "rt", encoding="utf-8") as f:
+    with gzip.open(
+        input_path,
+        "rt",
+        encoding="utf-8",
+    ) as f:
 
-        for line_number, line in enumerate(f, start=1):
+        for line_number, line in enumerate(
+            f,
+            start=1,
+        ):
 
             line = line.strip()
 
@@ -278,10 +432,14 @@ def process_jsonl(
 
             try:
                 entry = json.loads(line)
+
             except json.JSONDecodeError:
+
                 print(
-                    f"Warning: invalid JSON at line {line_number}",
+                    f"Warning: invalid JSON "
+                    f"at line {line_number}"
                 )
+
                 continue
 
             result = extract_entry(
@@ -293,31 +451,46 @@ def process_jsonl(
                 results.append(result)
 
             if line_number % 100_000 == 0:
+
                 print(
-                    f"  processed {line_number:,} entries"
-                    f" / found {len(results):,}"
+                    f"  processed "
+                    f"{line_number:,} entries"
+                    f" / found "
+                    f"{len(results):,}"
                 )
 
-    # Remove duplicate terms.
+    # ------------------------------------------------------------------
+    # Deduplicate
+    # ------------------------------------------------------------------
+
     unique = {}
 
     for result in results:
+
         key = (
             result["term"],
             result["reading"],
+            result["description"],
         )
 
         if key not in unique:
             unique[key] = result
 
-    results = list(unique.values())
+    results = list(
+        unique.values()
+    )
 
+    # Sort alphabetically by term.
     results.sort(
         key=lambda x: (
             x["term"],
             x["reading"],
         )
     )
+
+    # ------------------------------------------------------------------
+    # Write JSON
+    # ------------------------------------------------------------------
 
     output_path.parent.mkdir(
         parents=True,
@@ -328,6 +501,7 @@ def process_jsonl(
         "w",
         encoding="utf-8",
     ) as f:
+
         json.dump(
             results,
             f,
@@ -337,15 +511,25 @@ def process_jsonl(
 
     print()
     print("Done!")
-    print(f"  Entries: {len(results):,}")
-    print(f"  Output:  {output_path}")
+    print(
+        f"  Entries: "
+        f"{len(results):,}"
+    )
+    print(
+        f"  Output:  "
+        f"{output_path}"
+    )
 
+
+# ----------------------------------------------------------------------
+# Main
+# ----------------------------------------------------------------------
 
 def main():
 
     parser = argparse.ArgumentParser(
         description=(
-            "Extract Japanese scientific terms from "
+            "Extract Japanese terms from "
             "Wiktionary/Wiktextract data."
         )
     )
@@ -353,27 +537,39 @@ def main():
     parser.add_argument(
         "--category",
         required=True,
-        help="Wiktionary category to extract.",
+        help=(
+            "Wiktionary category, "
+            "e.g. '物理学'"
+        ),
     )
 
     parser.add_argument(
         "--input",
         type=Path,
-        default=Path("jawiktionary.jsonl.gz"),
-        help="Path to Wiktextract JSONL.gz.",
+        default=Path(
+            "jawiktionary.jsonl.gz"
+        ),
+        help=(
+            "Path to Wiktextract JSONL.gz."
+        ),
     )
 
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("terms.json"),
+        default=Path(
+            "terms.json"
+        ),
         help="Output JSON path.",
     )
 
     parser.add_argument(
         "--download",
         action="store_true",
-        help="Download the latest Japanese Wiktionary dump first.",
+        help=(
+            "Download the latest "
+            "Japanese Wiktionary dump first."
+        ),
     )
 
     parser.add_argument(
@@ -384,7 +580,11 @@ def main():
 
     args = parser.parse_args()
 
-    if args.download or not args.input.exists():
+    # Download if requested or if file doesn't exist.
+    if (
+        args.download
+        or not args.input.exists()
+    ):
 
         download_file(
             args.url,

@@ -1,0 +1,32 @@
+{
+    "word": "重力子",
+    "lang_code": "ja",
+    "lang": "日本語",
+    "pos": "noun",
+    "pos_title": "名詞",
+    "senses": [
+        {
+            "glosses": [
+                "重力を伝える素粒子。ゲージ粒子に属するボース粒子とされているが、未発見である。"
+            ],
+            "topics": [
+                "physics"
+            ],
+            "categories": [
+                "日本語 物理学"
+            ]
+        }
+    ],
+    "categories": [
+        "日本語",
+        "日本語 名詞"
+    ],
+    "forms": [
+        {
+            "form": "じゅうりょくし",
+            "tags": [
+                "transliteration"
+            ]
+        }
+    ]
+}
