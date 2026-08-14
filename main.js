@@ -27,6 +27,17 @@ function formatSpeed(value) {
   return value == null || !Number.isFinite(value) ? "--" : value.toFixed(1);
 }
 
+function normalizeToHiragana(str_list) {
+  if (Array.isArray(str_list)) {
+    return str_list.map(str => str.replace(/[\u30a1-\u30f6]/g, function(match) {
+      return String.fromCharCode(match.charCodeAt(0) - 0x60);
+    }));
+  }
+  return str_list.replace(/[\u30a1-\u30f6]/g, function(match) {
+    return String.fromCharCode(match.charCodeAt(0) - 0x60);
+  });
+}
+
 function getInputWord(word) {
   if (Array.isArray(word.english) && word.english.length > 0 && word.english[0]) {
     return {
@@ -36,7 +47,7 @@ function getInputWord(word) {
   }
 
   return {
-    text: String(word.reading ?? ""),
+    text: String(normalizeToHiragana(word.reading) ?? ""),
     type: "reading",
   };
 }
@@ -152,7 +163,7 @@ function renderGame() {
         ${
           target.type === "reading"
             ? createTypingDisplay(target.text)
-            : escapeHtml(word.reading ?? "")
+            : escapeHtml(normalizeToHiragana(word.reading) ?? "")
         }
       </div>
 
