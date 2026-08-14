@@ -1,0 +1,311 @@
+[
+  {
+    "term": "のび",
+    "reading": [
+      "のび"
+    ],
+    "english": [
+      "elongation"
+    ],
+    "description": [
+      "（伸び）材料の試験片を引っ張り、破断させた後の試験片の長さと試験片の元の長さの割合。材料の延性の程度を知る指標の一つ。破断伸びとも。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "やきいれ",
+    "reading": [
+      "やきいれ"
+    ],
+    "english": [
+      "quenching"
+    ],
+    "description": [
+      "主に鉄鋼を、加熱した後に急冷することによって強度や硬度を高める熱処理。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "やきもどし",
+    "reading": [
+      "やきもどし"
+    ],
+    "english": [
+      "tempering"
+    ],
+    "description": [
+      "焼入れした材料を再度加熱し、主に靭性を回復させる熱処理。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "イーサー",
+    "reading": [
+      "イーサー"
+    ],
+    "english": [],
+    "description": [
+      "電子スピン共鳴(Electron Spin Resonance)の略。または、それを起こすための装置。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "シックスナイン",
+    "reading": [
+      "シックスナイン"
+    ],
+    "english": [],
+    "description": [
+      "物質の純度が99.9999%以上であること。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "ローレンツ数",
+    "reading": [
+      "ローレンツすう"
+    ],
+    "english": [],
+    "description": [
+      "ウィーデマン=フランツの法則に於ける比例定数Lのこと。理論値はL=κ/(σT)=1/3((k_Bπ)/e)²。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "基地",
+    "reading": [
+      "きじ"
+    ],
+    "english": [
+      "base",
+      "matrix"
+    ],
+    "description": [
+      "（きじ） 母材。マトリックス。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "塑性",
+    "reading": [
+      "そせい"
+    ],
+    "english": [
+      "plasticity"
+    ],
+    "description": [
+      "物体に力を加えたときのひずみが、力を取り去っても元に戻らない性質。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "展性",
+    "reading": [
+      "てんせい"
+    ],
+    "english": [
+      "malleability"
+    ],
+    "description": [
+      "金属を叩いたり圧延したりして延ばすことができる性質。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "弾性",
+    "reading": [
+      "だんせい"
+    ],
+    "english": [
+      "elasticity"
+    ],
+    "description": [
+      "物体に力を加えたときのひずみが、力を取り去ると元に戻ろうとする性質。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "材料",
+    "reading": [
+      "ざいりょう"
+    ],
+    "english": [
+      "material",
+      "data"
+    ],
+    "description": [
+      "物を製作したり料理を作ったりする元になるもの。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "機械性質",
+    "reading": [
+      "きかいせいしつ"
+    ],
+    "english": [],
+    "description": [
+      "「機械的性質」に同じ。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "機械的性質",
+    "reading": [
+      "きかいてきせいしつ"
+    ],
+    "english": [],
+    "description": [
+      "材料が持つ性質のうち、物理的な力・荷重が加わるときの変形や破壊などに関する性質。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "機械試験",
+    "reading": [
+      "きかいしけん"
+    ],
+    "english": [],
+    "description": [
+      "材料の機械的性質を測定する試験。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "瀝青",
+    "reading": [
+      "れきせい"
+    ],
+    "english": [],
+    "description": [
+      "炭化水素からなる化合物やその混合物の総称。ニ硫化炭素に溶ける。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "疲労",
+    "reading": [
+      "ひろう"
+    ],
+    "english": [
+      "lassitude",
+      "tiredness",
+      "weariness",
+      "fatigue"
+    ],
+    "description": [
+      "一回かかるだけでは破壊しないような力でも、何回も繰り返しかかることで、物体が破断あるいは損傷すること。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "",
+    "reading": [],
+    "english": [],
+    "description": [],
+    "category": []
+  },
+  {
+    "term": "相",
+    "reading": [
+      "そう"
+    ],
+    "english": [],
+    "description": [
+      "（ソウ） 純物質か混合物かを問わず、物体が巨視的に均一な化学的組成や物理的性質を持つときに、その均一な特性で物体の状態を区分したもの。位相。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "脆性",
+    "reading": [
+      "ぜいせい"
+    ],
+    "english": [
+      "brittleness"
+    ],
+    "description": [
+      "固体の物体において、物体が力を受けて破壊する際に塑性変形をほとんど起こさず破壊する性質。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "試片",
+    "reading": [
+      "しへん"
+    ],
+    "english": [],
+    "description": [
+      "「試験片」に同じ。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "試験片",
+    "reading": [
+      "しけんへん"
+    ],
+    "english": [],
+    "description": [
+      "材料の性質を試験するために、特別に造られたり実機から切り出したりして用意される、比較的小さな形をしたその材料の物体。試片。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  },
+  {
+    "term": "降伏",
+    "reading": [
+      "こうふく"
+    ],
+    "english": [
+      "surrender",
+      "yielding",
+      "yield"
+    ],
+    "description": [
+      "物体を一定以上変形させると、元の形状に戻らなくなる現象。"
+    ],
+    "category": [
+      "材料科学"
+    ]
+  }
+]

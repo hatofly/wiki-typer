@@ -1,0 +1,559 @@
+[
+  {
+    "term": "下垂体",
+    "reading": [
+      "かすいたい"
+    ],
+    "english": [],
+    "description": [
+      "脳下垂体。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "中枢神経系",
+    "reading": [
+      "ちゅうすうしんけいけい"
+    ],
+    "english": [
+      "central",
+      "nervous",
+      "system"
+    ],
+    "description": [
+      "神経系のうち全ての神経が集中し、統合、支配など神経の中枢となる部分。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "中脳",
+    "reading": [
+      "ちゅうのう"
+    ],
+    "english": [],
+    "description": [
+      "脳の一部で間脳と後脳との間にある部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "側頭葉",
+    "reading": [
+      "そくとうよう"
+    ],
+    "english": [
+      "temporal lobe"
+    ],
+    "description": [
+      "大脳半球側面の外側溝より下の部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "前脳",
+    "reading": [
+      "ぜんのう"
+    ],
+    "english": [
+      "prosencephalon",
+      "forebrain"
+    ],
+    "description": [
+      "脊椎動物の個体が発生する際、神経管の先端にできる膨らみの最前部。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "前頭葉",
+    "reading": [
+      "ぜんとうよう"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の中心の溝より前方の部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "右脳",
+    "reading": [
+      "うのう"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の右側の部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "坐骨神経",
+    "reading": [
+      "ざこつしんけい"
+    ],
+    "english": [],
+    "description": [
+      "下肢の感覚、運動をつかさどる神経。人体の中で一番長い。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "大脳",
+    "reading": [
+      "だいのう"
+    ],
+    "english": [],
+    "description": [
+      "脳のうち間脳、中脳、左右の大脳半球からなる部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "大脳皮質",
+    "reading": [
+      "だいのうひしつ"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の表層にある灰白色の層。神経細胞が多くある。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "小脳",
+    "reading": [
+      "しょうのう"
+    ],
+    "english": [
+      "cerebellum"
+    ],
+    "description": [
+      "脳髄の一部で大脳と脊髄の間にある。反射中枢。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "左脳",
+    "reading": [
+      "さのう"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の左側の部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "延髄",
+    "reading": [
+      "えんずい"
+    ],
+    "english": [
+      "medulla oblongata"
+    ],
+    "description": [
+      "脊椎動物の脳の最下部にあり、脊髄に続く部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "後脳",
+    "reading": [
+      "こうのう"
+    ],
+    "english": [
+      "myelencephalon",
+      "afterbrain"
+    ],
+    "description": [
+      "脊椎動物の個体が発生する際、神経管の先端にできる膨らみの最後部。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "後頭葉",
+    "reading": [
+      "こうとうよう"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の後方の部分。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "感覚神経",
+    "reading": [
+      "かんかくしんけい"
+    ],
+    "english": [],
+    "description": [
+      "末梢神経の一つで、感覚器官で受けた刺激を脳の知覚中枢へ伝達する神経。知覚神経。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "末梢神経",
+    "reading": [
+      "まっしょうしんけい"
+    ],
+    "english": [],
+    "description": [
+      "中枢神経系と体の各所を結ぶ神経の総称。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "松果体",
+    "reading": [
+      "しょうかたい"
+    ],
+    "english": [],
+    "description": [
+      "脊椎動物の脳梁後端の上部にある松かさのような小さな器官。松果腺。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "松果腺",
+    "reading": [
+      "しょうかせん"
+    ],
+    "english": [],
+    "description": [
+      "脊椎動物の脳梁後端の上部にある松かさのような小さな器官。松果体。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "橋",
+    "reading": [
+      "きょう"
+    ],
+    "english": [
+      "bridge"
+    ],
+    "description": [
+      "（キョウ）中脳と延髄の間の部分。脳橋。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "海馬",
+    "reading": [
+      "かいば"
+    ],
+    "english": [
+      "hippocampus"
+    ],
+    "description": [
+      "脳の短期記憶を司る部位。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "灰白質",
+    "reading": [
+      "かいはくしつ"
+    ],
+    "english": [],
+    "description": [
+      "脳または脊髄において神経細胞が密集している灰白色の部分。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "白質",
+    "reading": [
+      "はくしつ"
+    ],
+    "english": [],
+    "description": [
+      "脳、脊髄の白色の部分。有髄神経線維からなる。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "神経",
+    "reading": [
+      "しんけい"
+    ],
+    "english": [
+      "nerve",
+      "sensitivity"
+    ],
+    "description": [
+      "生体における運動や知覚などの情報伝達を担う組織。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "神経叢",
+    "reading": [
+      "しんけいそう"
+    ],
+    "english": [],
+    "description": [
+      "末梢神経が基部または末端で分岐し形成する網状のもの。神経集網。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "神経細胞",
+    "reading": [
+      "しんけいさいぼう"
+    ],
+    "english": [
+      "nerve cell"
+    ],
+    "description": [
+      "神経組織を構成する基本的な細胞、ニューロン。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "神経線維",
+    "reading": [
+      "しんけいせんい"
+    ],
+    "english": [],
+    "description": [
+      "神経細胞からのびる突起。軸索。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "肋間神経",
+    "reading": [
+      "ろっかんしんけい"
+    ],
+    "english": [],
+    "description": [
+      "胸椎の間から出て肋間に分布する十二対の神経。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "脊髄",
+    "reading": [
+      "せきずい"
+    ],
+    "english": [
+      "spinal cord"
+    ],
+    "description": [
+      "脊椎動物の中枢神経の一つ。脊椎の中を通って延髄に続く。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "脳",
+    "reading": [
+      "のう"
+    ],
+    "english": [],
+    "description": [
+      "（ノウ、なずき） 動物の神経系を統御する器官。脳味噌。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "脳下垂体",
+    "reading": [
+      "のうかすいたい"
+    ],
+    "english": [
+      "pituitary"
+    ],
+    "description": [
+      "間脳底部から垂下する内分泌腺。前葉と後葉に分けられる。下垂体。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "脳幹",
+    "reading": [
+      "のうかん"
+    ],
+    "english": [
+      "brain stem"
+    ],
+    "description": [
+      "脳のうち大脳と小脳を除いた脳の根幹をなす部分。中脳、間脳、橋、延髄からなる。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "視床",
+    "reading": [
+      "ししょう"
+    ],
+    "english": [
+      "thalamus"
+    ],
+    "description": [
+      "間脳の大半を占める灰白質の塊。嗅覚以外の感覚の情報を大脳皮質へ中継し、感情の発現、運動の調節などにも関わる。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "視床下部",
+    "reading": [
+      "ししょうかぶ"
+    ],
+    "english": [
+      "hypothalamus"
+    ],
+    "description": [
+      "間脳の一部。視床の下部にあり脳下垂体に繋がる。自律神経系の中枢。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "視神経",
+    "reading": [
+      "ししんけい"
+    ],
+    "english": [],
+    "description": [
+      "目の網膜から大脳の視神経交叉までの視覚の情報を伝達する神経の束。視束。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "軸索",
+    "reading": [
+      "じくさく"
+    ],
+    "english": [],
+    "description": [
+      "神経細胞からでるもっとも長い突起。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "運動神経",
+    "reading": [
+      "うんどうしんけい"
+    ],
+    "english": [],
+    "description": [
+      "脳の中枢から意識的な興奮を骨格筋などに伝える末梢神経の一つ。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  },
+  {
+    "term": "錐体",
+    "reading": [
+      "すいたい"
+    ],
+    "english": [],
+    "description": [
+      "哺乳類の延髄上部。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "頭頂葉",
+    "reading": [
+      "とうちょうよう"
+    ],
+    "english": [],
+    "description": [
+      "大脳半球の中央の頂部。"
+    ],
+    "category": [
+      "脳"
+    ]
+  },
+  {
+    "term": "髄膜",
+    "reading": [
+      "ずいまく"
+    ],
+    "english": [
+      "meninges"
+    ],
+    "description": [
+      "脳、脊髄を覆う膜。外側から硬膜、蜘蛛膜、軟膜の三層からなる。脳脊髄膜。"
+    ],
+    "category": [
+      "神経解剖学"
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "term": "DNA",
+    "reading": [
+      "ディーエヌエー"
+    ],
+    "english": [
+      "DNA"
+    ],
+    "description": [
+      "デオキシリボ核酸。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "アデニン",
+    "reading": [
+      "アデニン"
+    ],
+    "english": [
+      "adenine"
+    ],
+    "description": [
+      "核酸を構成するプリン塩基の一つ。分子式はC₅H₅N₅。DNAではチミンと、RNAではウラシルとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "ウラシル",
+    "reading": [
+      "ウラシル"
+    ],
+    "english": [
+      "uracil"
+    ],
+    "description": [
+      "リボ核酸を構成するピリミジン塩基の一つ。分子式はC₄H₄N₂O₂。RNAで、アデニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "グアニン",
+    "reading": [
+      "グアニン"
+    ],
+    "english": [
+      "guanine"
+    ],
+    "description": [
+      "核酸を構成するプリン塩基の一つ。分子式はC₅H₅N₅O。DNA又はRNAで、シトシンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "ゲノム",
+    "reading": [
+      "ゲノム"
+    ],
+    "english": [],
+    "description": [
+      "DNAに含まれる遺伝情報の総体。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "シトシン",
+    "reading": [
+      "シトシン"
+    ],
+    "english": [
+      "cytosine"
+    ],
+    "description": [
+      "核酸を構成するピリミジン塩基の一つ。分子式はC₄H₅N₃O。DNA又はRNAで、グアニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "ジーン",
+    "reading": [
+      "ジーン"
+    ],
+    "english": [],
+    "description": [
+      "遺伝子。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "チミン",
+    "reading": [
+      "チミン"
+    ],
+    "english": [
+      "thymine"
+    ],
+    "description": [
+      "デオキシリボ核酸を構成するピリミジン塩基の一つ。分子式はC₅H₆N₂O₂。DNAで、アデニンとの水素結合により塩基対を作る。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "メンデルの法則",
+    "reading": [
+      "メンデルのほうそく"
+    ],
+    "english": [],
+    "description": [
+      "遺伝に関する法則で分離の法則、独立の法則、顕性の法則からなる。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "優性",
+    "reading": [
+      "ゆうせい"
+    ],
+    "english": [],
+    "description": [
+      "顕性。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "劣性",
+    "reading": [
+      "れっせい"
+    ],
+    "english": [],
+    "description": [
+      "潜性。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "接合子",
+    "reading": [
+      "せつごうし"
+    ],
+    "english": [],
+    "description": [
+      "生物の生殖の際、それぞれの配偶子が接合や合体をして生じた細胞。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "染色体",
+    "reading": [
+      "せんしょくたい"
+    ],
+    "english": [
+      "chromosome"
+    ],
+    "description": [
+      "遺伝情報を担う物質。遺伝子をコードするDNAを含む。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "混系",
+    "reading": [
+      "こんけい"
+    ],
+    "english": [],
+    "description": [
+      "種々の異なった遺伝質が混在する系統。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "潜性",
+    "reading": [
+      "せんせい"
+    ],
+    "english": [],
+    "description": [
+      "対立形質のうち、次の代に発現しない方の形質。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "赤の女王仮説",
+    "reading": [
+      "あかのじょおうかせつ"
+    ],
+    "english": [
+      "Red Queen hypothesis"
+    ],
+    "description": [
+      "「生存競争の中である生物種・個体・遺伝子が生き残るためには、常に持続的な進化をしていかなければならない」という仮説。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "転写",
+    "reading": [
+      "てんしゃ"
+    ],
+    "english": [],
+    "description": [
+      "DNAの塩基配列をもとにしてRNAが合成されること。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "遺伝子",
+    "reading": [
+      "いでんし"
+    ],
+    "english": [
+      "gene"
+    ],
+    "description": [
+      "遺伝される形質の情報の単位。ほとんどの生物ではDNAによってコードされる。一部のウイルスではRNAによる。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "遺伝子座",
+    "reading": [
+      "いでんしざ"
+    ],
+    "english": [
+      "locus",
+      "genetic locus"
+    ],
+    "description": [
+      "遺伝子がコードされる染色体上の領域。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "配偶子",
+    "reading": [
+      "はいぐうし"
+    ],
+    "english": [],
+    "description": [
+      "有性生殖で合体、接合、受精などにより新しい個体をつくる個々の生殖細胞。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  },
+  {
+    "term": "顕性",
+    "reading": [
+      "けんせい"
+    ],
+    "english": [],
+    "description": [
+      "対立形質のうち、次の代に現れる方の形質。"
+    ],
+    "category": [
+      "遺伝学"
+    ]
+  }
+]

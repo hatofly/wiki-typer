@@ -1,0 +1,1232 @@
+[
+  {
+    "term": "しろめ",
+    "reading": [
+      "しろめ"
+    ],
+    "english": [],
+    "description": [
+      "鉄、砒素、アンチモンなどを含む銅と亜鉛の合金。",
+      "鉄、亜鉛、アンチモンなどを含む錫と鉛の合金。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "すず",
+    "reading": [
+      "すず"
+    ],
+    "english": [
+      "tin"
+    ],
+    "description": [
+      "原子番号 50、元素記号 Sn の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "なまり",
+    "reading": [
+      "なまり"
+    ],
+    "english": [
+      "lead"
+    ],
+    "description": [
+      "原子番号 82、元素記号 Pb の金属元素。単体は常温常圧では蒼白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "はんだ",
+    "reading": [
+      "はんだ"
+    ],
+    "english": [
+      "solder"
+    ],
+    "description": [
+      "金属の接合に用いられる錫と鉛を主成分とする合金。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "アイアン",
+    "reading": [
+      "アイアン"
+    ],
+    "english": [],
+    "description": [
+      "鉄。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "アインスタイニウム",
+    "reading": [
+      "アインスタイニウム"
+    ],
+    "english": [
+      "einsteinium"
+    ],
+    "description": [
+      "原子番号 99、元素記号 Es の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "アクチニウム",
+    "reading": [
+      "アクチニウム"
+    ],
+    "english": [
+      "actinium"
+    ],
+    "description": [
+      "原子番号 89、元素記号 Ac の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "アメリシウム",
+    "reading": [
+      "アメリシウム"
+    ],
+    "english": [
+      "americium"
+    ],
+    "description": [
+      "原子番号 95、元素記号 Am の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。化学的性質はユウロピウムに類似する。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "アルミニウム",
+    "reading": [
+      "アルミニウム"
+    ],
+    "english": [
+      "aluminium",
+      "aluminum"
+    ],
+    "description": [
+      "原子番号 13、元素記号 Al の金属元素。単体は、常温常圧では銀色の固体。原料はボーキサイトで、精錬時に大量の電気を必要とする。イオンでは３価の陽イオンとなる。軽銀。礬素。アルミ。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "イッテルビウム",
+    "reading": [
+      "イッテルビウム"
+    ],
+    "english": [
+      "ytterbium"
+    ],
+    "description": [
+      "原子番号 70、元素記号 Yb の金属元素。ランタノイド。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "イリジウム",
+    "reading": [
+      "イリジウム"
+    ],
+    "english": [
+      "iridium"
+    ],
+    "description": [
+      "原子番号 77、元素記号 Ir の金属元素。原子量192.2。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "インゴット",
+    "reading": [
+      "インゴット"
+    ],
+    "english": [],
+    "description": [
+      "溶かした金属を鋳型に流し込み、冷やして固めた塊。鋳塊。鋼塊。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "インジウム",
+    "reading": [
+      "インジウム"
+    ],
+    "english": [
+      "indium"
+    ],
+    "description": [
+      "原子番号 49、元素記号 In の金属元素。原子量114.8。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ウラン",
+    "reading": [
+      "ウラン"
+    ],
+    "english": [
+      "uranium"
+    ],
+    "description": [
+      "原子番号92、元素記号Uの金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。ウラニウム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "エルビウム",
+    "reading": [
+      "エルビウム"
+    ],
+    "english": [
+      "erbium"
+    ],
+    "description": [
+      "原子番号 68、元素記号 Er の金属元素。原子量167.3。ランタノイド。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "カドミウム",
+    "reading": [
+      "カドミウム"
+    ],
+    "english": [
+      "cadmium"
+    ],
+    "description": [
+      "原子番号 48、元素記号 Cd の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "カリウム",
+    "reading": [
+      "カリウム"
+    ],
+    "english": [
+      "potassium"
+    ],
+    "description": [
+      "原子番号 19、元素記号 K の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。ポタシウム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "カリホルニウム",
+    "reading": [
+      "カリホルニウム"
+    ],
+    "english": [
+      "californium"
+    ],
+    "description": [
+      "原子番号 98、元素記号 Cf の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "カルシウム",
+    "reading": [
+      "カルシウム"
+    ],
+    "english": [
+      "calcium"
+    ],
+    "description": [
+      "原子番号 20、元素記号 Ca の金属元素。アルカリ土類金属。単体は、常温常圧では銀白色の固体。動物の骨に多く含まれる。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ガドリニウム",
+    "reading": [
+      "ガドリニウム"
+    ],
+    "english": [
+      "gadolinium"
+    ],
+    "description": [
+      "原子番号 64、元素記号 Gd の金属元素。原子量157.3。ランタノイド。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ガリウム",
+    "reading": [
+      "ガリウム"
+    ],
+    "english": [
+      "gallium"
+    ],
+    "description": [
+      "原子番号 31、元素記号 Ga の金属元素。単体は、常温常圧では青みがかった銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "キュリウム",
+    "reading": [
+      "キュリウム"
+    ],
+    "english": [
+      "curium"
+    ],
+    "description": [
+      "原子番号 96、元素記号 Cm の金属元素。アクチノイドに属する放射性元素。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "クロム",
+    "reading": [
+      "クロム"
+    ],
+    "english": [
+      "chromium"
+    ],
+    "description": [
+      "原子番号 24、元素記号 Cr の金属元素。単体は、常温常圧では銀色の固体。クローム。クロミウム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "コバルト",
+    "reading": [
+      "コバルト"
+    ],
+    "english": [
+      "cobalt",
+      "cobalt blue"
+    ],
+    "description": [
+      "原子番号 27、元素記号 Co の金属元素。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ジスプロシウム",
+    "reading": [
+      "ジスプロシウム"
+    ],
+    "english": [
+      "dysprosium"
+    ],
+    "description": [
+      "原子番号 66、元素記号 Dy の金属元素。原子量162.5。ランタノイド。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ジュラルミン",
+    "reading": [
+      "ジュラルミン"
+    ],
+    "english": [],
+    "description": [
+      "アルミニウムを主成分として銅やマグネシウムを添加し、主に時効硬化を起こして用いられる合金。比強度が高く、航空機などに使用される。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "ジルコニウム",
+    "reading": [
+      "ジルコニウム"
+    ],
+    "english": [
+      "zirconium"
+    ],
+    "description": [
+      "原子番号 40、元素記号 Zr の金属元素。原子量91.22。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "スカンジウム",
+    "reading": [
+      "スカンジウム"
+    ],
+    "english": [
+      "scandium"
+    ],
+    "description": [
+      "原子番号 21、元素記号 Sc の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ステンレス",
+    "reading": [
+      "ステンレス"
+    ],
+    "english": [],
+    "description": [
+      "ステンレス鋼のこと。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "ステンレス鋼",
+    "reading": [
+      "すてんれすこう"
+    ],
+    "english": [
+      "stainless steel"
+    ],
+    "description": [
+      "鉄にクロムを含ませた、耐食性の高い合金鋼。不銹鋼。ステンレス。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "セシウム",
+    "reading": [
+      "セシウム"
+    ],
+    "english": [
+      "caesium",
+      "cesium"
+    ],
+    "description": [
+      "原子番号 55、元素記号 Cs の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "セリウム",
+    "reading": [
+      "セリウム"
+    ],
+    "english": [
+      "cerium"
+    ],
+    "description": [
+      "原子番号 58、元素記号 Ce の金属元素。ランタノイド。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "タリウム",
+    "reading": [
+      "タリウム"
+    ],
+    "english": [
+      "thallium"
+    ],
+    "description": [
+      "原子番号 81、元素記号 Tl の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "タングステン",
+    "reading": [
+      "タングステン"
+    ],
+    "english": [
+      "tungsten"
+    ],
+    "description": [
+      "原子番号 74、元素記号 W の金属元素。単体は常温常圧では灰白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "タンタル",
+    "reading": [
+      "タンタル"
+    ],
+    "english": [
+      "tantalum"
+    ],
+    "description": [
+      "原子番号 73、元素記号 Ta の金属元素。単体は常温常圧では灰色の固体。タンタルム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "チタン",
+    "reading": [
+      "チタン"
+    ],
+    "english": [
+      "titanium"
+    ],
+    "description": [
+      "原子番号 22、元素記号 Ti の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ナトリウム",
+    "reading": [
+      "ナトリウム"
+    ],
+    "english": [
+      "sodium"
+    ],
+    "description": [
+      "原子番号 11。元素記号 Na の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。ソディウム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ニオブ",
+    "reading": [
+      "ニオブ"
+    ],
+    "english": [
+      "niobium",
+      "columbium"
+    ],
+    "description": [
+      "原子番号 41、元素記号 Nb の金属元素。単体は、常温常圧では灰白色の固体。ニオビウム。コロンビウム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ニクロム",
+    "reading": [
+      "ニクロム"
+    ],
+    "english": [],
+    "description": [
+      "ニッケルとクロムを主な成分とする合金。耐熱性があり、電気抵抗が大きい。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "ニッケル",
+    "reading": [
+      "ニッケル"
+    ],
+    "english": [
+      "nickel"
+    ],
+    "description": [
+      "原子番号 28、元素記号 Ni の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ハフニウム",
+    "reading": [
+      "ハフニウム"
+    ],
+    "english": [
+      "hafnium"
+    ],
+    "description": [
+      "原子番号 72、元素記号 Hf の金属元素。原子量178.5。化学的性質はジルコニウムに類似。単体は、常温常圧では灰色の固体。高温で酸素、水素、窒素、ハロゲンと反応する。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "バナジウム",
+    "reading": [
+      "バナジウム"
+    ],
+    "english": [
+      "vanadium"
+    ],
+    "description": [
+      "原子番号 23、元素記号 V の金属元素。単体は常温常圧では銀灰色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "バークリウム",
+    "reading": [
+      "バークリウム"
+    ],
+    "english": [
+      "berkelium"
+    ],
+    "description": [
+      "原子番号 97、元素記号 Bk の金属元素。アクチノイドに属する放射性元素。単体は、常温常圧では固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "フェルミウム",
+    "reading": [
+      "フェルミウム"
+    ],
+    "english": [
+      "fermium"
+    ],
+    "description": [
+      "原子番号 100、元素記号 Fm の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "フランシウム",
+    "reading": [
+      "フランシウム"
+    ],
+    "english": [
+      "francium"
+    ],
+    "description": [
+      "原子番号 87、元素記号 Fr の金属元素。安定同位体を持たないアルカリ金属。単体は、常温常圧では銀白色の固体と推定されている。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ブリキ",
+    "reading": [
+      "ブリキ"
+    ],
+    "english": [
+      "tinplate"
+    ],
+    "description": [
+      "薄い鉄板に錫を鍍金したもの。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ブロンズ",
+    "reading": [
+      "ブロンズ"
+    ],
+    "english": [],
+    "description": [
+      "青銅。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "プラセオジム",
+    "reading": [
+      "プラセオジム"
+    ],
+    "english": [
+      "praseodymium"
+    ],
+    "description": [
+      "原子番号 59、元素記号 Pr の金属元素。ランタノイド。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "プロトアクチニウム",
+    "reading": [
+      "プロトアクチニウム"
+    ],
+    "english": [
+      "protactinium"
+    ],
+    "description": [
+      "原子番号 91、元素記号 Pa の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。1961年には、99.9%純粋なプロトアクチニウムが作られた。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "プロメチウム",
+    "reading": [
+      "プロメチウム"
+    ],
+    "english": [
+      "promethium"
+    ],
+    "description": [
+      "原子番号 61、元素記号 Pm の金属元素。ランタノイドに属する放射性元素。単体は常温常圧では銀白色の固体。蛍光灯のグロー放電管に利用される。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ベリリウム",
+    "reading": [
+      "ベリリウム"
+    ],
+    "english": [
+      "beryllium"
+    ],
+    "description": [
+      "原子番号 4、元素記号 Be の金属元素。単体は常温常圧では銀白色の固体で、空気中では表面に酸化被膜が生成され、安定して存在できる。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ホルミウム",
+    "reading": [
+      "ホルミウム"
+    ],
+    "english": [
+      "holmium"
+    ],
+    "description": [
+      "原子番号 67、元素記号 Ho の金属元素。ランタノイド。原子量164.9。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "マンガン",
+    "reading": [
+      "マンガン"
+    ],
+    "english": [
+      "manganese"
+    ],
+    "description": [
+      "原子番号 25、元素記号 Mn の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "モリブデン",
+    "reading": [
+      "モリブデン"
+    ],
+    "english": [
+      "molybdenum"
+    ],
+    "description": [
+      "原子番号 42、元素記号 Mo の金属元素。原子量95.94。単体は、常温常圧では銀白色の固体。水鉛。モリブデナム。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ユウロピウム",
+    "reading": [
+      "ユウロピウム"
+    ],
+    "english": [
+      "europium"
+    ],
+    "description": [
+      "原子番号 63、元素記号 Eu の金属元素。ランタノイド。原子量152.0。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "リチウム",
+    "reading": [
+      "リチウム"
+    ],
+    "english": [
+      "lithium"
+    ],
+    "description": [
+      "原子番号 3、元素記号 Li の金属元素。アルカリ金属。原子量6.941。単体は、常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ルテチウム",
+    "reading": [
+      "ルテチウム"
+    ],
+    "english": [],
+    "description": [
+      "原子番号 71、元素記号 Lu の金属元素。ランタノイド。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ルテニウム",
+    "reading": [
+      "ルテニウム"
+    ],
+    "english": [
+      "ruthenium"
+    ],
+    "description": [
+      "原子番号 44、元素記号 Ru の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ロジウム",
+    "reading": [
+      "ロジウム"
+    ],
+    "english": [
+      "rhodium"
+    ],
+    "description": [
+      "原子番号 45、元素記号 Rh の金属元素。単体は常温常圧では銀白色の固体。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "ローレンシウム",
+    "reading": [
+      "ローレンシウム"
+    ],
+    "english": [
+      "lawrencium"
+    ],
+    "description": [
+      "原子番号 103、元素記号 Lr の金属元素。アクチノイドに属する放射性元素。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "亜鉛",
+    "reading": [
+      "あえん"
+    ],
+    "english": [
+      "zinc"
+    ],
+    "description": [
+      "原子番号 30、元素記号 Zn の金属元素。原子量65.38。単体は、常温常圧では銀白色の固体。ジンク。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "卑金属",
+    "reading": [
+      "ひきんぞく"
+    ],
+    "english": [
+      "base metal"
+    ],
+    "description": [
+      "空気中で酸化しやすく、水や二酸化炭素などに侵食される金属。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "水鉛",
+    "reading": [
+      "すいえん"
+    ],
+    "english": [],
+    "description": [
+      "モリブデン。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "水銀",
+    "reading": [
+      "すいぎん"
+    ],
+    "english": [
+      "mercury",
+      "hydrargyrum",
+      "quicksilver"
+    ],
+    "description": [
+      "元素記号 Hg, 原子番号 80の金属元素。常温常圧で唯一液体である金属である。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "白金",
+    "reading": [
+      "はっきん"
+    ],
+    "english": [
+      "platinum"
+    ],
+    "description": [
+      "原子番号 78、元素記号 Pt の金属元素。単体は常温常圧では銀白色の固体。プラチナ。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "硬鉛",
+    "reading": [
+      "こうえん"
+    ],
+    "english": [],
+    "description": [
+      "鉛にアンチモンを含有する合金。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "製銑",
+    "reading": [
+      "せいせん"
+    ],
+    "english": [
+      "production",
+      "of",
+      "pig iron"
+    ],
+    "description": [
+      "鉄鉱石から銑鉄を製造すること。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "製鋼",
+    "reading": [
+      "せいこう"
+    ],
+    "english": [
+      "steelmaking",
+      "iron",
+      "manufacture",
+      "steel"
+    ],
+    "description": [
+      "鋼鉄を製造すること。銑鉄や屑鉄から硫黄や燐などの不純物を取り除いて鋼を造ること。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "貴金属",
+    "reading": [
+      "ききんぞく"
+    ],
+    "english": [
+      "precious metal"
+    ],
+    "description": [
+      "貴重な金属。金や白金など、イオン化傾向が小さく腐食しにくいものをいう。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "金",
+    "reading": [
+      "きん"
+    ],
+    "english": [
+      "gold",
+      "golden"
+    ],
+    "description": [
+      "（キン）金属元素の一つ。元素記号Au, 原子番号79, 原子量196.96655。こがね、黄金。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "金属",
+    "reading": [
+      "きんぞく"
+    ],
+    "english": [
+      "metal"
+    ],
+    "description": [
+      "物質の一種で、電子が特定の構成原子に属さず、その物質内部を自由に動きまわる金属結合でできたもの。金、鉄、ニッケルなど。特徴として固体のとき研くと光沢をもつ(金属光沢)、粘り強い、電気や熱の伝導性が高い、などがある。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "金箔",
+    "reading": [
+      "きんぱく"
+    ],
+    "english": [],
+    "description": [
+      "金を紙のように薄く伸ばしたもの。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "金鑞",
+    "reading": [
+      "きんろう"
+    ],
+    "english": [],
+    "description": [
+      "金・銀・銅・亜鉛などからなる合金。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "鉛フリーはんだ",
+    "reading": [
+      "なまりふりーはんだ"
+    ],
+    "english": [],
+    "description": [
+      "環境に配慮し、鉛を配合していないはんだ。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "鉱",
+    "reading": [
+      "あらがね"
+    ],
+    "english": [],
+    "description": [
+      "(あらがね,あらかね)掘り出したままの、精錬しない金属。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "銀",
+    "reading": [
+      "ぎん"
+    ],
+    "english": [
+      "silver"
+    ],
+    "description": [
+      "金属の一種。原子番号47、元素記号Agの元素。単体は、銀白色の固体。腐食しにくい貴金属であり、古代から世界中で、装飾や貨幣として用いられてきた。しろがね。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "銅",
+    "reading": [
+      "どう"
+    ],
+    "english": [
+      "copper"
+    ],
+    "description": [
+      "（ドウ・あかがね）原子番号 29、元素記号 Cu の金属元素。単体は常温常圧では赤褐色の固体。カッパー。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "銑鉄",
+    "reading": [
+      "せんてつ"
+    ],
+    "english": [
+      "pig iron"
+    ],
+    "description": [
+      "高炉で鉄鉱石を還元してつくられた、炭素を多く含む鉄。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "銑鋼",
+    "reading": [
+      "せんこう"
+    ],
+    "english": [
+      "pig iron",
+      "and",
+      "steel"
+    ],
+    "description": [
+      "銑鉄と鋼鉄の総称。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "鋳鉄",
+    "reading": [
+      "ちゅうてつ"
+    ],
+    "english": [
+      "cast iron"
+    ],
+    "description": [
+      "2.0-3.0パーセント以上の炭素のほかに少量の珪素やマンガンなどを含む鉄の合金。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "鋼塊",
+    "reading": [
+      "こうかい"
+    ],
+    "english": [],
+    "description": [
+      "溶かした金属を鋳型に流し込み、冷やして固めた塊。鋳塊。インゴット。"
+    ],
+    "category": [
+      "金属"
+    ]
+  },
+  {
+    "term": "鋼鉄",
+    "reading": [
+      "こうてつ"
+    ],
+    "english": [
+      "steel"
+    ],
+    "description": [
+      "鍛えて強くした鉄。鋼、はがねと同義。"
+    ],
+    "category": [
+      "合金"
+    ]
+  },
+  {
+    "term": "黄銅",
+    "reading": [
+      "おうどう"
+    ],
+    "english": [
+      "brass"
+    ],
+    "description": [
+      "銅と亜鉛の合金。真鍮ともいう。"
+    ],
+    "category": [
+      "合金"
+    ]
+  }
+]
