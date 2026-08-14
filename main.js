@@ -11,6 +11,7 @@ const state = {
   totalTime: 0,
   dataName: null,
   inputType: null,
+  wordId: 0,
 };
 
 function escapeHtml(value) {
@@ -27,9 +28,9 @@ function formatSpeed(value) {
 }
 
 function getInputWord(word) {
-  if (Array.isArray(word.spell) && word.spell.length > 0 && word.spell[0]) {
+  if (Array.isArray(word.english) && word.english.length > 0 && word.english[0]) {
     return {
-      text: String(word.spell[0]),
+      text: String(word.english[0]),
       type: "english",
     };
   }
@@ -77,8 +78,6 @@ async function showHome() {
   let files;
 
   try {
-    // A small manifest is necessary because browsers cannot enumerate
-    // arbitrary files in a static directory.
     files = await loadJson("./json/index.json");
   } catch (error) {
     app.innerHTML = `
@@ -122,7 +121,13 @@ function renderGame() {
   app.innerHTML = `
     <section class="game">
       <div class="top-row">
-        <a class="panel home-button" href="./">⌂</a>
+        <a class="panel home-button" href="./" aria-label="Home">
+          <svg viewBox="0 0 64 64" aria-hidden="true">
+            <path d="M8 30 L32 8 L56 30" />
+            <path d="M14 28 V56 H50 V28" />
+            <path d="M25 56 V38 H39 V56" />
+          </svg>
+        </a>
 
         <div class="panel stat average">
           <div class="stat-value">${formatSpeed(state.averageSpeed)}</div>
@@ -135,50 +140,18 @@ function renderGame() {
         </div>
       </div>
 
-      <div class="word-row ${target.type === "english" ? "active" : ""}"
-           id="english-row">
+      <div class="word-row ${target.type === "english" ? "active" : ""}">
         ${
           target.type === "english"
-            ? `
-              <span class="typing-display" id="typing-display">
-                ${renderTarget(target.text, state.input)}
-                <input
-                  id="typing-input"
-                  class="typing-input"
-                  type="text"
-                  inputmode="text"
-                  autocomplete="off"
-                  autocorrect="off"
-                  autocapitalize="off"
-                  spellcheck="false"
-                  value="${escapeHtml(state.input)}"
-                >
-              </span>
-            `
-            : escapeHtml(word.spell?.[0] ?? "")
+            ? createTypingDisplay(target.text)
+            : escapeHtml(word.english?.[0] ?? "")
         }
       </div>
 
-      <div class="word-row reading-row ${target.type === "reading" ? "active" : ""}"
-           id="reading-row">
+      <div class="word-row reading-row ${target.type === "reading" ? "active" : ""}">
         ${
           target.type === "reading"
-            ? `
-              <span class="typing-display" id="typing-display">
-                ${renderTarget(target.text, state.input)}
-                <input
-                  id="typing-input"
-                  class="typing-input"
-                  type="text"
-                  inputmode="text"
-                  autocomplete="off"
-                  autocorrect="off"
-                  autocapitalize="none"
-                  spellcheck="false"
-                  value="${escapeHtml(state.input)}"
-                >
-              </span>
-            `
+            ? createTypingDisplay(target.text)
             : escapeHtml(word.reading ?? "")
         }
       </div>
@@ -192,10 +165,38 @@ function renderGame() {
   `;
 
   const input = document.querySelector("#typing-input");
-  input.focus();
+
+  // Do not restore the previous word's value through HTML/browser state.
+  // The new word always starts with a genuinely empty input element.
+  input.value = "";
+  state.input = "";
 
   input.addEventListener("input", onInput);
   input.addEventListener("keydown", onKeyDown);
+
+  // Focus after the DOM has been replaced.
+  requestAnimationFrame(() => {
+    input.focus();
+    input.value = "";
+  });
+}
+
+function createTypingDisplay(target) {
+  return `
+    <span class="typing-display" id="typing-display">
+      ${renderTarget(target, "")}
+      <input
+        id="typing-input"
+        class="typing-input"
+        type="text"
+        inputmode="text"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+      >
+    </span>
+  `;
 }
 
 function onInput(event) {
@@ -212,6 +213,7 @@ function updateTypingDisplay() {
   if (!display) return;
 
   const target = getInputWord(state.current).text;
+
   display.querySelectorAll(".char").forEach((span, i) => {
     span.className = "char";
 
@@ -230,7 +232,6 @@ function onKeyDown(event) {
 
   const target = getInputWord(state.current).text;
 
-  // Enter only advances after an exact match.
   if (state.input !== target) return;
 
   finishWord();
@@ -259,6 +260,9 @@ function nextWord() {
 
   const index = Math.floor(Math.random() * state.words.length);
   state.current = state.words[index];
+
+  // Reset all per-word state before replacing the DOM.
+  state.wordId += 1;
   state.input = "";
   state.startedAt = null;
 
@@ -271,7 +275,6 @@ async function startGame(dataName) {
   try {
     const data = await loadJson(`./json/${encodeURIComponent(dataName)}.json`);
 
-    // Support either a raw array or { words: [...] }.
     state.words = Array.isArray(data) ? data : data.words;
 
     if (!Array.isArray(state.words) || state.words.length === 0) {

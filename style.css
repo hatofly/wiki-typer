@@ -19,9 +19,8 @@ html, body {
   min-height: 100%;
   background: var(--bg);
   color: var(--fg);
-  /* font-family: Arial, "Noto Sans JP", sans-serif; */
-  font-family: "WDXL Lubrifont JP N", sans-serif;
-
+  font-family: "Noto Sans JP", sans-serif;
+  /* font-family: "WDXL Lubrifont JP N", sans-serif; */
 }
 
 body {
@@ -74,7 +73,7 @@ button, input {
 .game {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 18px;
+  gap: 12px;
 }
 
 .top-row {
@@ -90,31 +89,55 @@ button, input {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px 16px;
+  /* padding: 1px 2px; */
   background: var(--panel);
 }
 
 .home-button {
   color: var(--fg);
   text-decoration: none;
-  font-size: 32px;
+  font-size: 0; /* Prevent text/icon font fallback from affecting size. */
+  line-height: 0;
+}
+
+.home-button svg {
+  display: block;
+  width: 54px;
+  height: 54px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 5;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+}
+
+.home-button svg path:nth-child(2) {
+  fill: currentColor;
+  stroke: none;
+}
+
+.home-button svg path:nth-child(3) {
+  fill: var(--bg);
+  stroke: none;
 }
 
 .stat {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  text-align: center;
+  flex-direction: row;
+  gap: 12px;
+  text-align: left;
+  white-space: nowrap;
+  font-family: "WDXL Lubrifont JP N", sans-serif;
 }
 
 .stat-value {
-  font-size: 38px;
+  font-size: 50px;
   line-height: 1;
 }
 
 .stat-label {
   color: var(--fg);
-  font-size: 18px;
+  font-size: 22px;
+  line-height: 1.05;
 }
 
 .average .stat-value {
@@ -132,60 +155,75 @@ button, input {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px 24px;
+  padding: 8px 24px;
   font-size: clamp(28px, 5vw, 52px);
+  line-height: 1.2;
   text-align: center;
+  font-family: "WDXL Lubrifont JP N", sans-serif;
 }
 
 .word-row.active {
   border-color: var(--cyan);
+  border-width: 10px;
 }
 
 .reading-row {
-  font-weight: 700;
+  font-weight: 200;
 }
 
 .term {
-  margin-top: 28px;
+  margin-top: 8px;
   text-align: center;
   font-size: clamp(34px, 6vw, 60px);
   font-weight: 700;
+  line-height: 1.2;
 }
 
 .description {
-  margin-top: 48px;
-  text-align: center;
+  margin-top: 1px;
+  display: flex;
+  align-items: flex-start;
   font-size: clamp(22px, 3vw, 36px);
-  line-height: 1.7;
+  line-height: 1.1;
 }
 
 /*
- * Typing display:
- * The target text is underneath the transparent input.
- * Each target character is rendered separately so that it can
- * be gray/green/red in real time.
+ * The target text is visible underneath a completely transparent input.
+ * The input is exactly the size of the displayed target, so it does not
+ * create a large, misaligned visual input box.
  */
 .typing-display {
   position: relative;
-  display: inline-block;
+  display: inline-flex;       /* inline-block の代わりにこれにする */
+  justify-content: center;   /* 左右の中央揃え */
+  align-items: center;    
+  width: fit-content;
+  max-width: 100%;
+  min-height: 1.2em;
+  max-height: 2.2em;
+  /* height: 1px; */
+  line-height: 1.2;
   white-space: pre-wrap;
   overflow-wrap: anywhere;
-  min-height: 1.2em;
 }
 
 .typing-input {
   position: absolute;
   inset: 0;
+  display: block;
   width: 100%;
   height: 100%;
-  opacity: 0;
-  cursor: text;
+  margin: 0;
+  padding: 0;
   border: 0;
   outline: 0;
+  border-radius: 0;
+  appearance: none;
+  -webkit-appearance: none;
   background: transparent;
-  color: #ffffff80;
-  /* color: transparent; */
-  /* caret-color: transparent; */
+  color: transparent;
+  caret-color: transparent;
+  opacity: 0;
 }
 
 .char {
@@ -201,6 +239,7 @@ button, input {
 }
 
 /* Keep the game usable on phones. */
+
 @media (max-width: 600px) {
   #app {
     width: min(100% - 16px, 900px);
@@ -219,8 +258,13 @@ button, input {
     padding: 8px;
   }
 
-  .home-button {
-    font-size: 26px;
+  .home-button svg {
+    width: 42px;
+    height: 42px;
+  }
+
+  .stat {
+    gap: 6px;
   }
 
   .stat-value {
@@ -234,15 +278,15 @@ button, input {
   .word-row {
     border-width: 3px;
     border-radius: 10px;
-    min-height: 66px;
-    padding: 8px 12px;
+    /* min-height: 66px; */
+    padding: 6px 12px;
   }
 
   .term {
-    margin-top: 18px;
+    margin-top: 6px;
   }
 
   .description {
-    margin-top: 28px;
+    margin-top: 1px;
   }
 }
