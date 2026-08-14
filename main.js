@@ -78,7 +78,7 @@ async function showHome() {
   let files;
 
   try {
-    files = await loadJson("./json/index.json");
+    files = await loadJson("json/index.json");
   } catch (error) {
     app.innerHTML = `
       <section class="home">
@@ -273,7 +273,7 @@ async function startGame(dataName) {
   state.dataName = dataName;
 
   try {
-    const data = await loadJson(`./json/${encodeURIComponent(dataName)}.json`);
+    const data = await loadJson(`json/${encodeURIComponent(dataName)}.json`);
 
     state.words = Array.isArray(data) ? data : data.words;
 
