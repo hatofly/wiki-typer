@@ -151,12 +151,12 @@ button, input {
 .word-row {
   border: 4px solid var(--border);
   border-radius: 14px;
-  min-height: 78px;
+  /* min-height: 60px; */
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 8px 24px;
-  font-size: clamp(28px, 5vw, 52px);
+  font-size: clamp(14px, 2.5vw, 26px);
   line-height: 1.2;
   text-align: center;
   font-family: "WDXL Lubrifont JP N", sans-serif;
@@ -165,6 +165,7 @@ button, input {
 .word-row.active {
   border-color: var(--cyan);
   border-width: 10px;
+  font-size: clamp(21px, 3.75vw, 39px);
 }
 
 .reading-row {
@@ -174,7 +175,7 @@ button, input {
 .term {
   margin-top: 8px;
   text-align: center;
-  font-size: clamp(34px, 6vw, 60px);
+  font-size: clamp(17px, 3vw, 30px);
   font-weight: 700;
   line-height: 1.2;
 }
@@ -183,7 +184,7 @@ button, input {
   margin-top: 1px;
   display: flex;
   align-items: flex-start;
-  font-size: clamp(22px, 3vw, 36px);
+  font-size: clamp(16.5px, 2.25vw, 27px);
   line-height: 1.1;
 }
 
@@ -252,15 +253,15 @@ button, input {
   }
 
   .panel {
-    min-height: 62px;
+    min-height: 30px;
     border-width: 3px;
     border-radius: 10px;
-    padding: 8px;
+    padding: 4px;
   }
 
   .home-button svg {
-    width: 42px;
-    height: 42px;
+    width: 26px;
+    height: 26px;
   }
 
   .stat {
