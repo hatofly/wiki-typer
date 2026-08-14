@@ -78,12 +78,12 @@ async function showHome() {
   let files;
 
   try {
-    files = await loadJson("json/index.json");
+    files = await loadJson("JSON/index.json");
   } catch (error) {
     app.innerHTML = `
       <section class="home">
         <h1>Wiki Typer</h1>
-        <p>json/index.json を読み込めませんでした。</p>
+        <p>JSON/index.json を読み込めませんでした。</p>
         <p>${escapeHtml(error.message)}</p>
       </section>
     `;
