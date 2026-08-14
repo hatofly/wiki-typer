@@ -273,7 +273,7 @@ async function startGame(dataName) {
   state.dataName = dataName;
 
   try {
-    const data = await loadJson(`json/${encodeURIComponent(dataName)}.json`);
+    const data = await loadJson(`JSON/${encodeURIComponent(dataName)}.json`);
 
     state.words = Array.isArray(data) ? data : data.words;
 
