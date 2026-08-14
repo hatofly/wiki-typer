@@ -15,7 +15,7 @@ JSON ディレクトリ内の *.json ファイル(それぞれ下記形式のオ
 使い方:
     python json_to_csv.py [JSONディレクトリ] [CSVディレクトリ]
 
-引数を省略した場合はカレントディレクトリ直下の "JSON" と "CSV" を使用する。
+引数を省略した場合はカレントディレクトリ直下の "JSON_補正なし" と "CSV_補正なし" を使用する。
 """
 
 import csv
@@ -58,8 +58,8 @@ def convert_file(json_path: Path, csv_path: Path):
 
 
 def main():
-    json_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("JSON")
-    csv_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("CSV")
+    json_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("JSON_補正なし")
+    csv_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("CSV_補正なし")
 
     if not json_dir.is_dir():
         print(f"エラー: JSONディレクトリが見つかりません: {json_dir}", file=sys.stderr)
