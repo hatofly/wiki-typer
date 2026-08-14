@@ -1,0 +1,39 @@
+
+[
+  {
+    "file": "physics.json",
+    "title": "Physics"
+  },
+  {
+    "file": "biochemistry.json",
+    "title": "Biochemistry"
+  },
+  {
+    "file": "economics.json",
+    "title": "Economics"
+  },
+  {
+    "file": "genetics.json",
+    "title": "Genetics"
+  },
+  {
+    "file": "informatics.json",
+    "title": "Informatics"
+  },
+  {
+    "file": "material_science.json",
+    "title": "Material Science"
+  },
+  {
+    "file": "metal.json",
+    "title": "Metal"
+  },
+  {
+    "file": "neuroscience.json",
+    "title": "Neuroscience"
+  },
+  {
+    "file": "politics.json",
+    "title": "Politics"
+  }
+]
